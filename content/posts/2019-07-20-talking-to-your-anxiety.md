@@ -1,13 +1,8 @@
----
-title: Talking to Your Anxiety
-author: ziahassan
-type: post
-date: 2019-07-20T13:26:22+00:00
-url: /talking-to-your-anxiety/
-categories:
-  - Uncategorized
++++
+title = "Talking To Your Anxiety"
+date = 2019-07-20
++++
 
----
 One of the most important books I&#8217;ve read in the last few years has been a book called Stopping the Noise in Your Head by Reid Wilson. 
 
 The book is aimed at people who have OCD, but is useful even if you have run of the mill anxiety. 

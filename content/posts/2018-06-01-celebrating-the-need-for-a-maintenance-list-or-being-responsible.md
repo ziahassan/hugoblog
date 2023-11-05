@@ -1,13 +1,8 @@
----
-title: Celebrating the Need for a Maintenance List (or, Being Responsible)
-author: ziahassan
-type: post
-date: 2018-06-01T03:29:46+00:00
-url: /celebrating-the-need-for-a-maintenance-list-or-being-responsible/
-categories:
-  - Uncategorized
++++
+title = "Celebrating The Need For A Maintenance List Or Being Responsible"
+date = 2018-06-01
++++
 
----
 I have a very intricate to-do list.
 
 It’s separated into multiple lists in the same database, each with their own project subdivision. The metadata on these task items also indicate a context, and the software I use allows me to filter tasks (the [software][1] refers to this as a ‘perspective’) by context and project. This allows me to really slice up my list and shorten it only to what can be accomplished during my work time, rather than be threatened by all of the things I _can’t_ do at the moment. The metadata also contains an indication of how often a task should reoccur (and also an indication of whether recurrence is based on a particular day of the week, or relative to the last time the item was completed).

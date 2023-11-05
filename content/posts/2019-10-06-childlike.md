@@ -1,13 +1,13 @@
----
-title: Childlike
-author: ziahassan
-type: post
-date: 2019-10-07T01:26:40+00:00
-url: /childlike/
-categories:
-  - Uncategorized
++++
+title = "Childlike"
+date = 2019-10-06
++++
 
----
++++
+title = "10"
+date = 2019
++++
+
 Most adults spend their time trying to get back to the state they were in as children, which is fascinating. Through all of our yoga, mediation, walks in the woods, psychedelics… we’re trying to experience the feeling of being in pure amazement, like we’re seeing everything as if it’s the first time. Small children have zero issues feeling this way; it’s their natural state. 
 
 When I watch my son play, I often imagine what might be going through his mind. He’s not anxious yet because he doesn’t understand how the world works. So he just sets off every day and expresses himself. He learns to walk, not because he believes he’ll get a reward, not because he can post to Facebook about his achievements, but because he just _really wants to walk._

@@ -1,13 +1,8 @@
----
-title: A Soul Has No Beat
-author: ziahassan
-type: post
-date: 2019-01-27T03:55:47+00:00
-url: /a-soul-has-no-beat/
-categories:
-  - Uncategorized
++++
+title = "A Soul Has No Beat"
+date = 2019-01-26
++++
 
----
 The thing about a calling is that it&#8217;s really easy to ignore. There are people that go their whole lives without hearing it, despite how _loud_ it can call. 
 
 I remember the urge, when I was three, to tell people how to do things. Perhaps it was a bit bossy, but the fact that I&#8217;m now an educator isn&#8217;t surprising in retrospect. And the fact that even before I was an educator, teaching was the part of my consulting job I connected to the most. 

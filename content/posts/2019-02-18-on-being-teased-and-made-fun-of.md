@@ -1,13 +1,13 @@
----
-title: On Being Teased and Made Fun of
-author: ziahassan
-type: post
-date: 2019-02-18T14:27:30+00:00
-url: /on-being-teased-and-made-fun-of/
-categories:
-  - Uncategorized
++++
+title = "On Being Teased And Made Fun Of"
+date = 2019-02-18
++++
 
----
++++
+title = "02"
+date = 2019
++++
+
 On my first day of kindergarten, I remember mindlessly singing Under the Sea from the little mermaid and getting destroyed by my table mates about it. I cried, the teacher intervened, and eventually those boys became my best friends growing up. But a feature of our relationship was them teasing me incessantly.
 
 And as I grew up, it kept happening. My cousins, slightly older than me, made fun of me to the point at which I&#8217;d dread them coming to visit and would also at once be excited. My friends in 7th grade made fun of my lack of athletic ability, though this was also the year I really discovered singing, which counteracted the depression over a lack of sportsmanship.

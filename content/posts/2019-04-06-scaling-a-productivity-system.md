@@ -1,13 +1,8 @@
----
-title: Scaling a Productivity System
-author: ziahassan
-type: post
-date: 2019-04-06T12:04:59+00:00
-url: /scaling-a-productivity-system/
-categories:
-  - Uncategorized
++++
+title = "Scaling A Productivity System"
+date = 2019-04-06
++++
 
----
 I&#8217;m somewhat of a list ninja. I can create specific lists for any corner of my life and I have systems in place to execute on those lists properly. I&#8217;m always learning, but I&#8217;ve also _been_ learning for over a decade. 
 
 Someone on a subreddit asked about how to start with todo lists. It made me think back to my start with to do lists. Back in 2006, when I realized I just wasn&#8217;t organized enough naturally, I turned to the Getting Things Done book to try and get myself together. 

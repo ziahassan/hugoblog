@@ -1,13 +1,13 @@
----
-title: Playing Tennis with my Mind
-author: ziahassan
-type: post
-date: 2019-08-14T14:18:52+00:00
-url: /playing-tennis-with-my-brain/
-categories:
-  - Uncategorized
++++
+title = "Playing Tennis With My Brain"
+date = 2019-08-14
++++
 
----
++++
+title = "08"
+date = 2019
++++
+
 Mindfulness, meditation, thought-naming… whatever you want to call it, is a little bit like playing tennis with your mind.
 
 In a world without mindfulness (which I live in about 99% of the time), It’s as if my mind is constantly serving me tennis balls. I let the balls hit my body, and then I cry for a while over the pain. Being pelted with tennis balls for most of the week means being tired and worn out on the weekends. It means staying inside and watching Netflix instead of being out on the court.

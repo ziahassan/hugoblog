@@ -1,15 +1,12 @@
----
-title: i can’t believe i’m doing this.
-author: ziahassan
-type: post
-date: 2002-01-12T18:50:58+00:00
-draft: true
-private: true
-url: /i-cant-believe-im-doing-this/
-categories:
-  - Uncategorized
++++
+title = "I Cant Believe Im Doing This"
+date = 2002-01-12
++++
 
----
++++
+title = "I can't believe I'm doing this"
+date = 2002-01-12
++++
 yup just what the subject says. I cannot believe i'm doing this. this is crazy.
 
 at first I was totally opposed to the idea of having the events in my life posted in an online journal. but I needed something, something to rant to and tell all my problems with the possibility of losing them as a friend or something.

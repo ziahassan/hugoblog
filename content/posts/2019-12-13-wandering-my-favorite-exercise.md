@@ -1,11 +1,13 @@
----
-title: Wandering, My Favorite Exercise
-author: ziahassan
-type: post
-date: 2019-12-13T21:27:58+00:00
-url: /wandering-my-favorite-exercise/
++++
+title = "Wandering My Favorite Exercise"
+date = 2019-12-13
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 I’ve never been much for “going on a walk.” The idea seemed to trivial to me when I was young. My parents would go on a walk in loops around our neighborhood, and while I’d join them sometimes, I just _didn’t get it._
 
 But it just wasn’t presented to me properly. “Going for a walk” is uninspiring, but _wandering_ is absolutely enlightening. 
@@ -18,4 +20,4 @@ Or a little meditation garden, with fountains.
 
 Or a little path with a bridge nearby.
 
-These are really the gifts that the exploration gives me. The cardiovascular exercise is of course beneficial too. But if my walks were just about raising my heart rate, I’d stop doing them sooner than later. 
+These are really the gifts that the exploration gives me. The cardiovascular exercise is of course beneficial too. But if my walks were just about raising my heart rate, I’d stop doing them sooner than later.

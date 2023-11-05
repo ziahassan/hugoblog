@@ -1,13 +1,8 @@
----
-title: Dreams are Rehearsals
-author: ziahassan
-type: post
-date: 2018-11-09T16:55:43+00:00
-url: /dreams-are-rehearsals/
-categories:
-  - Uncategorized
++++
+title = "Dreams Are Rehearsals"
+date = 2018-11-09
++++
 
----
 I don&#8217;t always have dreams that I remember. When I do, I mark them down in a dream journal I keep in an app called Day One. This is also where I keep a regular journal which is sort of a log of my life. 
 
 What&#8217;s nice about Day One is that you can line these journals up and see where your dream events and life events intersect. 

@@ -1,23 +1,8 @@
----
-title: frog on wall.
-author: ziahassan
-type: post
-date: 2006-06-20T06:06:06+00:00
-excerpt: It made me really inspired to compose something from the eyes of the frog on the wall, who saw the whole thing. So, the next piece in the Still Life record.
-draft: true
-private: true
-url: /frog-on-wall/
-enclosure:
-  - |
-    |
-        http://nw01.american.edu/~zh1873a/Frog%20on%20Wall.mp3
-        4003536
-        audio/mpeg
-        
-categories:
-  - Uncategorized
++++
+title = "Frog On Wall"
+date = 2006-06-20
++++
 
----
 Tonight, Kellyn, Andy, and I sat outside on a really clear night, and over the course of their visit the clouds lowered and there was strong fog everywhere. It made me really inspired to compose something from the eyes of the frog on the wall, who saw the whole thing. So, the next piece in the Still Life record. There's a bit of silence at the beginning and end because I'm tired and haven't been able to edit it. This picture is from a flickr page.
 
 <img decoding="async" loading="lazy" src="https://i2.wp.com/static.flickr.com/32/45464236_56b7e71a1d.jpg?resize=500%2C375" height="375" width="500" data-recalc-dims="1" /> 

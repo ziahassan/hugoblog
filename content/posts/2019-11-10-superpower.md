@@ -1,13 +1,13 @@
----
-title: Superpower
-author: ziahassan
-type: post
-date: 2019-11-10T13:38:15+00:00
-url: /superpower/
-categories:
-  - Uncategorized
++++
+title = "Superpower"
+date = 2019-11-10
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 The _super_ part of superpower means power that others do not have.
 
 We, the collective consciousness, have infinite power between us. It&#8217;s essential to know what your superpower is, what you contribute to the universe.

@@ -1,13 +1,13 @@
----
-title: Who or What is Noyes?
-author: ziahassan
-type: post
-date: 2019-04-22T14:34:19+00:00
-url: /who-or-what-is-noyes/
-categories:
-  - Uncategorized
++++
+title = "Who Or What Is Noyes"
+date = 2019-04-22
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 There’s a street near me named Noyes. 
 
 When I was a child, I thought that this name was pronounced “no yes,” which I found funny and contradictory. What was this street name that was both negative and affirmative simultaneously? It sounded as if someone was changing their mind and it was captured in the form of a street.

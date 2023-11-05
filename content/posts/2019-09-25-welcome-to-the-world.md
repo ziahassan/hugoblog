@@ -1,13 +1,8 @@
----
-title: Welcome to the World
-author: ziahassan
-type: post
-date: 2019-09-26T02:25:18+00:00
-url: /welcome-to-the-world/
-categories:
-  - Uncategorized
++++
+title = "Welcome To The World"
+date = 2019-09-25
++++
 
----
 How we welcome new people to the world is important. After all, we were once greeted for the first time and how it happened mattered.
 
 The first thing I did with my son when we arrived home from the hospital was giving him a tour of his house. 

@@ -1,15 +1,13 @@
----
-title: Beautifully Flawed
-author: ziahassan
-type: post
-date: 2019-11-05T15:58:08+00:00
-url: /beautifully-flawed/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "Beautifully Flawed"
+date = 2019-11-05
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 &#8220;You&#8217;re beautifully flawed,&#8221; someone once said to me.
 
 But is there any type of flaw that isn&#8217;t beautiful? Is there such thing as an ugly flaw?

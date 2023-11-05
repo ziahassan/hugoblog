@@ -1,13 +1,13 @@
----
-title: An Interesting Feature of Reddit
-author: ziahassan
-type: post
-date: 2019-10-10T19:41:20+00:00
-url: /an-interesting-feature-of-reddit/
-categories:
-  - Uncategorized
++++
+title = "An Interesting Feature Of Reddit"
+date = 2019-10-10
++++
 
----
++++
+title = "10"
+date = 2019
++++
+
 Facebook, Twitter, Instagram… all of them have “like” buttons (and some have more). But none of them have “dislike” buttons. There are anger buttons, sadness buttons… but no dislike. No thumbs down.
 
 There are good reasons for this, though I don’t know if these are the reasons that there aren’t dislike buttons. For instance, seeing a dislike number next to your posts might cause self-consciousness, and might cause you to post less, which is the opposite of what social media sites want.

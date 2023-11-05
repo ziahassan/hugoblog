@@ -1,13 +1,13 @@
----
-title: When One Thing Leads to Another
-author: ziahassan
-type: post
-date: 2019-03-05T17:27:33+00:00
-url: /when-one-thing-leads-to-another/
-categories:
-  - Uncategorized
++++
+title = "When One Thing Leads To Another"
+date = 2019-03-05
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 One thing always leads to another. It&#8217;s what we teach children in 3rd grade with cause and effect. It&#8217;s what we teach adults through movies and TV. 
 
 It&#8217;s a concept relevant to all industries. A doctor cares about one thing leading to another, and so does the economist. A parent cares about one thing leading to another and so does the bus driver. 

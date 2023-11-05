@@ -1,13 +1,13 @@
----
-title: Five Stars
-author: ziahassan
-type: post
-date: 2019-01-01T16:50:00+00:00
-url: /five-stars/
-categories:
-  - Uncategorized
++++
+title = "Five Stars"
+date = 2019-01-01
++++
 
----
++++
+title = "01"
+date = 2019
++++
+
 So many services use the five star review. It’s an interesting way of judging work that you’ve consumed, and also an interesting way to compare work that you are thinking about consuming. 
 
 I used to look up one-star reviews of classic kids books, ones that are accepted as amazing, just to see what people would say in a one-star review of, say, _Goodnight Moon_.

@@ -1,14 +1,13 @@
----
-title: The Difference Between a Habit and a Task
-author: ziahassan
-type: post
-date: 2019-07-24T23:34:36+00:00
-url: /the-difference-between-a-habit-and-a-task/
-categories:
-  - Process
-  - Uncategorized
++++
+title = "The Difference Between A Habit And A Task"
+date = 2019-07-24
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 Here&#8217;s a helpful distinction. When is something a task, and when is it a practicing a habit?
 
 The first thing to understand is _every small action we take is a task_. From brushing our teeth, to taking out the trash, to writing a thesis&#8230; all are either a task or composed of tasks. 

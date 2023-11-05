@@ -1,13 +1,8 @@
----
-title: The Dangers of Turning Classic Books into Classic Movies
-author: ziahassan
-type: post
-date: 2019-05-02T11:49:00+00:00
-url: /the-dangers-of-turning-classic-books-into-classic-movies/
-categories:
-  - Uncategorized
++++
+title = "The Dangers Of Turning Classic Books Into Classic Movies"
+date = 2019-05-02
++++
 
----
 I started reading the Harry Potter novels when I was about 14. The movies came out soon after and I vowed to wait until I&#8217;d finished the books before watching the movies. 
 
 Trouble is, those images of the actors from the movies were everywhere. And due to priorities, there were years that went by between the book and movie releases and when I actually read and watched them. 

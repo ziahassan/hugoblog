@@ -1,14 +1,13 @@
----
-title: It’s Always Critical to Be Yourself
-author: ziahassan
-type: post
-date: 2020-03-21T00:01:37+00:00
-url: /its-always-critical-to-be-yourself/
-categories:
-  - social
-  - spirituality
++++
+title = "Its Always Critical To Be Yourself"
+date = 2020-03-20
++++
 
----
++++
+title = "03"
+date = 2020
++++
+
 Consider that we all come prepackaged with a unique set of DNA. The instructions that tell us who we are (some might call nature) varies from person to person. And so does our personal experiences (what some might call nurture).
 
 Knowing these two facts, it’s _crucial _that we all continue to be ourselves. We must allow our unique values and beliefs to inform our choices (and if you don’t know your values or beliefs, no better time to start thinking about them). 

@@ -1,13 +1,8 @@
----
-title: Stillness and Business, a Continuum
-author: ziahassan
-type: post
-date: 2020-06-15T23:29:08+00:00
-url: /stillness-and-business-a-continuum/
-categories:
-  - Uncategorized
++++
+title = "Stillness And Business A Continuum"
+date = 2020-06-15
++++
 
----
 Here is a continuum in which you have business (busy-ness) on one side and stillness on the other.
 
 For so long, I was focused on the business part, and from looking at my various media feeds, it seems that the algorithms want to feed me this content as well.

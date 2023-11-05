@@ -1,15 +1,8 @@
----
-title: mother’s day.
-author: ziahassan
-type: post
-date: 2002-05-12T19:27:30+00:00
-draft: true
-private: true
-url: /mothers-day/
-categories:
-  - Uncategorized
++++
+title = "Mothers Day"
+date = 2002-05-12
++++
 
----
 Wow. It amazes me how crazy everybody is. People give people credit for the craziest shit sometimes. Individualism baby, that's what I'm talkin about.
 
 I keep forgetting to get rid of the comment feature on my entries. And then when I get all these posts about shit, I can't help but read em. I'm always nervous some insecure asshole's gonna type shit to me cuz they dont like me or something. And then I'm gonna be thinkin about it forever.

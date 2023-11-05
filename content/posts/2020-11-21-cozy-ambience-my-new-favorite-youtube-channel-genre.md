@@ -1,11 +1,8 @@
----
-title: Cozy Ambience, My New Favorite YouTube Channel/Genre
-author: ziahassan
-type: post
-date: 2020-11-22T00:04:22+00:00
-url: /cozy-ambience-my-new-favorite-youtube-channel-genre/
++++
+title = "Cozy Ambience My New Favorite Youtube Channel Genre"
+date = 2020-11-21
++++
 
----
 I’m watching a [video][1] right now called Christmas From Another Room, which is not really even much of a video as it is a window into a beautiful calming scene.
 
 In the video, you end up watching (?) 10 hours of snow falling outside of a very festive looking house. A very muted, almost distant soundtrack of beautiful Christmas music plays. It’s the type of feeling you might get in a shopping mall, or in the lobby of a corporate office building.

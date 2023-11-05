@@ -1,13 +1,8 @@
----
-title: Good Condition
-author: ziahassan
-type: post
-date: 2019-02-09T15:11:48+00:00
-url: /good-condition/
-categories:
-  - Uncategorized
++++
+title = "Good Condition"
+date = 2019-02-09
++++
 
----
 What do you think of when I say the word nourishment?
 
 Food, perhaps. Particularly food that is healthy, contains vitamins, etc.

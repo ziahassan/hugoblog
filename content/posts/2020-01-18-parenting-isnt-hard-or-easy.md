@@ -1,15 +1,8 @@
----
-title: Parenting Isn’t Hard (or Easy)
-author: ziahassan
-type: post
-date: 2020-01-18T15:34:06+00:00
-url: /parenting-isnt-hard-or-easy/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "Parenting Isnt Hard Or Easy"
+date = 2020-01-18
++++
 
----
 Talk to anyone who has had a kid, or someone who is close to someone who has had a kid and you’ll hear this phrase:&nbsp;_parenting is hard._
 
 It’s an understandable response. Especially for mothers who are learning how to breastfeed and pump, among so many other new skills. For fathers who are trying to figure out how to nurture in their own way. For support partners. For grandparents who are learning to navigate the dichotomy of unsolicited advice and teaching.

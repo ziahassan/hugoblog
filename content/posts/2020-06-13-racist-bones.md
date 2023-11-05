@@ -1,13 +1,8 @@
----
-title: Racist Bones
-author: ziahassan
-type: post
-date: 2020-06-13T23:46:37+00:00
-url: /racist-bones/
-categories:
-  - Uncategorized
++++
+title = "Racist Bones"
+date = 2020-06-13
++++
 
----
 After one of the many stories of horrific police brutality against black people, I was on a business trip in Boston interacting with someone I barely knew.
 
 “After this happened, I asked my boss if he thought I was racist,” he told me. “He told me I don’t have a racist bone inside my body.”

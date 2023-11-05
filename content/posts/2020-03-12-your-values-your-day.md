@@ -1,11 +1,8 @@
----
-title: Your Values; Your Day
-author: ziahassan
-type: post
-date: 2020-03-12T21:01:33+00:00
-url: /your-values-your-day/
++++
+title = "Your Values Your Day"
+date = 2020-03-12
++++
 
----
 At a workshop once, the participants were asked to write out their values, the things that were important to them in life. Among the responses, people said their family, friends, art, and their passions were among the most valued things their life.
 
 Then they were asked to write what they do with most of their days. Among these responses were “email, scrolling social media, having meetings…” etc. 

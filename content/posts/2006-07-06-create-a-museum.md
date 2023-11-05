@@ -1,15 +1,8 @@
----
-title: create a museum.
-author: ziahassan
-type: post
-date: 2006-07-06T19:13:40+00:00
-draft: true
-private: true
-url: /create-a-museum/
-categories:
-  - Uncategorized
++++
+title = "Create A Museum"
+date = 2006-07-06
++++
 
----
 Idea: collect artifacts from your lifetime and make a museum. You can make your life an exhibit, and the rest of your family can do the same, creating a museum of family culture. A living, breathing, interactive space for people to learn about your history.
 
 Mine would have: strollers, shoes, my fisher-price phonograph, my trampoline, my bunk bed, the radial nerve splint, some clothes that were staples, Mr. Peanut, blue bear, that Orbitz drink, my old boombox. Each would have a tag describing what nook that particular item fit into, why it was important.

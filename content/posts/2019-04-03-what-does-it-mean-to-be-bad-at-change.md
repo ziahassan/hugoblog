@@ -1,13 +1,8 @@
----
-title: What Does it Mean to be Bad at Change?
-author: ziahassan
-type: post
-date: 2019-04-03T23:29:53+00:00
-url: /what-does-it-mean-to-be-bad-at-change/
-categories:
-  - Uncategorized
++++
+title = "What Does It Mean To Be Bad At Change"
+date = 2019-04-03
++++
 
----
 Right before my son was born, a friend of mine told me that I am “bad at change.” 
 
 It isn’t true. The friend might say that I am hiding from this fact, but I am a better judge of myself than he is.

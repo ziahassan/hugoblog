@@ -1,13 +1,8 @@
----
-title: Choose Your Own Adventure
-author: ziahassan
-type: post
-date: 2019-08-19T11:22:55+00:00
-url: /choose-your-own-adventure/
-categories:
-  - Uncategorized
++++
+title = "Choose Your Own Adventure"
+date = 2019-08-19
++++
 
----
 The Choose Your Own Adventure series isn&#8217;t as popular these days as it was when I was a kid. 
 
 The library used to be flooded with these books. You could make choices about the plot and read the book non-linearly to have an adventure. The stories were captivating too. 

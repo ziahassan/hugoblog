@@ -1,13 +1,13 @@
----
-title: Discovery, without algorithms
-author: ziahassan
-type: post
-date: 2019-02-13T19:38:36+00:00
-url: /discovery-without-algorithms/
-categories:
-  - Uncategorized
++++
+title = "Discovery Without Algorithms"
+date = 2019-02-13
++++
 
----
++++
+title = "02"
+date = 2019
++++
+
 I recently finished Cal Newport’s outstanding book _Digital Minimalism_. I&#8217;ve got so many thoughts, but my first one is that I need to delete social media apps from my phone. I&#8217;ve now deleted Facebook, and my Twitter is set permanently on my work account (which doesn&#8217;t suck me in, because I follow a limited amount of people). Instagram is always distracting but it&#8217;s not as bad as the other aforementioned apps, and I&#8217;ve just made a pact for today not to look at it. 
 
 So it&#8217;s my first morning without social media in my face and I&#8217;m in the waiting room at my therapist’s office. Even though I brought my Kindle, I suddenly notice the stack of psychology magazines on the table in the waiting area. I pick one up and start to read. 

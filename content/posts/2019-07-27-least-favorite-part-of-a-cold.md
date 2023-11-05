@@ -1,13 +1,13 @@
----
-title: Least Favorite Part of a Cold
-author: ziahassan
-type: post
-date: 2019-07-27T10:32:20+00:00
-url: /least-favorite-part-of-a-cold/
-categories:
-  - Uncategorized
++++
+title = "Least Favorite Part Of A Cold"
+date = 2019-07-27
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 There are many phases to a cold. For example:
 
   * the raw and sore throat that makes you want to turn off swallowing for a while

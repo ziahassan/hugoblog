@@ -1,11 +1,13 @@
----
-title: Real Magic
-author: ziahassan
-type: post
-date: 2020-01-02T17:54:12+00:00
-url: /real-magic/
++++
+title = "Real Magic"
+date = 2020-01-02
++++
 
----
++++
+title = "01"
+date = 2020
++++
+
 “That’s a nice trick, but it’s not _real _magic.&#8221;
 
 Whenever I get this comment, I agree. And it makes me wonder, then, what _real magic_ looks like, and what this person is expecting.

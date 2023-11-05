@@ -1,16 +1,13 @@
----
-title: stormy skies, family ties, week flies.
-author: ziahassan
-type: post
-date: 2006-06-29T19:29:25+00:00
-excerpt: "I really want to buy and learn how to play the sitar, but they're rather expensive. I think that may one of my goals in life."
-draft: true
-private: true
-url: /stormy-skies-family-ties-week-flies/
-categories:
-  - Uncategorized
++++
+title = "Stormy Skies Family Ties Week Flies"
+date = 2006-06-29
++++
 
----
++++
+title = "06"
+date = 2006
++++
+
 The rain finally let up yesterday morning, and I drove to work happily, without the fear of someone skidding into me. Read an interesting Eno story the other day which I&#8217;d never heard before.
 
 > <font face="Arial, Helvetica">In January this year I had an accident. I was not seriously hurt, but I was confined to bed in a stiff and static position. My friend Judy Nylon visited me and brought me a record of 18th century harp music. After she had gone, and with some considerable difficulty, I put on the record. Having laid down, I realized that the amplifier was set at an extremely low level, and that one channel of the stereo had failed completely. Since I hadn&#8217;t the energy to get up and improve matters, the record played on almost inaudibly. This presented what was for me a new way of hearing music &#8211; as part of the ambience of the environment just as the colour of the light and the sound of the rain were parts of that ambience. It is for this reason that I suggest listening to the piece at comparatively low levels, even to the extent that it frequently falls below the threshold of audibility.</font>

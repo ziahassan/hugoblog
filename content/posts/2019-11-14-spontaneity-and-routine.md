@@ -1,15 +1,8 @@
----
-title: Spontaneity and Routine
-author: ziahassan
-type: post
-date: 2019-11-14T19:00:49+00:00
-url: /spontaneity-and-routine/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "Spontaneity And Routine"
+date = 2019-11-14
++++
 
----
 &#8220;Your options get narrow as you get old,&#8221; my friend told me. &#8220;There&#8217;s just less you&#8217;re able to do.&#8221;
 
 &#8220;Or maybe it&#8217;s just that most people feel forced to make certain choices when they have kids or get married. Maybe the options are still the same and we&#8217;re still in control,&#8221; I offered.

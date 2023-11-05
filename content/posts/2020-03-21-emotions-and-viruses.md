@@ -1,14 +1,8 @@
----
-title: Emotions and Viruses
-author: ziahassan
-type: post
-date: 2020-03-21T21:49:38+00:00
-url: /emotions-and-viruses/
-categories:
-  - mindfulness
-  - spirituality
++++
+title = "Emotions And Viruses"
+date = 2020-03-21
++++
 
----
 It’s interesting to me to watch people during this pandemic. Everyone’s coping methods are on full display whether they want them to be or not.
 
 One of those coping methods is one that I’ve witnessed for quite a while, which is giving advice on social media. Advice that doesn’t apply to everyone, even though the person posting wouldn’t believe that.

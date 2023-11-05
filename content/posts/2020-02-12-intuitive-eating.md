@@ -1,14 +1,13 @@
----
-title: Intuitive Eating
-author: ziahassan
-type: post
-date: 2020-02-12T17:28:15+00:00
-url: /intuitive-eating/
-categories:
-  - Kids
-  - Parenting
++++
+title = "Intuitive Eating"
+date = 2020-02-12
++++
 
----
++++
+title = "02"
+date = 2020
++++
+
 Diet trends are fascinating to watch. They come, they go, they morph and they reappear under different names.
 
 A popular idea right now is that of intuitive eating. Rather than stick to calorie limits or re-balance macronutrients, the idea is simply that you listen to your body and stop eating when you’re full.

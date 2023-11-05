@@ -1,14 +1,14 @@
----
-title: 5 Activities that Make Me Wistful
-author: ziahassan
-type: post
-date: 2019-06-17T00:19:55+00:00
-url: /5-activities-that-make-me-wistful/
-categories:
-  - Uncategorized
++++
+title = "5 Activities That Make Me Wistful"
+date = 2019-06-16
++++
 
----
-  1. Visiting the stationery section in a bookstore. 
++++
+title = "06"
+date = 2019
++++
+
+1. Visiting the stationery section in a bookstore. 
   2. Watching the neighbors party from my yard. 
   3. The smell of a school building. 
   4. The sound of a jet engine. 

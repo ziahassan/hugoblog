@@ -1,17 +1,8 @@
----
-title: school’s out.
-author: ziahassan
-type: post
-date: 2006-05-15T16:19:36+00:00
-excerpt: |
-  "The end of the academic year is always strange. Especially being an RA, watching everyone leave. I took a 5am shift today, for old times sake. Surprisingly, whenever I wake up at 5am, I'm more awake than I am if I wake up at 11 or something. Also, there are less people to deal with."
-draft: true
-private: true
-url: /schools-out/
-categories:
-  - Uncategorized
++++
+title = "Schools Out"
+date = 2006-05-15
++++
 
----
 The last time I wrote here, I was in the middle of finals. Things have cleared up since then, and I've been sleeping a good 8-9 hours a night. It's very refereshing. This entry will be a former draft combined with some new insight, so it may become confusing.
 
 I remember going into my first scheduling meeting and feeling extremely out of place. I was worried about getting too many graveyard shifts being a newbie, and ended up voluntarily taking two 5:30 shifts during the week, and a 7:30. I thought I'd get an early start to my day. I was working in Letts, living in Leonard. Weird, because I am going to live in Letts and work in Leonard. And other Northside halls.

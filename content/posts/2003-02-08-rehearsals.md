@@ -1,15 +1,8 @@
----
-title: rehearsals.
-author: ziahassan
-type: post
-date: 2003-02-08T00:36:34+00:00
-draft: true
-private: true
-url: /rehearsals/
-categories:
-  - Uncategorized
++++
+title = "Rehearsals"
+date = 2003-02-08
++++
 
----
 I haven't made an entry in a while, and that's totally cool with me, because I just didn't feel like writing. But once again, now I do. And I guess that's the way things should always work, right?
 
 Rehearsals have started to pick up again, and I dig it a lot. I'm at school till late but I'm occupied. And plus, I get to see Christine more.

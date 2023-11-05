@@ -1,13 +1,8 @@
----
-title: Tweak The Presets
-author: ziahassan
-type: post
-date: 2019-02-05T05:23:28+00:00
-url: /tweak-the-presets/
-categories:
-  - Uncategorized
++++
+title = "Tweak The Presets"
+date = 2019-02-05
++++
 
----
 I remember buying a walkman when I was a kid and getting to pick an audio preset when streaming FM radio. 
 
 The presets were genre titles, like pop, rock, rap, jazz. The idea was that you could select the appropriate genre and the device would make that particular type of music sound even better. Same thing with the TV &#8211; there&#8217;s a presets for different levels of saturation and color settings. 

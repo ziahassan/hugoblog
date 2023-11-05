@@ -1,13 +1,8 @@
----
-title: A Few Bumps
-author: ziahassan
-type: post
-date: 2019-09-13T19:22:40+00:00
-url: /a-few-bumps/
-categories:
-  - Uncategorized
++++
+title = "A Few Bumps"
+date = 2019-09-13
++++
 
----
 I have airplane anxiety. I’ve written about it before. I’ve described the different techniques I’ve used to try and get over it. Though my phobia seems to be getting better, I still get uncomfortable when the plane begins to jostle around in the air.
 
 The interesting thing is that the ride is _even bumpier_ on the ground before takeoff. And when I’m on the Amtrak, sometimes it’s so bumpy that I get violently thrown against the window next to my seat. Yet these situations never seem to make me uncomfortable at all.

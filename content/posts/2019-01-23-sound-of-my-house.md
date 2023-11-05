@@ -1,13 +1,8 @@
----
-title: Sound of My House
-author: ziahassan
-type: post
-date: 2019-01-24T02:22:10+00:00
-url: /sound-of-my-house/
-categories:
-  - Uncategorized
++++
+title = "Sound Of My House"
+date = 2019-01-23
++++
 
----
 It&#8217;s no secret that I love our house. I’ve loved it from the moment I walked in during the open house.
 
 I love the way it looks. Regal and sturdy on the outside, sun streaming through the big living room window, hardwood floors that get painted so perfectly by the 3pm light. The way that the living room feels so endless and the downstairs den feels like a cozy spaceship.

@@ -1,14 +1,14 @@
----
-title: 5 Activities that Instantly Improve My Mood
-author: ziahassan
-type: post
-date: 2019-06-07T02:07:37+00:00
-url: /5-activities-that-instantly-improve-my-mood/
-categories:
-  - Uncategorized
++++
+title = "5 Activities That Instantly Improve My Mood"
+date = 2019-06-06
++++
 
----
-  1. Take a journey. Long or short, internal or external.
++++
+title = "06"
+date = 2019
++++
+
+1. Take a journey. Long or short, internal or external.
   2. Exhale slowly while humming.
   3. Eat a vegetable in slow motion.
   4. Stretch hamstrings and glutes for longer than 20 seconds.

@@ -1,13 +1,8 @@
----
-title: In an Ideal World
-author: ziahassan
-type: post
-date: 2019-03-31T14:56:24+00:00
-url: /in-an-ideal-world/
-categories:
-  - Uncategorized
++++
+title = "In An Ideal World"
+date = 2019-03-31
++++
 
----
 One of my favorite moments in LOST happens during a flashback. Jin, one of the characters, is meeting with his father to tell him that he’s getting married. His father is a poor fisherman; Jin’s in-laws are rich business owners in Korea.
 
 In their conversation, Jin relays all sorts of anxieties and troubles that he is having in his relationship. He starts to explain: “Father, in an ideal world…”

@@ -1,13 +1,8 @@
----
-title: The Downside to the Niche Web
-author: ziahassan
-type: post
-date: 2019-08-20T15:16:59+00:00
-url: /the-downside-to-the-niche-web/
-categories:
-  - Uncategorized
++++
+title = "The Downside To The Niche Web"
+date = 2019-08-20
++++
 
----
 When I really discovered Reddit a few years ago, I quickly learned how it provides value. This was a service that segmented by interest, and I could find communities around almost anything that fascinated me. Here, in this corner of the internet, were crazy people like myself, obsessed over plant based diets, fitness regimens, meditation, and to-do list managers. We could all sit together in a hot tub of our fandom, discussing every single last niche of our chosen universe.
 
 But there’s a dark side to being able to access a community of people interested in a micro-market, which is that we tend to get a bit obsessive. If you’ve ever been on the mechanical keyboards subreddit, you know that those folks encourage each other to spend a _ton_ of money on mechanical keyboards. The same goes for any expensive hobby &#8211; the cheap stuff won’t do, because we’re _fanatics_ here. If you’re serious about your photography for instance, you’re going to need the highest quality equipment. 

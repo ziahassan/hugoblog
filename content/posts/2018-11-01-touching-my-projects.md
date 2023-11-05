@@ -1,14 +1,8 @@
----
-title: Touching My Projects
-author: ziahassan
-type: post
-date: 2018-11-01T21:00:07+00:00
-url: /touching-my-projects/
-featured_image: http://www.ziahassan.com/daily/wp-content/uploads/2018/11/img_1902-1-1125x706.png
-categories:
-  - Uncategorized
++++
+title = "Touching My Projects"
+date = 2018-11-01
++++
 
----
 Jerry Seinfeld once said that his secret to productivity was writing one joke per day, putting a big X on the day in his calendar and then doing that every day, so as not to “break the chain.”
 
 I’ve been using this life changing app called Productive to do the same. Every day I have to do 7 habits. The trick to doing this with a job and a little one is that I swipe off the goals if I even touch them. I read two pages of a book? Swipe. I made notes on a mix? Swipe. I fixed one piece of buggy code or played through some jazz chords? Swipe.

@@ -1,13 +1,8 @@
----
-title: The Simplest Way to Meditate
-author: ziahassan
-type: post
-date: 2018-10-17T03:42:24+00:00
-url: /the-simplest-way-to-meditate/
-categories:
-  - Uncategorized
++++
+title = "The Simplest Way To Meditate"
+date = 2018-10-17
++++
 
----
 I was at a class on meditation once. 
 
 The instructor started by saying that meditation was easy. That if anyone in the room was intimidated by the idea of meditating, he was about to tell us something that would make the process much more simple.

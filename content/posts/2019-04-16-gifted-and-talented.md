@@ -1,13 +1,8 @@
----
-title: Gifted and Talented
-author: ziahassan
-type: post
-date: 2019-04-16T18:34:00+00:00
-url: /gifted-and-talented/
-categories:
-  - Uncategorized
++++
+title = "Gifted And Talented"
+date = 2019-04-16
++++
 
----
 When I was in elementary school, I was labelled “gifted & talented.” What this essentially meant is that I had shown some level of acquiescence to the policies and procedures set forth by my school. I achieved decent grades and was seen as a high achieving student. I eventually ended up winning some kind of academic award signed by the president (Bill Clinton at the time) and at the awards ceremony all of the parents took pictures as the 6 of us held our awards.
 
 But many educators have realized the fallacy here, which is that _all students are gifted, and therefore have the potential to be talented._ Said another way, we all have gifts, or natural inclinations that make us valuable to the world. And we all have challenges that live right on the other side of those gifts. It’s on the adults in our life to recognize these double edged swords and teach us to use them appropriately.

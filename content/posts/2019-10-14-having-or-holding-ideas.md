@@ -1,13 +1,8 @@
----
-title: Having or Holding Ideas
-author: ziahassan
-type: post
-date: 2019-10-14T20:29:48+00:00
-url: /having-or-holding-ideas/
-categories:
-  - Uncategorized
++++
+title = "Having Or Holding Ideas"
+date = 2019-10-14
++++
 
----
 David Allen, productivity writer and author of one of my favorite books, Getting Things Done, has famously said that the mind is for having ideas, not holding ideas.
 
 That is to say, we are at our best when are being creative, thinking up new solutions to old problems, and generating ideas. What we’re not good at is remembering all of our appointments in our head, which is why we need a calendar. Or that we have a number of items due by the end of the month, which is why we need a task list. Using those kind of systems religiously can yield amazing results for our creative brain, which is now free to have ideas instead of hold them.

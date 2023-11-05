@@ -1,13 +1,8 @@
----
-title: I’m Not Crying, You’re Crying!
-author: ziahassan
-type: post
-date: 2019-08-23T19:30:34+00:00
-url: /im-not-crying-youre-crying/
-categories:
-  - Uncategorized
++++
+title = "Im Not Crying Youre Crying"
+date = 2019-08-23
++++
 
----
 I’m fascinated by popular phrases, especially ones that reveal interesting qualities about humanity. 
 
 In this case, the phrase “I’m not crying, you’re crying!” Is posted on videos that are heartwarming and touching, as a way for the person to get off the hook for feeling anything. The phrase detracts and devalues from the content that is truly heartwarming. It also devalues wonder, sadness, or whatever emotion caused the tears in the first place.

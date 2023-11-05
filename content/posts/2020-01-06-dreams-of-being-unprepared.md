@@ -1,11 +1,13 @@
----
-title: Dreams of Being Unprepared
-author: ziahassan
-type: post
-date: 2020-01-06T15:59:27+00:00
-url: /dreams-of-being-unprepared/
++++
+title = "Dreams Of Being Unprepared"
+date = 2020-01-06
++++
 
----
++++
+title = "01"
+date = 2020
++++
+
 I’ve had many recurring nightmares in my life, but none have been quite as prevalent as the one where I’m underprepared.
 
 It takes a few forms. Sometimes I’ve forgotten that there’s a class I signed up for, never went to, and now I have to take the exam. Other times, I have a gig and I forget some equipment and while I’m trying to get things together people are leaving. Or I’m in front of a class without a lesson plan. So many different scenarios for the same dream.

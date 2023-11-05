@@ -1,13 +1,13 @@
----
-title: I Know My Tools
-author: ziahassan
-type: post
-date: 2019-07-14T12:43:50+00:00
-url: /i-know-my-tools/
-categories:
-  - Uncategorized
++++
+title = "I Know My Tools"
+date = 2019-07-14
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 I describe myself as a technologist sometimes when I&#8217;m explaining what I do for a living. The other day, someone asked what this means and I was reminded of something that my old boss said to me once. 
 
 I was trying to solve some problem with our software and kept coming up empty. As a last resort, I asked her for help and she went back to her desk for a few minutes. When she returned, she&#8217;d solved the problem. 

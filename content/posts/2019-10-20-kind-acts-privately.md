@@ -1,13 +1,8 @@
----
-title: Kind Acts Privately
-author: ziahassan
-type: post
-date: 2019-10-20T13:01:53+00:00
-url: /kind-acts-privately/
-categories:
-  - Uncategorized
++++
+title = "Kind Acts Privately"
+date = 2019-10-20
++++
 
----
 Recently, I decided to donate to someone’s online fundraiser. They were going through a hard time and needed money.
 
 As I went to the checkout, there was a checkbox that said “Do you want to remain anonymous?” Checking this box meant that my name wouldn’t be included on the GoFundMe page. 

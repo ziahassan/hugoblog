@@ -1,11 +1,13 @@
----
-title: Inner Peace
-author: ziahassan
-type: post
-date: 2020-11-24T16:44:21+00:00
-url: /inner-peace/
++++
+title = "Inner Peace"
+date = 2020-11-24
++++
 
----
++++
+title = "11"
+date = 2020
++++
+
 Many of us seek to find inner peace. 
 
 But what other kind of peace is there?

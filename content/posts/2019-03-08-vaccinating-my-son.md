@@ -1,16 +1,8 @@
----
-title: Vaccinating My Son
-author: ziahassan
-type: post
-date: 2019-03-08T18:19:53+00:00
-url: /vaccinating-my-son/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:3:"yes";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:2:"-1";s:6:"status";s:6:"public";s:3:"url";N;}'
-categories:
-  - Uncategorized
-format: quote
++++
+title = "Vaccinating My Son"
+date = 2019-03-08
++++
 
----
 <pre>I'm close up on your face when they
 put the needle in your thigh.
 

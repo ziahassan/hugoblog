@@ -1,13 +1,8 @@
----
-title: Come to Your Senses
-author: ziahassan
-type: post
-date: 2019-09-03T21:17:54+00:00
-url: /come-to-your-senses/
-categories:
-  - Uncategorized
++++
+title = "Come To Your Senses"
+date = 2019-09-03
++++
 
----
 The philosopher/entertainer Alan Watts describes experiencing the present moment as a process of “coming to your senses.”
 
 I’ve heard that phrase used before to “snap” people out of whatever delusion they’re in. _What are you doing?? Don’t walk near the cliff! Come to your senses!_

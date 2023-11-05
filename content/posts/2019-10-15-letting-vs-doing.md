@@ -1,13 +1,8 @@
----
-title: Letting vs. Doing
-author: ziahassan
-type: post
-date: 2019-10-15T15:46:55+00:00
-url: /letting-vs-doing/
-categories:
-  - Uncategorized
++++
+title = "Letting Vs Doing"
+date = 2019-10-15
++++
 
----
 It seems like every day as an adult, life becomes more _real_. All the things we feared as children are coming true: disease, death, broken relationships, and other things.
 
 It seems like no one actually taught us what do when we grieve. Whether it’s losing a loved one or a childhood bed, no one taught us how to handle it when we need to say goodbye to something that has accumulated so much meaning in our lives. 

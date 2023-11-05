@@ -1,13 +1,8 @@
----
-title: 'Book Review: The Courage to be Disliked'
-author: ziahassan
-type: post
-date: 2019-11-01T01:41:16+00:00
-url: /book-review-the-courage-to-be-disliked/
-categories:
-  - Uncategorized
++++
+title = "Book Review The Courage To Be Disliked"
+date = 2019-10-31
++++
 
----
 I expected this book to be something like Mark Manson’s The Subtle Art of Not Giving a Fuck. However, it was _so_ much more.
 
 This book, written by Ichiro Kishimi and Fumitake Koga, covers Adlerian psychology, which is in some ways opposed to popular Freudian psychology. Of course, one could learn about Adler’s psychology theories from reading his books… but as the author describes, he’s meant to be Adler’s Plato. 

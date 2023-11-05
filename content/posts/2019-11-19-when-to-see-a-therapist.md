@@ -1,11 +1,13 @@
----
-title: When to See a Therapist
-author: ziahassan
-type: post
-date: 2019-11-19T15:26:38+00:00
-url: /when-to-see-a-therapist/
++++
+title = "When To See A Therapist"
+date = 2019-11-19
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 I had lunch with a friend recently and mentioned that I was seeing a therapist.
 
 “A therapist? Why? Are you depressed?&#8221;

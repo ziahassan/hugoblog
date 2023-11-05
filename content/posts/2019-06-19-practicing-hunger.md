@@ -1,13 +1,13 @@
----
-title: Practicing Hunger
-author: ziahassan
-type: post
-date: 2019-06-19T21:52:40+00:00
-url: /practicing-hunger/
-categories:
-  - Uncategorized
++++
+title = "Practicing Hunger"
+date = 2019-06-19
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 When I used to travel to Indianapolis every Monday, I would take an early morning flight and not eating anything until about 1 or 2pm. It didn’t seem to ever phase me very much, though I was pretty hungry around lunchtime.
 
 Turns out my habit of skipping breakfast is technically classified as intermittent fasting, since I had been without food for 14-16 hours. And while the term wasn’t popular at the time (most of the conventional wisdom claimed breakfast was _the most important_ meal of the day), I was unknowingly benefitting from the process of autophagy, which is when your cells start to repair themselves after a certain number of hours without any food.

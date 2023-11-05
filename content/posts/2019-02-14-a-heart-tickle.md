@@ -1,13 +1,8 @@
----
-title: A Heart Tickle
-author: ziahassan
-type: post
-date: 2019-02-14T23:27:46+00:00
-url: /a-heart-tickle/
-categories:
-  - Uncategorized
++++
+title = "A Heart Tickle"
+date = 2019-02-14
++++
 
----
 Maybe it’s fatherhood. Maybe it’s living in a house that I feel completely aligns with my taste and my character. Maybe it’s working a job that I absolutely love. Either way, I feel happy lately. I wake up every morning excited to be alive, excited to be a father and a husband, and excited to take on whatever challenges the day presents.
 
 One interesting sensation that’s developed in the past few months is the feeling of what I describe as a heart tickle. It’s almost a sense of longing ness, like leaving someone you won’t see for a while, except they’re standing right there. It’s the wistful sensation of missing someone before they’ve even gone away. I don’t know what spurred it, or why it’s been so prevalent in my life lately.

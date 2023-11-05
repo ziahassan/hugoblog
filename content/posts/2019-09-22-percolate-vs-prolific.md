@@ -1,13 +1,8 @@
----
-title: Percolate vs. Prolific
-author: ziahassan
-type: post
-date: 2019-09-22T17:13:26+00:00
-url: /percolate-vs-prolific/
-categories:
-  - Uncategorized
++++
+title = "Percolate Vs Prolific"
+date = 2019-09-22
++++
 
----
 Part of my training as an artist was reading many books on creativity. The common theme among many of these books was that an artist needs to be prolific, to push out as many ideas as possible, and to not worry about making them perfect. Execution, I learned, was more important than excellence (which is still important).
 
 But experience has taught me that this is only part of the puzzle. Another key component to art-making is percolation. Letting ideas sit around for a while, gathering stored energy, before they leap out into the world. Most of my best stuff comes instantaneously, when I’m trying to be prolific… but the best _version_ of whatever the idea was happens if I let it be for some time.

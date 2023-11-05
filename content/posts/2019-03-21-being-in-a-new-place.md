@@ -1,13 +1,8 @@
----
-title: Being in a New Place
-author: ziahassan
-type: post
-date: 2019-03-21T17:29:25+00:00
-url: /being-in-a-new-place/
-categories:
-  - Uncategorized
++++
+title = "Being In A New Place"
+date = 2019-03-21
++++
 
----
 After college, it seemed like anything anyone wanted to do was travel the world. Most of the marketing messages we as young graduates were subjected to was about getting out of our comfort zone and seeing foreign places, experiencing foreign cultures, all the while gaining perspective.
 
 The idea didn’t appeal to me. I had yet to develop my fear of airplanes that I’ve now mostly overcome, so it wasn’t fear, exactly… but it was more that I didn’t understand why there was this pressure from society to go somewhere, anywhere.

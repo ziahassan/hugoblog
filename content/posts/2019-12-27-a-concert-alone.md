@@ -1,11 +1,8 @@
----
-title: A Concert Alone
-author: ziahassan
-type: post
-date: 2019-12-27T14:25:42+00:00
-url: /a-concert-alone/
++++
+title = "A Concert Alone"
+date = 2019-12-27
++++
 
----
 I rarely go to live events on my own. Rarely do I see concerts by myself, or movies, or plays. It just feels so lonely. But when I do go alone to these kinds of events, I get a very special feeling.
 
 When I see a movie or concert alone, and I walk out of the theater… there’s no one to talk to. No one to reflect on the experience with. Therefore, I’m left with my own thoughts and _only_ my thoughts.

@@ -1,13 +1,8 @@
----
-title: The Divide Between Science and Mindfulness
-author: ziahassan
-type: post
-date: 2019-11-26T18:16:00+00:00
-url: /the-divide-between-science-and-mindfulness/
-categories:
-  - Uncategorized
++++
+title = "The Divide Between Science And Mindfulness"
+date = 2019-11-26
++++
 
----
 The scientific method is a useful tool to explain cause and effect. We can look at a problem, take a guess, run some tests, come up with an explanation and recommend a solution.
 
 Many people, myself included, rely on the scientific method (through research and studies) to make decisions and choices. What food should I eat? How should I work out? All of these choices could be made through examining the research conducted using the scientific method.

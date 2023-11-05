@@ -1,13 +1,8 @@
----
-title: Choosing Words
-author: ziahassan
-type: post
-date: 2019-01-22T23:57:13+00:00
-url: /choosing-words/
-categories:
-  - Uncategorized
++++
+title = "Choosing Words"
+date = 2019-01-22
++++
 
----
 _Choose your words carefully._
 
 Poets do it. Advertisers do it. Because certain combinations of words touch images, memories, and triggers in people’s minds.

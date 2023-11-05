@@ -1,13 +1,13 @@
----
-title: How a Song Arrives
-author: ziahassan
-type: post
-date: 2019-02-16T13:04:25+00:00
-url: /how-a-song-arrives/
-categories:
-  - Uncategorized
++++
+title = "How A Song Arrives"
+date = 2019-02-16
++++
 
----
++++
+title = "02"
+date = 2019
++++
+
 I&#8217;ve been writing songs since I was 7. A family friend had given birth to a baby boy, and for whatever reason, I decided to write a song about it on piano. I don&#8217;t remember the process, though I do remember playing the song at recitals. My piano teacher even let me make sheet music for the song using Midi.
 
 Then, when I was 13, I wrote a poem that an older friend turned into a song. What a special thing to do, collaborating on music and lyrics. Again, I don&#8217;t remember the process. This was also the year I bought a guitar. And though I didn&#8217;t know how to tune it or play it, just its presence made me feel at ease. Like how some people feel about sleeping with a gun under their pillow except slightly less intense.

@@ -1,13 +1,8 @@
----
-title: Let’s Talk to Our Children About Humans and Robots
-author: ziahassan
-type: post
-date: 2019-03-06T18:07:00+00:00
-url: /lets-talk-to-our-children-about-humans-and-robots/
-categories:
-  - Uncategorized
++++
+title = "Lets Talk To Our Children About Humans And Robots"
+date = 2019-03-06
++++
 
----
 I have four Alexa echos in my house. We use the echos to turn lights on when we’re holding babies, to arm our alarm system when we’re walking out the door, to keep timers while we’re working, and most recently we’ve set up our son’s room to turn off lights and turn on white noise/humidifier machines simultaneously with one command. I’ve also used Alexa to turn off my downstairs space heater after 30 minutes of use.
 
 We aren’t too polite to Alexa, which may need to change now that we have a child. A few people have pointed out to us that we often just give Alexa commands like “Turn on the alarm” or “turn on the den lights” without saying please or thank you. They think it will create bad habits in our children. 

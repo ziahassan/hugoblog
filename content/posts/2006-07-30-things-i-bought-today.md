@@ -1,15 +1,8 @@
----
-title: things I bought today.
-author: ziahassan
-type: post
-date: 2006-07-30T00:27:43+00:00
-draft: true
-private: true
-url: /things-i-bought-today/
-categories:
-  - Uncategorized
++++
+title = "Things I Bought Today"
+date = 2006-07-30
++++
 
----
 Kitchen Accessories:
 
 two teacups, electric kettle, 3 boxes of 24 tazo tea bags (awake [black tea] for morning, sweet orange for afternoon, passion [hibiscus] for night-time).

@@ -1,13 +1,13 @@
----
-title: A Chef Consumes Three Meals
-author: ziahassan
-type: post
-date: 2019-05-16T21:39:51+00:00
-url: /a-chef-consumes-three-meals/
-categories:
-  - Uncategorized
++++
+title = "A Chef Consumes Three Meals"
+date = 2019-05-16
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 The first meal happens during the preparation process. Even though onions will sting the eyes, and garlic will make the hands smell for hours, the chef begins with an appetizer eaten not with her mouth but with her eyes and hands. The feeling of dough being rolled. The crispiness of carrots being chopped. The whirling colors and sensational textures. In preparation of cooking, a chef eats her first meal.
 
 The second meal is consumed by the ears and the nose. As the onion and garlic hits the pan and starts to cook with a _hiss_, the aromatics start to fill the room. There were aromas before, too, but these are more pronounced. As if they mean business. The buns in the oven are causing the house to smell like mom’s kitchen. The fresh herbs that have just been cut are leaking out incredible fragrances into the air. And with this, the chef consumes their second meal.

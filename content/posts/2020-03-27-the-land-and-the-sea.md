@@ -1,13 +1,8 @@
----
-title: The Land and the Sea
-author: ziahassan
-type: post
-date: 2020-03-28T02:06:09+00:00
-url: /the-land-and-the-sea/
-categories:
-  - mindfulness
++++
+title = "The Land And The Sea"
+date = 2020-03-27
++++
 
----
 Every day, the sea becomes land and the land becomes sea.
 
 Transformation is natural and inevitable.

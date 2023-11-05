@@ -1,13 +1,8 @@
----
-title: Magic is a Gift
-author: ziahassan
-type: post
-date: 2018-01-31T03:35:55+00:00
-url: /magic-is-a-gift/
-categories:
-  - Uncategorized
++++
+title = "Magic Is A Gift"
+date = 2018-01-31
++++
 
----
 I’m a magician. I’ve learned, performed and created magic for the past 26 years or so. I can’t remember a family gathering where I didn’t have a deck of cards on hand. 
 
 It started when my grandmother made a coin disappear, right in front of my eyes. I don’t think she used any sleight of hand (I was 4 or so). In fact, I’m pretty sure she just distracted me and dropped the coin into the cushions of the couch we were sitting on.

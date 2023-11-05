@@ -1,15 +1,8 @@
----
-title: An Angry Email
-author: ziahassan
-type: post
-date: 2019-11-07T14:49:32+00:00
-url: /an-angry-email/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "An Angry Email"
+date = 2019-11-07
++++
 
----
 Have you ever written an angry email? Have you ever received one?
 
 To be on either end of the exchange is stressful. On the receiving end, you read someone else&#8217;s scathing words with no opportunity to immediately respond. Like having your mouth stuffed with a cloth while someone circles you and berates you.

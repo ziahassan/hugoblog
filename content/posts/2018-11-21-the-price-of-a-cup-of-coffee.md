@@ -1,13 +1,13 @@
----
-title: The Price of a Cup of Coffee
-author: ziahassan
-type: post
-date: 2018-11-21T19:13:14+00:00
-url: /the-price-of-a-cup-of-coffee/
-categories:
-  - Uncategorized
++++
+title = "The Price Of A Cup Of Coffee"
+date = 2018-11-21
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 So many ads, when they state the price of the thing they&#8217;re selling, follow it with “that&#8217;s the price of a cup of coffee!”
 
 What this trope is supposed to illuminate is the idea that the product being sold is affordable, and we mindlessly spend that much on other things anyway.

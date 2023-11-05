@@ -1,13 +1,13 @@
----
-title: Marvelous Mrs. Maisel, the quick capturer
-author: ziahassan
-type: post
-date: 2018-10-22T21:00:00+00:00
-url: /marvelous-mrs-maisel-the-quick-capturer/
-categories:
-  - Uncategorized
++++
+title = "Marvelous Mrs Maisel The Quick Capturer"
+date = 2018-10-22
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 I get really excited when I see actual artists, or even portrayals of artists, using techniques that I use myself to produce art.
 
 I noticed this as I was watching The Marvelous Mrs. Maisel on Amazon. I loved that she carries around a notebook to capture ideas as she sees them. It doesn’t matter what the context is. She could be on the subway, getting her nails done, with her friends… her brain is constantly on a low grade search for new inputs to turn into material. It reminded me of the process I’ve documented before on how I use the iOS app [Drafts][1].

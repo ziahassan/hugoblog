@@ -1,13 +1,13 @@
----
-title: My Writing Process
-author: ziahassan
-type: post
-date: 2018-11-11T19:27:17+00:00
-url: /my-writing-process/
-categories:
-  - Uncategorized
++++
+title = "My Writing Process"
+date = 2018-11-11
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 While my writing frequency has ebbed and flowed over the years, I’ve consistently written and published pieces since the early 2000’s. I did this _despite_ my education in grade school writing, not _because_ of my education. In school, we were taught that the writing process was a process of brainstorming (whatever that means), organizing thoughts, writing drafts, and editing the drafts. 
 
 Over the years, I’ve noticed that my own process is much different from the one that I have taught.

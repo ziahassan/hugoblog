@@ -1,13 +1,8 @@
----
-title: You’re All Caught Up
-author: ziahassan
-type: post
-date: 2019-04-19T16:34:20+00:00
-url: /youre-all-caught-up/
-categories:
-  - Uncategorized
++++
+title = "Youre All Caught Up"
+date = 2019-04-19
++++
 
----
 This is the message we sometimes get when we’ve reached the end of our latest updates on Instagram, Twitter, or Facebook. When I first saw this in my feed, I thought that the creators of these networks were trying to do some good. To let me know that it’s _okay_ to stop scrolling and to close the browser window the play in the physical world for a while.
 
 But after my social media fast last month, I’ve realized that it’s quite the opposite. And the way in which this is actually a manipulation tactic is clear from the words I use to explain it above: “they _let me know_ it’s okay to stop scrolling…”

@@ -1,11 +1,13 @@
----
-title: First Time Moved
-author: ziahassan
-type: post
-date: 2019-12-16T16:14:15+00:00
-url: /first-time-moved/
++++
+title = "First Time Moved"
+date = 2019-12-16
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 We took my son to a restaurant in Tucson the other night. As the food was being prepared, a jazz band loaded up their gear in front of us and began to play.
 
 My son, who has always had a love of music, became completely entranced with the performance. He sat on the cough in the restaurant and watched in awe. The band members of course were more than happy to make funny faces and smiles at him from the stage. Then, he started to dance to the music. The drummer even let him come up on stage and hit the drums with his sticks.

@@ -1,13 +1,8 @@
----
-title: Don’t Worry
-author: ziahassan
-type: post
-date: 2020-02-01T15:02:17+00:00
-url: /dont-worry/
-categories:
-  - Uncategorized
++++
+title = "Dont Worry"
+date = 2020-02-01
++++
 
----
 Worry is a choice. And it&#8217;s one I choose quite a bit. No one has ever been successful with &#8220;don&#8217;t worry,&#8221; unless the initial worry was small.
 
 Life&#8217;s anxieties have a way of attaching to the brain like a leech. Words and reassurances aren&#8217;t powerful enough to unstick or unseat that which has burrowed itself so deeply.

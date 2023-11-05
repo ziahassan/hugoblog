@@ -1,11 +1,8 @@
----
-title: Instagram Poetry
-author: ziahassan
-type: post
-date: 2020-02-23T04:23:49+00:00
-url: /instagram-poetry/
++++
+title = "Instagram Poetry"
+date = 2020-02-22
++++
 
----
 People call Instagram poetry bad, and some even go as far as to say it’s a [rejection of craft][1]. I’m talking about the type of poetry that is just a few lines long, that seems more like a sentence with line breaks than what we consider a poem to be.
 
 But I’m not so sure it’s inherently bad. People read these poems; it brings them joy; they reshare. If the poems were bad, this wouldn’t happen. They certainly aren’t traditional, and that’s bound to piss a few people off. English majors, for sure.

@@ -1,13 +1,13 @@
----
-title: Re-thinking Task Execution
-author: ziahassan
-type: post
-date: 2019-06-09T20:53:04+00:00
-url: /re-thinking-task-execution/
-categories:
-  - Uncategorized
++++
+title = "Re Thinking Task Execution"
+date = 2019-06-09
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 ### The Limitations of Task Managers
 
 I’ve written many articles about how to manage tasks, or at least how I manage tasks. There are so many different systems with which one can wrangle their tasks together, though I find David Allen’s Getting Things Done methodology to be the most inclusive and most customizable. If GTD is a technology, then perhaps it has the most “switches” and “settings.”

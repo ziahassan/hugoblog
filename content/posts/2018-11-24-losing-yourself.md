@@ -1,13 +1,13 @@
----
-title: Losing Yourself
-author: ziahassan
-type: post
-date: 2018-11-24T17:59:48+00:00
-url: /losing-yourself/
-categories:
-  - Uncategorized
++++
+title = "Losing Yourself"
+date = 2018-11-24
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 “I think I’m losing myself,” a friend told me recently.
 
 He had just had his second kid, and from my perspective, things had been going somewhat well for him. I asked for clarification.

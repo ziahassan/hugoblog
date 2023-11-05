@@ -1,15 +1,8 @@
----
-title: Sounds of the Metro
-author: ziahassan
-type: post
-date: 2019-09-07T16:42:56+00:00
-url: /sounds-of-the-metro/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "Sounds Of The Metro"
+date = 2019-09-07
++++
 
----
 &#8220;I guess we have to stop talking now.&#8221;
 
 These are the only words on an album I made called Lines, along with my friend Scott Colman. 

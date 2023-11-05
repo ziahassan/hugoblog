@@ -1,16 +1,13 @@
----
-title: blind collaboration.
-author: ziahassan
-type: post
-date: 2006-07-13T19:40:30+00:00
-excerpt: 'One person thinks of a noun, and the other an adjective.  The idea is that these two words collide from completely unassuming and unknowing thought banks.  A natural way to write lyrics.'
-draft: true
-private: true
-url: /blind-collaboration/
-categories:
-  - Uncategorized
++++
+title = "Blind Collaboration"
+date = 2006-07-13
++++
 
----
++++
+title = "07"
+date = 2006
++++
+
 The notebook I bought fits in my pocket, barely, and I bought a few pens to go with it.  I linked to an article yesterday which explains how to buy a Mont Blanc ink cartridge and install it into a 2 dollar pen.  Basically, you&#8217;re getting the ink of a 300 dollar pen into your tiny little G2.
 
 What have I written in this notebook so far?

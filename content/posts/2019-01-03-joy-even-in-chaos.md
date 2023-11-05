@@ -1,13 +1,13 @@
----
-title: Joy Even in Chaos
-author: ziahassan
-type: post
-date: 2019-01-03T12:52:19+00:00
-url: /joy-even-in-chaos/
-categories:
-  - Uncategorized
++++
+title = "Joy Even In Chaos"
+date = 2019-01-03
++++
 
----
++++
+title = "01"
+date = 2019
++++
+
 Before becoming a parent, here’s a sample of some wisdom other parents tried to pass on to me:
 
   * you will never sleep again.

@@ -1,13 +1,8 @@
----
-title: Stillness on a Rollercoaster
-author: ziahassan
-type: post
-date: 2019-06-14T11:36:11+00:00
-url: /stillness-on-a-rollercoaster/
-categories:
-  - Uncategorized
++++
+title = "Stillness On A Rollercoaster"
+date = 2019-06-14
++++
 
----
 Try this: bring back a memory of yourself on a roller coaster or theme park ride. Whenever I do this, my memory doesn&#8217;t play back like memories of other events. That is to say, when I think of my high school graduation, it plays back like clips from a movie. Sometimes in these memories, I am not the point of view, I&#8217;m the observer. Maybe I&#8217;m actually having s memory of watching the _video_ of graduation. 
 
 But when I think of a roller coaster memory, it&#8217;s different. There&#8217;s no real motion in my mind movie. It&#8217;s a still frame. I&#8217;m upside down on a steel coaster, the sun invading my corneas from a cloudless sky. And it&#8217;s quiet inside of this moment.

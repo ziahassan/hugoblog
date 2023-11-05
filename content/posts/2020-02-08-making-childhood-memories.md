@@ -1,14 +1,8 @@
----
-title: Making Childhood Memories
-author: ziahassan
-type: post
-date: 2020-02-08T22:26:11+00:00
-url: /making-childhood-memories/
-categories:
-  - Kids
-  - Parenting
++++
+title = "Making Childhood Memories"
+date = 2020-02-08
++++
 
----
 You can’t really do it on purpose. A childhood memory that lasts forever seems to happen out of nowhere, a flash of lightning, an experience where novelty and curiosity come together so seamlessly it leaves you changed.
 
 The first time I ever visited a good friend in the tiny town of Evanston, Wyoming, during high school we had a fantastic time going around the town, watching fireworks, playing video games, and talking to girls.

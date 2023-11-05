@@ -1,15 +1,13 @@
----
-title: should be working.
-author: ziahassan
-type: post
-date: 2002-01-14T19:10:35+00:00
-draft: true
-private: true
-url: /should-be-working/
-categories:
-  - Uncategorized
++++
+title = "Should Be Working"
+date = 2002-01-14
++++
 
----
++++
+title = "01"
+date = 2002
++++
+
 I really should be working but here I am typing away.
 
 if only I could open my head and let all the lyrics floating around there just spill out.

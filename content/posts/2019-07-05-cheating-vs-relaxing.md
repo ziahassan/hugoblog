@@ -1,13 +1,8 @@
----
-title: Cheating vs. Relaxing
-author: ziahassan
-type: post
-date: 2019-07-06T03:25:23+00:00
-url: /cheating-vs-relaxing/
-categories:
-  - Uncategorized
++++
+title = "Cheating Vs Relaxing"
+date = 2019-07-05
++++
 
----
 There’s a concept in the dieting world called a “cheat day,” where the dieter will stick to a strict diet most of the time, but will take one day to indulge in the things they like, the things that they were trying to give up by dieting in the first place.
 
 This could also apply for non-dieting situations, in which the hopeful habit changer is trying to restrict their use of some other kind of drug. A “cheat day” would essentially be a relapse day.

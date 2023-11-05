@@ -1,13 +1,8 @@
----
-title: Functional Lemons
-author: ziahassan
-type: post
-date: 2019-04-10T14:43:22+00:00
-url: /functional-lemons/
-categories:
-  - Uncategorized
++++
+title = "Functional Lemons"
+date = 2019-04-10
++++
 
----
 I was at a restaurant recently with a few friends, and I ordered a Diet Coke. It came in a glass with a lemon wedge on top. 
 
 “I love when my Diet Coke comes with a lemon wedge,” I said. “I think it’s because you get to smell the fresh acidity of the lemon scent as you sip.”

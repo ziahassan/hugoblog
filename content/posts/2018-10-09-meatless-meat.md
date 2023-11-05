@@ -1,13 +1,13 @@
----
-title: Meatless Meat
-author: ziahassan
-type: post
-date: 2018-10-09T00:39:52+00:00
-url: /meatless-meat/
-categories:
-  - Uncategorized
++++
+title = "Meatless Meat"
+date = 2018-10-09
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 I get confused and amused at some vegan and vegetarian recipes that show up on the internet. Usually it’s some kind of listicle about going meatless, some kind of challenge to get people to get less animal products, or sometimes less carbs. 
 
 Examples: White bean meatballs, no cheese cheeseburgers, eggplant bacon, cauliflower rice, etc. 

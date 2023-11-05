@@ -1,13 +1,8 @@
----
-title: How Do You Take Your Water?
-author: ziahassan
-type: post
-date: 2019-07-21T13:18:03+00:00
-url: /how-do-you-take-your-water/
-categories:
-  - Uncategorized
++++
+title = "How Do You Take Your Water"
+date = 2019-07-21
++++
 
----
 Do you take it plain, no ice, in a tall glass? Or in a metal water bottle? Glass? BPA-free plastic?
 
 If there&#8217;s ice, do you take it crushed or cubed? Is there any fruit infused? Do you like carbonation in your water?

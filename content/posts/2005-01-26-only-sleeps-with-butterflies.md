@@ -1,15 +1,8 @@
----
-title: only sleeps with butterflies.
-author: ziahassan
-type: post
-date: 2005-01-26T03:08:00+00:00
-draft: true
-private: true
-url: /only-sleeps-with-butterflies/
-categories:
-  - Uncategorized
++++
+title = "Only Sleeps With Butterflies"
+date = 2005-01-26
++++
 
----
 Today marked a very joyous day in history. OASN went from inviting new members by email to an actual intiation, Chambers style. Ed, Scott, Ace and I got together for a few hours yesterday to figure something worthy out. 
 
 The plan went down this morning. Ed and I sneak into Leonard at approximately 2:57 am. New OASN member Dominic is partying in a room on our floor. We capture him and blindfold him with Liza&apos;s handkerchief. 

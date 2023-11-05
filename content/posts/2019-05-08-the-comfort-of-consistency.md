@@ -1,13 +1,8 @@
----
-title: The Comfort of Consistency
-author: ziahassan
-type: post
-date: 2019-05-08T21:46:55+00:00
-url: /the-comfort-of-consistency/
-categories:
-  - Uncategorized
++++
+title = "The Comfort Of Consistency"
+date = 2019-05-08
++++
 
----
 There’s a few videos I’ve seen floating around the internet that are really fascinating to me. The videographer has captured a moment that happens daily or weekly, and it always happens the same way. For instance, here’s a [video][1] of a professor who walks into his classroom in the same way every day, saying “Hello” while holding a stack of papers in his left hand. 
 
 In [another one][2] a sibling picks up their sister from school, and she greets them the same way every single day &#8211; by shouting their name and running toward them. It’s super cute.

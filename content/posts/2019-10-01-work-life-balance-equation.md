@@ -1,15 +1,8 @@
----
-title: Work/Life Balance Equation
-author: ziahassan
-type: post
-date: 2019-10-01T16:10:14+00:00
-url: /work-life-balance-equation/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "Work Life Balance Equation"
+date = 2019-10-01
++++
 
----
 One of the things that&#8217;s kept me energized and uplifted over the last year as a new parent has been my job. Many other people that I&#8217;ve spoken to actually dreaded going back to their job after time off with their kids. I enjoyed every single moment of my paternity leave and would live inside of it if I could&#8230; but when I returned to work, the chaos from having a newborn started to subside a bit.
 
 Of course, this moment coincided with my son going to daycare, and also becoming a little more independent in life. 

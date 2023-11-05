@@ -1,13 +1,8 @@
----
-title: Changing my Brain Chemistry on Salads
-author: ziahassan
-type: post
-date: 2019-03-23T13:49:51+00:00
-url: /changing-my-brain-chemistry-on-salads/
-categories:
-  - Uncategorized
++++
+title = "Changing My Brain Chemistry On Salads"
+date = 2019-03-23
++++
 
----
 There’s something about exiting your 20’s and hitting your mid-30’s (like a bird against the window) that makes you really stop and think about your physical health. Throughout the years, I have made numerous attempts to lose weight and/or become healthier (because those are not always the same thing). 
 
 Some attempts had mixed results, like when I decided to jog every day for 30 minutes. I didn’t lose any weight in the process, but I did do cardio every day for a summer, and that was pretty useful. I also learned how to have discipline over a fitness regimen, something that I was severely lacking in my 20’s.

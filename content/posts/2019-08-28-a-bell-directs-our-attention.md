@@ -1,13 +1,8 @@
----
-title: A Bell Directs our Attention
-author: ziahassan
-type: post
-date: 2019-08-28T15:58:40+00:00
-url: /a-bell-directs-our-attention/
-categories:
-  - Uncategorized
++++
+title = "A Bell Directs Our Attention"
+date = 2019-08-28
++++
 
----
 When a group of meditators in the Zen tradition meet at a temple to practice together, the meditation usually starts by the leader hitting a gong or a bell of some kind. 
 
 This is not only a signal that the group will start meditating soon, but it is also a way of directing attention.

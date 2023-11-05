@@ -1,13 +1,8 @@
----
-title: The Secret to Producing a lot of Writing
-author: ziahassan
-type: post
-date: 2020-02-06T14:27:13+00:00
-url: /the-secret-to-producing-a-lot-of-writing/
-categories:
-  - Process
++++
+title = "The Secret To Producing A Lot Of Writing"
+date = 2020-02-06
++++
 
----
 It’s clear to anyone that follows my work that I write a lot. A book last month, a blog post every day, and then there’s all the writing I do that no one but me sees, like in my journal (the DayOne app). Then there are all the lists I make, the notes and observations I take in the Drafts app that end up becoming these blog posts. It’s a lot.
 
 There are many secrets to producing a lot of writing. One, of course is not caring about the writing being perfect. I have a book of essays based on blog posts that I’ve been compiling over the last few years, for instance, and I’ve been refining and expanding on some of the ideas that I post here. It’s useful… but once you get past that, there’s another important thing to consider.

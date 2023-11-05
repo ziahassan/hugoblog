@@ -1,13 +1,8 @@
----
-title: Malaysian Toilets (Cultural Orientation)
-author: ziahassan
-type: post
-date: 2018-12-10T15:09:19+00:00
-url: /malaysian-toilets-cultural-orientation/
-categories:
-  - Uncategorized
++++
+title = "Malaysian Toilets Cultural Orientation"
+date = 2018-12-10
++++
 
----
 I was giving a demonstration of a piece of software that reads text aloud in various languages. To show it off, I set up a text document comprised of the same sentence but written in a number of different languages. As the software read out loud, it highlighted each individual word as it said it. Eventually it got to the Arabic section. 
 
 “It reads it backward!” I shouted over the reading, to emphasize the point that the software tracked the words from right to left, instead of the usual left to right of the other languages in the document. 

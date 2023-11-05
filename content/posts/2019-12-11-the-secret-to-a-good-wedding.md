@@ -1,13 +1,13 @@
----
-title: The Secret to a Good Wedding
-author: ziahassan
-type: post
-date: 2019-12-11T20:40:10+00:00
-url: /the-secret-to-a-good-wedding/
-categories:
-  - Process
++++
+title = "The Secret To A Good Wedding"
+date = 2019-12-11
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 Many of my friends have told me that my wedding was one of the most fun events they’ve been to. What was our secret, they ask?
 
 The venue we picked was gorgeous, with incredible decorations and atmosphere. We had an indoor area for eating and dancing, and an outdoor area for the ceremony. The location was perfect: Minneapolis in June, on a picture perfect day. And the ceremony itself was unique, combining wedding traditions from both Jewish and Indian/Muslim cultures. All of these variables contributed to the overall success of the wedding. 

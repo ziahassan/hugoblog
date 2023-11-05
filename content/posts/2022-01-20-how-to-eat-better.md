@@ -1,13 +1,8 @@
----
-title: How to Eat Better
-author: ziahassan
-type: post
-date: 2022-01-20T20:57:56+00:00
-url: /how-to-eat-better/
-categories:
-  - Uncategorized
++++
+title = "How To Eat Better"
+date = 2022-01-20
++++
 
----
 The secret to eating better was lost on me for years.
 
 I tried diet plans, reducing calories, time-restricted eating, the works.

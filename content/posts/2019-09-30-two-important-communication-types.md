@@ -1,13 +1,8 @@
----
-title: Two Important Communication Types
-author: ziahassan
-type: post
-date: 2019-09-30T15:06:22+00:00
-url: /two-important-communication-types/
-categories:
-  - Uncategorized
++++
+title = "Two Important Communication Types"
+date = 2019-09-30
++++
 
----
 You could split communication into about a million cross sections. Here are a couple that are worth mentioning. 
 
   1. Direct communication: when you say what you mean, using economy of language (as few words as possible to clearly communicate a point). 

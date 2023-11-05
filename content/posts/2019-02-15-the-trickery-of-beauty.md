@@ -1,13 +1,13 @@
----
-title: The Trickery of Beauty
-author: ziahassan
-type: post
-date: 2019-02-15T17:11:56+00:00
-url: /the-trickery-of-beauty/
-categories:
-  - Uncategorized
++++
+title = "The Trickery Of Beauty"
+date = 2019-02-15
++++
 
----
++++
+title = "02"
+date = 2019
++++
+
 If you’ve never been in a rain storm in Arizona, it can be quite intense for a short period of time, and then out of nowhere, the clouds will vanish and the sun will return, like nothing ever happened. It’s almost as if someone hit the reset button, right as the storm started to peak.
 
 I was in Tucson recently for one of these storms, so I took shelter. Afterward, I went for a walk by a pond, over a bridge. And as I crossed over the bridge, I noticed in the sky the stretchiest, most pot-of-gold looking rainbow I had ever seen in my life.

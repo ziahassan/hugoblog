@@ -1,15 +1,8 @@
----
-title: Kids Aren’t “Good at Tech”
-author: ziahassan
-type: post
-date: 2019-06-12T17:35:14+00:00
-url: /kids-arent-good-at-tech/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "Kids Arent Good At Tech"
+date = 2019-06-12
++++
 
----
 Educators and parents have made an assumption about technology that is hurting children. 
 
 The thinking goes like this: children naturally understand how to use technology. We don&#8217;t even need to teach them anymore. In fact, we should be letting them teach us.

@@ -1,13 +1,8 @@
----
-title: Tornado Warning
-author: ziahassan
-type: post
-date: 2019-04-28T20:35:00+00:00
-url: /tornado-warning/
-categories:
-  - Uncategorized
++++
+title = "Tornado Warning"
+date = 2019-04-28
++++
 
----
 When I was a kid, I was obsessed with hurricanes and tornadoes.
 
 “If there’s ever a tornado warning,” my mother told me with wide eyes, “then we’ll have to head to the basement where it’s safe. A tornado watch means we just need to be alert.”

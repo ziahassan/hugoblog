@@ -1,13 +1,13 @@
----
-title: Songs like Candy, Songs like Wine
-author: ziahassan
-type: post
-date: 2019-03-17T16:17:39+00:00
-url: /songs-like-candy-songs-like-wine/
-categories:
-  - Uncategorized
++++
+title = "Songs Like Candy Songs Like Wine"
+date = 2019-03-17
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 Sometimes the music I listen to is a lot like the food or drink I consume.
 
 I was sitting in my living room with my Discovery Weekly playlist on Spotify, with the 5pm sunlight streaming through the window. I was playing with my son on our couch and he was being particularly smiley and giggly that day. And then, this song by Eric Whitacre came on. He had taken the words to the popular children’s book Goodnight, Moon and he had turned it into a gorgeous choral arrangement.

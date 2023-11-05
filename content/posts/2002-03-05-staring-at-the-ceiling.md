@@ -1,15 +1,8 @@
----
-title: staring at the ceiling.
-author: ziahassan
-type: post
-date: 2002-03-05T19:15:27+00:00
-draft: true
-private: true
-url: /staring-at-the-ceiling/
-categories:
-  - Uncategorized
++++
+title = "Staring At The Ceiling"
+date = 2002-03-05
++++
 
----
 I could spend all the time spent trying to entertain you  
 I'm the Peter Pan of your early years&#8230;
 

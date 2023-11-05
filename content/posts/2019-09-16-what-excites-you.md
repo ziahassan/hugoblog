@@ -1,13 +1,8 @@
----
-title: What Excites You?
-author: ziahassan
-type: post
-date: 2019-09-16T15:39:01+00:00
-url: /what-excites-you/
-categories:
-  - Uncategorized
++++
+title = "What Excites You"
+date = 2019-09-16
++++
 
----
 To break an old habit, I started replacing “what do you do for a living?” with “what are you excited about?”
 
 People are surprised when I ask this. It turns out that there are a few people that _are_ quite excited about their job, and there are many that find their jobs very dull, and their hobbies are really far more interesting. They’ll get eventually get to telling you about them, but I like using the excitement trigger as a way of launching into a conversation with someone new.

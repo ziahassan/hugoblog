@@ -1,11 +1,8 @@
----
-title: Name Nerds
-author: ziahassan
-type: post
-date: 2020-03-17T18:20:37+00:00
-url: /name-nerds/
++++
+title = "Name Nerds"
+date = 2020-03-17
++++
 
----
 There’s another interesting subreddit I sometimes look at called r/namenerds. It’s exactly what the name implies; these are people who geek out over names. They love names that string together well, first and last initials, nicknames, name rhythms, unique names, pet names, and everything in between.
 
 It occurred me to that these are, in the end, lovers of poetry. What is a name of it isn’t poetry? Why do we seek to know the meaning of people’s names if it doesn’t unlock some curious part of us? 

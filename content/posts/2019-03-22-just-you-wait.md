@@ -1,13 +1,8 @@
----
-title: Just You Wait vs. Right Now
-author: ziahassan
-type: post
-date: 2019-03-22T13:46:16+00:00
-url: /just-you-wait/
-categories:
-  - Uncategorized
++++
+title = "Just You Wait"
+date = 2019-03-22
++++
 
----
 “Just you wait until you get married. Your life choices get narrower.”
 
 “Just you wait until you have a child. Your life is no longer about you.”

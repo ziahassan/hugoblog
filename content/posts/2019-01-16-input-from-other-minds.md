@@ -1,13 +1,8 @@
----
-title: Input From Other Minds
-author: ziahassan
-type: post
-date: 2019-01-16T23:56:22+00:00
-url: /input-from-other-minds/
-categories:
-  - Uncategorized
++++
+title = "Input From Other Minds"
+date = 2019-01-16
++++
 
----
 Cal Newport, on a podcast recently, talked about his new book on digital minimalism. It&#8217;s the idea that we need to start thinking about what we consume online just like we do with food consumption. That our online habits are making us unhealthy. That we should remove all unhealthy inputs for a while and then only add back in the ones that have actual value, as opposed to the strictly habitual ones. 
 
 He mentioned that everyone needs some solitude in their day, and he defines that as “freedom from the input of other people&#8217;s minds.” 

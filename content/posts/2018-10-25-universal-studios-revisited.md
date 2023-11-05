@@ -1,13 +1,13 @@
----
-title: Universal Studios, revisited
-author: ziahassan
-type: post
-date: 2018-10-25T00:58:14+00:00
-url: /universal-studios-revisited/
-categories:
-  - Uncategorized
++++
+title = "Universal Studios Revisited"
+date = 2018-10-25
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 About a year ago, I was in Orland for a work event, so I found some time with my colleagues to sneak off to Universal Studios. Mostly, I was interested in seeing Harry Potter World. 
 
 Walking into the park, I felt the exact same way I did as a kid: completely excited and ready for some kind of adventure. I remembered, in the back of my mind, how _huge_ the rides felt… how it felt like you were actually in whatever movie was being modeled, how there was actual fire, and water spraying and…

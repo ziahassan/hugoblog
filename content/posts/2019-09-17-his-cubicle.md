@@ -1,13 +1,8 @@
----
-title: His Cubicle
-author: ziahassan
-type: post
-date: 2019-09-17T15:32:00+00:00
-url: /his-cubicle/
-categories:
-  - Uncategorized
++++
+title = "His Cubicle"
+date = 2019-09-17
++++
 
----
 When my son was 5 months old, we unboxed a walker that someone had gifted us. We’d put his little legs through the holes in the walker and then he could stand up right. At the level of his hands were a whole bunch of wheels and knobs that made interesting noises when he twisted and pressed and pulled.
 
 We’d put him in this walker soon after he woke up each day. It’d be his play place while we’d get ready for work, and since he couldn’t really move his feet at the time, it was a perfect way to contain him. 

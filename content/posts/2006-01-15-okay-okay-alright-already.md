@@ -1,16 +1,8 @@
----
-title: okay, okay, alright already.
-author: ziahassan
-type: post
-date: 2006-01-15T19:11:07+00:00
-excerpt: "I keep getting these flashbacks of Egypt, and actually back even farther. It kinda soothes me."
-draft: true
-private: true
-url: /okay-okay-alright-already/
-categories:
-  - Uncategorized
++++
+title = "Okay Okay Alright Already"
+date = 2006-01-15
++++
 
----
 Why do people get offended when you give em compliments?
 
 Ok so it's maybe it's not really offense they're taking. I'm talking about that kinda awkward stare they give you, and then after a quick "thank you" they run and tell all their friends about how weird you are. And then they begin to think you have something for em or something. There are so many people, and I wanna tell them how great I think they are. I'm like that. But the thing is most of them I don't know very well. They'd think I was being stupid. Or coming onto them or something.

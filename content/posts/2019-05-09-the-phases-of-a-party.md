@@ -1,13 +1,13 @@
----
-title: The Phases of a Party
-author: ziahassan
-type: post
-date: 2019-05-09T21:13:30+00:00
-url: /the-phases-of-a-party/
-categories:
-  - Uncategorized
++++
+title = "The Phases Of A Party"
+date = 2019-05-09
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 You haven’t felt this for quite a while.
 
 You’re at the party and it seems to be endless. Due to the nature of the fact that you’re intoxicated and also among your best friends, time seems to slow. Not to mention you’re younger, maybe in your 20’s.

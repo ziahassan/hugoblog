@@ -1,16 +1,8 @@
----
-title: do what you were doing 18 years ago.
-author: ziahassan
-type: post
-date: 2006-06-26T19:29:55+00:00
-excerpt: 'That was how we bought LPs, dad and I. He would put me on his shoulders and I would select an album based on the artwork. Much easier to do with LPs because of their size - my 2 year old eyes could see everything so vividly.'
-draft: true
-private: true
-url: /do-what-you-were-doing-18-years-ago/
-categories:
-  - Uncategorized
++++
+title = "Do What You Were Doing 18 Years Ago"
+date = 2006-06-26
++++
 
----
 18 years ago, I was most likely jumping on my trapoline in the basement, an activity which I performed until I got tired. Then, I would take my Fisher-Price phonograph and pull out a random LP from my dad&#8217;s collection, and it was generally one that I hadn&#8217;t heard before, or didn&#8217;t even like, but if the cover was appealing, I would always give it another shot. That was how we bought LPs, dad and I. He would put me on his shoulders and I would select an album based on the artwork. Much easier to do with LPs because of their size &#8211; my 2 year old eyes could see everything so vividly. In fact, when we transitioned into CDs, I was horribly upset at the size of the CDs that I didn&#8217;t want any despite the fact that our only phonograph was a $20 Fisher-Price and my dad had invested a few thousand dollars in a soundsystem with a cd player.
 
 Yesterday, I returned the digital voice recorder to Best Buy. It was helpful, but I knew I didn&#8217;t really need it. Besides, with the store credit I got, I ended up getting a combo <a title="phonograph/cd-player/fm-am radio">phonograph/cd-player/fm-am radio</a>. It&#8217;s not that exact model, but it&#8217;s similar, and actually a little better looking.

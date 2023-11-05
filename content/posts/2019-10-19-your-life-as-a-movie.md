@@ -1,13 +1,8 @@
----
-title: Your Life as a Movie
-author: ziahassan
-type: post
-date: 2019-10-19T23:11:20+00:00
-url: /your-life-as-a-movie/
-categories:
-  - Uncategorized
++++
+title = "Your Life As A Movie"
+date = 2019-10-19
++++
 
----
 In some ways, we experience our lives a bit like we might experience a movie. Events happen, we react to them. We’re the audience _and_ the protagonist. 
 
 But, unlike the audience and protagonist, we end up creating emotions from scratch. We decide our own triggers, habits, likes, and dislikes. We decide what deserves the audience’s attention. 

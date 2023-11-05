@@ -1,13 +1,13 @@
----
-title: Long Term Friends and Being Yourself
-author: ziahassan
-type: post
-date: 2018-06-02T15:29:20+00:00
-url: /shy-cousin-syndrome-long-term-friends-and-being-yourself/
-categories:
-  - Uncategorized
++++
+title = "Shy Cousin Syndrome Long Term Friends And Being Yourself"
+date = 2018-06-02
++++
 
----
++++
+title = "06"
+date = 2018
++++
+
 Some of my cousins live far away, so when it was the first time we&#8217;d seen each other in a while, there was always a bit of awkwardness. A moment or two of shyness, of hiding behind our parents legs&#8230; and then we&#8217;d participate in some activity that was really more like parallel play, and after that&#8230; pure bliss, as we discovered that, despite being a few years older than the last time, we were pretty much the same and could pick up exactly where we left off.
 
 Last night, I was with some friends from middle school. I hadn&#8217;t seen these friends in nearly 20 years (we went to an international school in Cairo, Egypt).

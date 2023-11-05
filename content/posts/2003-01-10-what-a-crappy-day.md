@@ -1,15 +1,13 @@
----
-title: what a crappy day.
-author: ziahassan
-type: post
-date: 2003-01-10T19:46:07+00:00
-draft: true
-private: true
-url: /what-a-crappy-day/
-categories:
-  - Uncategorized
++++
+title = "What A Crappy Day"
+date = 2003-01-10
++++
 
----
++++
+title = "01"
+date = 2003
++++
+
 Quarter to six and I'm sitting in my room eating noodles. The weekend has begun.
 
 Today was a really horrible day. I started off by telling Christine about how I thought it was going to be a terrible day for some reason, and she disagreed, and said that my day is only as good as I think it's going to be. So if I think it's going to bad it'll be bad, and vice versa. But I guess I was right.

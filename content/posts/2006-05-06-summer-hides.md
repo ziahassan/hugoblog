@@ -1,17 +1,8 @@
----
-title: summer hides.
-author: ziahassan
-type: post
-date: 2006-05-06T06:47:34+00:00
-excerpt: |
-  "We had elections in the studio and I'm to be the president of OASN next semester.  Feels like getting hired as the "new James Bond" or something, and it takes getting used to. Once again, we get a facelift.  Always bigger and better."
-draft: true
-private: true
-url: /summer-hides/
-categories:
-  - Uncategorized
++++
+title = "Summer Hides"
+date = 2006-05-06
++++
 
----
 There have been times over the past few months where I&#8217;ve really considered writing in this blog again, only to have some new project or obligation arrive at my doorstep in a package with a bow. I&#8217;m not apologizing, but miss tying these threads together. It&#8217;s not lack of time &#8211; writing a few paragraphs doesn&#8217;t take a while. It&#8217;s actually organizing and reflecting on what&#8217;s been happening lately, the whirlwind that the end of the semester has created, and logging it all. Logging.
 
 It has been a fantastic week. We had our final concert on the last day of class and we felt like rockstars. The studio has been a much more interesting experience this time around &#8211; more talent, more microphones, old-school engineer, etc. Seventeen songs sounded ambitious to most of us, and to our prorcer, but we managed to get most of the tracking done in the 20 hours we had allocated (a couple of us head back for an extra hour of tracking on Wednesday, and then the mixing process begins). We had spent a couple hundred dollars trying to get a feel for what mixing would be like. According to the technicians, the less time spent mixing, the sloppier the final product. Maybe I shouldn&#8217;t have placed as much blame as I did on Archie&#8217;s lack of experience. I had woken up that day at 7:30 to get my new license, and I ended up taking a nap on one of the comfy couches in the lobby of the studio. Things really started to come together once we let go of the idea of separation, and we started to listen to each other in a clump rather than scattered across the room. Who knew that natural blending would beat artificial? Some of the group members think of our records as methods of archiving our work, but I&#8217;m certain that this will turn out to be something more. Need to produce way less discs this time around &#8211; turns out the demand isn&#8217;t quite as strong as we&#8217;d thought it was.

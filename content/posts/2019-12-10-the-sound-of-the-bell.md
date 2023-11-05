@@ -1,11 +1,13 @@
----
-title: The Sound of the Bell
-author: ziahassan
-type: post
-date: 2019-12-11T01:18:55+00:00
-url: /the-sound-of-the-bell/
++++
+title = "The Sound Of The Bell"
+date = 2019-12-10
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 At the end of a meditation session, a monk or leader generally rings a bell. It’s been said that this is the only time that you’ve actually meditated, when the bell is rung.
 
 This is because you’ve spent the last however many minutes in a cycle of mind redirection, of your mind wandering and of bringing it back to the present moment. It’s a self-regulated exercise for everyone in the room. Each person, at any point in the meditation is either coming back to the present (waking up) or getting lost in thought (sleeping). Until, at the very end of the session&#8230;

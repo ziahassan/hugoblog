@@ -1,13 +1,8 @@
----
-title: Living Without
-author: ziahassan
-type: post
-date: 2019-09-23T18:50:00+00:00
-url: /living-without/
-categories:
-  - Uncategorized
++++
+title = "Living Without"
+date = 2019-09-23
++++
 
----
 I’ve managed to live in 2019 without watching Game of Thrones, one of the most popular TV shows among my peer group. 
 
 It’s not that I’m avoiding the show; I just never got into it. 

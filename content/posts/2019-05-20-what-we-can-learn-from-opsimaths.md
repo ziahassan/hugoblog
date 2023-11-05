@@ -1,13 +1,8 @@
----
-title: What We Can Learn from Opsimaths
-author: ziahassan
-type: post
-date: 2019-05-20T17:22:19+00:00
-url: /what-we-can-learn-from-opsimaths/
-categories:
-  - Uncategorized
++++
+title = "What We Can Learn From Opsimaths"
+date = 2019-05-20
++++
 
----
 It’s easy to think when you look at the news and other media, that early achievement is expected because of how celebrated it is. Build a successful business in high school and no doubt that a local paper will write about you. Graduate from high school and go immediately to work for Google, and you’re a genius. 
 
 But what if this isn’t you? What if you graduate college or high school just as directionless as you were when you started? Considering that _nearly half_ of the current generation (Generation Z) has zero idea of what they want to do with their lives when they “grow up,” it’s pretty clear that this sort of direction and success so early is a rarity.

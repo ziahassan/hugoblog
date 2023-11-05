@@ -1,13 +1,8 @@
----
-title: Esca-lefters and Other Minor Inconveniences
-author: ziahassan
-type: post
-date: 2019-01-17T20:54:53+00:00
-url: /esca-lefters-and-other-minor-inconveniences/
-categories:
-  - Uncategorized
++++
+title = "Esca Lefters And Other Minor Inconveniences"
+date = 2019-01-17
++++
 
----
 Escalators: stand to the right, walk to the left. 
 
 Until someone forgets this unspoken and unposted rule, and stands jutting out a little bit into the left side of the moving stairs. 

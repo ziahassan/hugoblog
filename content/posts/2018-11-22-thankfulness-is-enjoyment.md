@@ -1,13 +1,13 @@
----
-title: Thankfulness is Enjoyment
-author: ziahassan
-type: post
-date: 2018-11-22T15:39:49+00:00
-url: /thankfulness-is-enjoyment/
-categories:
-  - Uncategorized
++++
+title = "Thankfulness Is Enjoyment"
+date = 2018-11-22
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 I’m thankful that I can type a blog post from a device that fits into my pocket. It’s a dream I’ve always had, ever since I was a kid.
 
 I’m thankful that airplanes can transport people to places that are far away, so that they can spend time with the people they don’t see every day.

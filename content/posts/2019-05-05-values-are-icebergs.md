@@ -1,13 +1,13 @@
----
-title: Values are Icebergs
-author: ziahassan
-type: post
-date: 2019-05-05T12:57:36+00:00
-url: /values-are-icebergs/
-categories:
-  - Uncategorized
++++
+title = "Values Are Icebergs"
+date = 2019-05-05
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 A classic feature of Facebook these days is the endless and circular arguments people get into. I&#8217;m a proponent of conversation, of debate, of thoughtfulness. But I rarely see arguments on Facebook or Twitter achieve anything useful. 
 
 Persuasion doesn&#8217;t have to be a zero sum game. If I have a belief and you challenge my belief, I might counter-challenge and we might both emerge with a better sense of the issue due to being exposed to two varying perspectives. 

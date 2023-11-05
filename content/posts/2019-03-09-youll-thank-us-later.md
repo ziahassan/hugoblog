@@ -1,13 +1,8 @@
----
-title: You’ll Thank Us Later
-author: ziahassan
-type: post
-date: 2019-03-10T01:47:26+00:00
-url: /youll-thank-us-later/
-categories:
-  - Uncategorized
++++
+title = "Youll Thank Us Later"
+date = 2019-03-09
++++
 
----
 Middle School is when everything your parents say makes no sense to you, when your friends become enemies and enemies become friends at the drop of a hat, and you have to start thinking, at least a little bit, about growing from a child to an adult. You also have to remember a locker code, or at least I did when I was a teenager.
 
 I was lucky enough to spend some of these formative years in Cairo, Egypt. It was an interesting time, because I was going through puberty quicker and sooner than almost everyone else. I had full facial hair by age 13, which made me a freak show and a hero all at the same time. It’s awkward to live your pre-teen years looking and acting more like a teen teen.

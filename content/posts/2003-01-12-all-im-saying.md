@@ -1,15 +1,8 @@
----
-title: all i’m saying…
-author: ziahassan
-type: post
-date: 2003-01-12T19:49:47+00:00
-draft: true
-private: true
-url: /all-im-saying/
-categories:
-  - Uncategorized
++++
+title = "All Im Saying"
+date = 2003-01-12
++++
 
----
 It's been a fantastic day.
 
 I woke up at like 11 and hung around in my house till 2. I picked Christine up and we went to eat at subway, and then went to White Flint, cuz she had a Borders gift certificate. She was in between a journal, Dante's Inferno, and some other stuff, and ended up just buying a book that is all about trashy movies 🙂 The guy at the register gave her 10% off. I thought it was neat.

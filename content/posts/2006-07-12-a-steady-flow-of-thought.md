@@ -1,15 +1,8 @@
----
-title: a steady flow of thought.
-author: ziahassan
-type: post
-date: 2006-07-12T19:57:44+00:00
-draft: true
-private: true
-url: /a-steady-flow-of-thought/
-categories:
-  - Uncategorized
++++
+title = "A Steady Flow Of Thought"
+date = 2006-07-12
++++
 
----
 Idea: Keep another journal handy at all times, with a super strong [pen][1]. Use this to document everything. Take notes on human life, certain light beams, sounds you hear. Use it for exercises like writing five words down. Systematic poetry, non-systematic. Books you&#8217;d like to buy, places you&#8217;d like to travel. This is different from a blog &#8211; you collect thoughts, rather than compose them.
 
 Andy&#8217;s new deck is nice. Before that, went to Potbelly with Billy and Alex, and after that to Barnes and Noble. I bought Six Thinking Hats by Edward De Bono, which I&#8217;ve been wanting to read for a while. It&#8217;s the idea of having a team that, instead of having a bunch of different perspectives talking at each other all at once, separating the discussion into sections where different persepectives are evaluated at the same time. Everybody can be on the same page, so on and so forth. Useful for next year, I&#8217;d imagine.

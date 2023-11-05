@@ -1,13 +1,8 @@
----
-title: Writing to Persuade, Writing to Inform
-author: ziahassan
-type: post
-date: 2021-04-02T03:01:09+00:00
-url: /writing-to-persuade-writing-to-inform/
-categories:
-  - Uncategorized
++++
+title = "Writing To Persuade Writing To Inform"
+date = 2021-04-01
++++
 
----
 These are two separate ideas and require two different skillsets. 
 
 The psychologist and author Jonathan Haidt describes the human brain like a rider on top of an elephant. The rider takes information and makes sense of it. The rider is logical and rational.

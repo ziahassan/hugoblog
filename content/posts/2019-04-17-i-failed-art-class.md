@@ -1,13 +1,13 @@
----
-title: I Failed Art Class
-author: ziahassan
-type: post
-date: 2019-04-17T22:03:53+00:00
-url: /i-failed-art-class/
-categories:
-  - Uncategorized
++++
+title = "I Failed Art Class"
+date = 2019-04-17
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 I was told in elementary school that I was probably not an artist.
 
 No, my teacher didn’t explicitly say that. But the grades I got on art projects were always low. I remember creating a painting once about people who looked like mushrooms living in the woods. I thought it was interesting, and clearly it was since it’s memorable to me years later. The title was “Save the Mushrooms” and I’m not exactly sure why. I got a C-, and I can’t remember the reason for that either. 

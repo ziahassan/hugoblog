@@ -1,13 +1,13 @@
----
-title: On Sleeping Earlier
-author: ziahassan
-type: post
-date: 2019-07-12T13:00:16+00:00
-url: /on-sleeping-earlier/
-categories:
-  - Uncategorized
++++
+title = "On Sleeping Earlier"
+date = 2019-07-12
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 When I was in my 20’s, when I just moved into an apartment by myself in the woods, I used to stay up pretty late.
 
 There was something about my apartment, maybe its dark and dingy quality, that made the night seem pretty similar to the day time.

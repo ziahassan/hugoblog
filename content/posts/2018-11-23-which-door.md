@@ -1,13 +1,8 @@
----
-title: Which Door?
-author: ziahassan
-type: post
-date: 2018-11-23T15:46:13+00:00
-url: /which-door/
-categories:
-  - Uncategorized
++++
+title = "Which Door"
+date = 2018-11-23
++++
 
----
 When we’re faced with a choice, it sometimes feels like we’re standing facing two or more doors, and thinking hard about which one to go through. We know that once we enter one of the doors, we can’t come back out and have a do-over without serious consequences.
 
 These types of decisions prompt us to think about the future. What will happen when we make a choice? How will it affect our livelihood, our families, our moods, and our wallets?

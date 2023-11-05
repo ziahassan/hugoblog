@@ -1,17 +1,8 @@
----
-title: nick blaemire is king.
-author: ziahassan
-type: post
-date: 2002-01-19T23:54:19+00:00
-excerpt: |
-  "Man I love snow. We're probably gonna get nothing though. I'm staying up now, simply cuz I love staying up late at night and listening to music. And I have to say David Garza is an excellent latenight companion. I need to find out the name of this song."
-draft: true
-private: true
-url: /nick-blaemire-is-king/
-categories:
-  - Uncategorized
++++
+title = "Nick Blaemire Is King"
+date = 2002-01-19
++++
 
----
 Well to explain my subject we saw Blood Brothers tonight at Northwest (broadway bound put it on) and 3 of my good friends were leads&#8230; and I was extremely impressed with all of them. Jesus, my boy Blaemire, I really hadn't seen him on stage for a while. Since west side actually, I'm pretty sure. And good lord, I was proud to say I knew him&#8230; and amy, jesus christ, and of course danny. They put on a great show. If your reading this on saturday morning, go the show tonight at northwest high school for 8 bucks at 8 o clock. WOW.
 
 Crunch week is coming to an end. Just review day and then exams. Ya know what's pretty fuckin annoying? Alright, check this. I take an exam. I know half of the answers, I get a 50. Someone else doesn't know anything, 0 percent. They're both the same letter. I think it should be spread out better. But then again everything can't be my way can it.

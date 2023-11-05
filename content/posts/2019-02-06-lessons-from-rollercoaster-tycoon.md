@@ -1,13 +1,13 @@
----
-title: Lessons from Rollercoaster Tycoon
-author: ziahassan
-type: post
-date: 2019-02-06T17:24:09+00:00
-url: /lessons-from-rollercoaster-tycoon/
-categories:
-  - Uncategorized
++++
+title = "Lessons From Rollercoaster Tycoon"
+date = 2019-02-06
++++
 
----
++++
+title = "02"
+date = 2019
++++
+
 I bought the game Rollercoaster Tycoon as a kid because I wanted some kind of immersive video gaming experience riding roller coasters. Turns out the game was actually a simulation of what it would be like to run a theme park. 
 
 I was disappointed to say the least, but back then I didn&#8217;t have another new game available, so I played tycoon. 

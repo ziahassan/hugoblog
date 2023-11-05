@@ -1,11 +1,13 @@
----
-title: Open to Being Wrong
-author: ziahassan
-type: post
-date: 2019-11-20T22:56:53+00:00
-url: /open-to-being-wrong/
++++
+title = "Open To Being Wrong"
+date = 2019-11-20
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 Most people get a thrill out of being _right_. That is, if they can prove their point well enough that another person is persuaded, they feel good about themselves. Their viewpoints become validated. 
 
 But I’d like to meet more people who are open to being wrong. I’m not talking about the mere admittance that one _could_ be wrong, but that they actively seek out ways to discredit their own views, as counter-intuitive as the idea sounds.

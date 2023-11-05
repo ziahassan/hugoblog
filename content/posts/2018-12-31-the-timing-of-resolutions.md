@@ -1,13 +1,13 @@
----
-title: The Timing of Resolutions
-author: ziahassan
-type: post
-date: 2018-12-31T16:54:07+00:00
-url: /the-timing-of-resolutions/
-categories:
-  - Uncategorized
++++
+title = "The Timing Of Resolutions"
+date = 2018-12-31
++++
 
----
++++
+title = "12"
+date = 2018
++++
+
 In college, I remember making a New Years resolution to work out more at the gym. On Jan 2nd, I went to my university’s gym to find that not a single machine was vacant.
 
 “Resolutions,” the front desk attendant muttered. “They’ll all be gone by February. Just watch.”

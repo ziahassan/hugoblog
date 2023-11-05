@@ -1,13 +1,8 @@
----
-title: The 20 Minute Rule
-author: ziahassan
-type: post
-date: 2018-03-23T01:21:57+00:00
-url: /overdeveloped-intuition-or-the-20-minute-rule/
-categories:
-  - Uncategorized
++++
+title = "Overdeveloped Intuition Or The 20 Minute Rule"
+date = 2018-03-23
++++
 
----
 There’s a website called [Let Me Google That For You][1].
 
 It is a by-product of the way that many people solve problems. Specifically, that people are quick to assume that when they don’t _have_ answers, the obstacles that need to be overcome in order to _get_ answers are insurmountable. 

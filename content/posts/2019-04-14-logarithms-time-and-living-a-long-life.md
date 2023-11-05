@@ -1,13 +1,13 @@
----
-title: Logarithms, Time, and Living a Long Life
-author: ziahassan
-type: post
-date: 2019-04-14T16:14:00+00:00
-url: /logarithms-time-and-living-a-long-life/
-categories:
-  - Uncategorized
++++
+title = "Logarithms Time And Living A Long Life"
+date = 2019-04-14
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 In 1987, Paul Janet put forward the idea that when you’re one year old, a year is 100% of your life. When you’re 2, a year is reduced to 50%, and so on. It’s why car rides are so long for young children, and why waiting for summer break can sometimes feel like an eternity when you’re young but then three fly by in what seems like an instant as an adult.
 
 The apparent length of a period of time is proportional to the total time you’ve been alive. If you were to map it on with a line, you’d see your life compress toward the end, creating a logarithmic type of function. 

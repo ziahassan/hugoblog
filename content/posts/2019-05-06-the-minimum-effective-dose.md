@@ -1,13 +1,8 @@
----
-title: The Minimum Effective Dose
-author: ziahassan
-type: post
-date: 2019-05-07T02:56:32+00:00
-url: /the-minimum-effective-dose/
-categories:
-  - Uncategorized
++++
+title = "The Minimum Effective Dose"
+date = 2019-05-06
++++
 
----
 How many Advil do you take? I ask people this question whenever they ask for medicine at my house.
 
 Most people say two, but the minimum effective dose, which is the minimum amount of the medicine needed to remove your pain, is only one pill. There’s a chance that people are confusing Advil with Tylenol, which has an MED of 2, according to the bottle.

@@ -1,15 +1,8 @@
----
-title: music is awesome.
-author: ziahassan
-type: post
-date: 2002-04-15T19:25:15+00:00
-draft: true
-private: true
-url: /music-is-awesome/
-categories:
-  - Uncategorized
++++
+title = "Music Is Awesome"
+date = 2002-04-15
++++
 
----
 I just want to let every one know that if you really are a music enthusiast, you should buy Koss TD-80 headphones. I was in georgetown with sarah anne and christine and I bought em and they are just amazing. The normal headphones has like 15-30 Ohms, this has 60 ohms&#8230; the highest frequency it picks up is 20,000 hz and the lowest is 17,000 hz. This thing is true hardcore. It's been a very long day&#8230; I can't believe I actually made it through it. Some people just make things more bearable I guess.
 
 Discs to check out:  

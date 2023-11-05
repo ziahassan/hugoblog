@@ -1,13 +1,8 @@
----
-title: A Hodge Lodge Can Bring Us to the Edges of Culture
-author: ziahassan
-type: post
-date: 2018-11-28T15:34:28+00:00
-url: /a-hodge-lodge-can-bring-to-the-edges-of-culture/
-categories:
-  - Uncategorized
++++
+title = "A Hodge Lodge Can Bring To The Edges Of Culture"
+date = 2018-11-28
++++
 
----
 I was at a place in DC called the O St. Mansion. If you live or visit DC, I highly recommend going to this venue. I was there recording a podcast but had the chance to explore the grounds after. 
 
 In essence, it’s a huge mansion that has a number of different rooms, and each room has a completely different feel. It’s a functioning hotel, but the hotel isn’t really themed in any meaningful way &#8211; it’s a hodge-podge of culture and art.

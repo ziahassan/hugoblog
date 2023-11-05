@@ -1,13 +1,8 @@
----
-title: Hatred as a Transaction
-author: ziahassan
-type: post
-date: 2019-01-20T13:35:59+00:00
-url: /hatred-as-a-transaction/
-categories:
-  - Uncategorized
++++
+title = "Hatred As A Transaction"
+date = 2019-01-20
++++
 
----
 There are people out there whose sole focus is to get you to love them. So they do things that they think will make you love them; they will ask about your life, the records you&#8217;ve been into, the food you like, the meaning of your life. 
 
 And then there are people who want to inspire hatred toward themselves. They are the ones who troll, who post nasty comments on the YouTube channels of children. They are the people who yuck your yum. They crave interaction, and inspiring hatred is the cheapest interaction of all because doing so activates our defenses in no time. 

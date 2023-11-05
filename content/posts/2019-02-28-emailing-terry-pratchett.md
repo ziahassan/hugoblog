@@ -1,13 +1,13 @@
----
-title: Emailing Terry Pratchett
-author: ziahassan
-type: post
-date: 2019-03-01T02:56:53+00:00
-url: /emailing-terry-pratchett/
-categories:
-  - Uncategorized
++++
+title = "Emailing Terry Pratchett"
+date = 2019-02-28
++++
 
----
++++
+title = "02"
+date = 2019
++++
+
 Do you remember your first experience with the internet?
 
 When I was 9 or 10 (1994), my elementary school got a dial-up internet connection and the modem could connect to _one_ computer only. So classes would go into the computer lab and huddle around one computer monitor trying to watch the magic happen.

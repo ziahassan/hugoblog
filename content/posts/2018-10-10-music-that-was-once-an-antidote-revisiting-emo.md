@@ -1,13 +1,8 @@
----
-title: Music That Was Once an Antidote (revisiting Emo)
-author: ziahassan
-type: post
-date: 2018-10-10T21:00:00+00:00
-url: /music-that-was-once-an-antidote-revisiting-emo/
-categories:
-  - Uncategorized
++++
+title = "Music That Was Once An Antidote Revisiting Emo"
+date = 2018-10-10
++++
 
----
 I put on some old records that I enjoyed in my high school and college days the other day. I wanted to introduce some of these bands to my son.
 
 Now admittedly, it had been a while since I had listened to these albums. They could be described as: punk, emo, punk pop, ska, etc. I still know every word, and even the track order of most of the albums.

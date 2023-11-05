@@ -1,13 +1,8 @@
----
-title: An Argument Against Juicing
-author: ziahassan
-type: post
-date: 2019-07-06T15:19:47+00:00
-url: /an-argument-against-juicing/
-categories:
-  - Uncategorized
++++
+title = "An Argument Against Juicing"
+date = 2019-07-06
++++
 
----
 One of the most interesting documentaries I’ve watched in the past decade is called Fat, Sick and Nearly Dead. In it, the filmmakers make the case for juicing, claiming that since juice contains all of the nutrients in the actual fruit or vegetable, so drinking juice will put those nutrients directly into our bloodstream, much more quickly than it would if we were to spend time digesting a vegetable.
 
 But if you start to pick through the research, you come across an interesting fact: many of the benefits of eating a plant come from eating it whole, due to the fiber and extra nutrients that are discarded when you juice.

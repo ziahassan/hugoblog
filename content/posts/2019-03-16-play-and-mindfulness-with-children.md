@@ -1,13 +1,13 @@
----
-title: Play and Mindfulness with Children
-author: ziahassan
-type: post
-date: 2019-03-16T21:01:03+00:00
-url: /play-and-mindfulness-with-children/
-categories:
-  - Uncategorized
++++
+title = "Play And Mindfulness With Children"
+date = 2019-03-16
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 Playing with babies is a great way to meditate.
 
 My son is a little over six months old and something that took me a while to understand about him is that _everything_ is new to him.

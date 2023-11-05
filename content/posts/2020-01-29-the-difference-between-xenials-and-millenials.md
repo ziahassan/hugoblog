@@ -1,13 +1,13 @@
----
-title: The Difference Between Xenials and Millenials
-author: ziahassan
-type: post
-date: 2020-01-29T21:59:13+00:00
-url: /the-difference-between-xenials-and-millenials/
-categories:
-  - Parenting
++++
+title = "The Difference Between Xenials And Millenials"
+date = 2020-01-29
++++
 
----
++++
+title = "01"
+date = 2020
++++
+
 I was technically born right around the cusp of the start of the millennial. It makes me an _old_ millennial, or someone who only partially grew up with the internet. I still remember a time when I didn’t have the internet, but it wasn’t the internet that changed things for me.
 
 I’ve written about finite collections before. In today’s streaming playlist culture, I’ve ordered a stack of cheap CDs for my son to explore one day. That’s how I learned, through scrounging around in my dad’s record collection. 

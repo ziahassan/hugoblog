@@ -1,11 +1,13 @@
----
-title: Don’t Leave the Room
-author: ziahassan
-type: post
-date: 2019-11-24T20:03:26+00:00
-url: /dont-leave-the-room/
++++
+title = "Dont Leave The Room"
+date = 2019-11-24
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 Another alternative meditation technique is as follows.
 
 Enter the meditation room, close the door, and don’t open it again for the next 20 minutes. You must stay in this space.
@@ -14,4 +16,4 @@ But physically staying in a space is somewhat easy. We could read or watch TV in
 
 When I’m driving, I stay physically in the cars for hours sometimes. But metaphysically, I’m all over the place. I’ve left the car and I’m revisiting a memory from 2002. Or perhaps I’ve traveled into the future and I’m experiencing what Thanksgiving dinner will be like (in my imagination).
 
-When we stay in a room, both physically and spiritually, the room becomes the universe. 
+When we stay in a room, both physically and spiritually, the room becomes the universe.

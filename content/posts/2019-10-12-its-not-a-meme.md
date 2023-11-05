@@ -1,13 +1,8 @@
----
-title: It’s Not a Meme
-author: ziahassan
-type: post
-date: 2019-10-12T12:49:22+00:00
-url: /its-not-a-meme/
-categories:
-  - Uncategorized
++++
+title = "Its Not A Meme"
+date = 2019-10-12
++++
 
----
 These days, a _meme_ is how people describe a picture that has text over it in a particular font. It&#8217;s a piece of art that captures the zeitgeist of internet culture. 
 
 But the meaning of the word has changed. Memes may _look_ a certain way, and they can be emulated with apps and generators&#8230;

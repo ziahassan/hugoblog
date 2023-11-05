@@ -1,17 +1,8 @@
----
-title: people get old, air is less cold, new wave drinking games.
-author: ziahassan
-type: post
-date: 2006-06-01T18:41:07+00:00
-excerpt: |
-  "I suppose there is a certain amount of boredom associated with drinking beer when there are no real constraints or consequences. Think of it as liberating.  Now, you no longer abide by another's set of pointless rules - you can drink when you please, and how much you please.  No one can judge you for it, or say that you're a winner or loser. You just are."
-draft: true
-private: true
-url: /people-get-old-air-is-less-cold-new-wave-drinking-games/
-categories:
-  - Uncategorized
++++
+title = "People Get Old Air Is Less Cold New Wave Drinking Games"
+date = 2006-06-01
++++
 
----
 Over the couse of the year, I noticed that time was moving forward at a breakneck pace. I thought maybe it was factors like my classes being later in the day (spending more time sleeping, less time awake). But in the summer, I'm waking up at 7 every day, and it's still flying by very quickly.
 
 Two nights ago, on the brink of May 31st, we had a small get together at my house, to bring in Andy's birthday. I invited Kevin, who I haven't really talked to in almost a decade. He was kind enough to bring a sixpack of Negro. All of us had a great time, and the air was really warm. We saw a flicker of fireflies in the trees &#8211; a preview for what will come in July. Around midnight, we decided to get some fast food. Stood in the drive through at Wendy's with no significant outcome. Chris drove us there like a soccer mom in his station wagon.

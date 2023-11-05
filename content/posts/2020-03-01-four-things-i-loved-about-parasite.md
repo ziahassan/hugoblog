@@ -1,13 +1,13 @@
----
-title: Four Things I Loved About Parasite
-author: ziahassan
-type: post
-date: 2020-03-01T16:31:41+00:00
-url: /four-things-i-loved-about-parasite/
-categories:
-  - Reviews
++++
+title = "Four Things I Loved About Parasite"
+date = 2020-03-01
++++
 
----
++++
+title = "03"
+date = 2020
++++
+
 1. When things get gory toward the end. I’m not a fan of gratuitous violence really, even though I do love most of the Tarantino movies. A good story really makes the violence seem necessary to move the plot forward, and in this case, it worked.
 
 2. The father and son communicating via morse code at the end, as well as the inclusion of morse code in general.

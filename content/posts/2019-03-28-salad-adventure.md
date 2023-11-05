@@ -1,13 +1,13 @@
----
-title: Salad Adventure
-author: ziahassan
-type: post
-date: 2019-03-28T20:52:23+00:00
-url: /salad-adventure/
-categories:
-  - Uncategorized
++++
+title = "Salad Adventure"
+date = 2019-03-28
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 I’ve done it. I’ve bought myself five mason jars. I’ve loaded up on salad ingredients. And for the past half week or so, I have lunched on nothing but healthy and delicious salads. No breakfast.
 
 I don’t miss burgers or bagels or breakfast pastries.

@@ -1,13 +1,8 @@
----
-title: The Case for Multiple Reads
-author: ziahassan
-type: post
-date: 2019-02-12T19:00:50+00:00
-url: /the-case-for-multiple-reads/
-categories:
-  - Uncategorized
++++
+title = "The Case For Multiple Reads"
+date = 2019-02-12
++++
 
----
 When I was a classroom teacher, I used to teach a course called Close Reading of Complex Text. The idea behind the course is that if you give a student a text that is just slightly beyond their reading abilities (in other words, harder than a text they could understand by reading it one time, but not so hard that they give up), they will need to work hard to use their skills and extract meaning.
 
 That’s not a new idea for college and graduate students, who have to parse text constantly to extract meaning necessary to be effective in their class sessions. But for 3rd and 4th graders, this was a relatively new challenge, one brought on by changes in national standards (i.e. the common core).

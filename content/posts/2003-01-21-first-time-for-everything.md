@@ -1,15 +1,13 @@
----
-title: first time for everything.
-author: ziahassan
-type: post
-date: 2003-01-21T00:29:11+00:00
-draft: true
-private: true
-url: /first-time-for-everything/
-categories:
-  - Uncategorized
++++
+title = "First Time For Everything"
+date = 2003-01-21
++++
 
----
++++
+title = "01"
+date = 2003
++++
+
 here is definetely a first time for everything. Usually when it's a possible snowday I get really hopeful that they will cancel school. But I just don't feel that way about tommorow. I want school so I can get my exam done and then go out to brunch with my girlfriend. That'd be a great day.
 
 Today I recieved my last math quiz in high school EVER. I was so excited about that. My grades are looking like this for the end of the quarter.

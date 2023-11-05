@@ -1,13 +1,13 @@
----
-title: When Emojis Save Lives
-author: ziahassan
-type: post
-date: 2019-03-20T14:37:36+00:00
-url: /emojis-save-lives/
-categories:
-  - Uncategorized
++++
+title = "Emojis Save Lives"
+date = 2019-03-20
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 I&#8217;m old enough to remember the emoticon. The series of characters that you can type with a regular keyboard that look like facial expressions. Like this : ) or this ; )
 
 Sentiment is a funny thing. When we talk to each other in person, we are able to use facial cues, tiny micro movements, and other subtle body language to interpret meaning, feeling, and emotion. But now we communicate more and more online, so it&#8217;s important that we find ways to insert sentiment into our online conversations. Perhaps even as instinctively as we do with body language though perhaps more intentional.

@@ -1,13 +1,13 @@
----
-title: Be a Philospher; Find a Philosopher
-author: ziahassan
-type: post
-date: 2018-11-03T20:20:22+00:00
-url: /be-a-philospher-find-a-philosopher/
-categories:
-  - Uncategorized
++++
+title = "Be A Philospher Find A Philosopher"
+date = 2018-11-03
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 For most of my life, I assumed that being a philosopher required a doctorate, and perhaps a following. Mountains of writing in language that only the most intellectual among us can understand, and most of all, _status_.
 
 A few years ago, I was having lunch with a spiritual leader in DC and we were trying to categorize a particular writer, and basically deciding whether or not this writer was a philosopher or just a _writer_. That spurred a discussion about what it means to be a philosopher.

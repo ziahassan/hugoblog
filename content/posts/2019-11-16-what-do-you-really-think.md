@@ -1,11 +1,8 @@
----
-title: What Do You Really Think?
-author: ziahassan
-type: post
-date: 2019-11-16T18:31:33+00:00
-url: /what-do-you-really-think/
++++
+title = "What Do You Really Think"
+date = 2019-11-16
++++
 
----
 It takes some effort to figure out what we really think. Most of the time, we tell ourselves stories in order to make sense of our world. For instance, if I give a public talk or training (something I do almost daily), and the audience is lukewarm or distracted, I might start to tell myself a story. Like, the room is too warm. Or, it’s after lunch which explains the sleepiness. Whether or not the stories are true are a different thing altogether. Most of the time I can never verify.
 
 I decided, one day, to track how many stories I told myself. Every time I started telling myself a story about a family I saw at the mall, or about the neighbors, or about a driver on the road… I noted it.

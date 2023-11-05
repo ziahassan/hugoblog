@@ -1,13 +1,8 @@
----
-title: Technology Hygiene (some ideas)
-author: ziahassan
-type: post
-date: 2019-08-26T20:47:01+00:00
-url: /technology-hygiene-some-ideas/
-categories:
-  - Uncategorized
++++
+title = "Technology Hygiene Some Ideas"
+date = 2019-08-26
++++
 
----
 What if…
 
   * we deleted any application that didn’t exist before smartphones? 

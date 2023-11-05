@@ -1,13 +1,8 @@
----
-title: No Hand Holding
-author: ziahassan
-type: post
-date: 2019-02-22T22:35:11+00:00
-url: /no-hand-holding/
-categories:
-  - Uncategorized
++++
+title = "No Hand Holding"
+date = 2019-02-22
++++
 
----
 During my senior year of college, I attended a number of job interviews on campus. At one of them, I was interviewed by three separate people.
 
 The first person asked most of the questions I had been prepared for. We talked “a little about me” and went over my accomplishments, strengths, and weaknesses. I robotically told her that I am a quick learner, but also gave some examples to back it up. I’m not sure how true it was.

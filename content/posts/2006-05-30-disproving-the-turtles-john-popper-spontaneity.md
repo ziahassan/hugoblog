@@ -1,17 +1,13 @@
----
-title: disproving the turtles, john popper, spontaneity.
-author: ziahassan
-type: post
-date: 2006-05-30T16:38:41+00:00
-excerpt: |
-  "Every key that's hit is so colorful, so perfect, there's a hazy synth off in the background like a sunset.  It's the placement of everything that's so fantastic, and I think it's something I've listened for since I was a kid.  I used to love it when I wore out a tape I had gotten tired of.  It added this whole new weird dimension to it - the warbling of the music as the tape passed."
-draft: true
-private: true
-url: /disproving-the-turtles-john-popper-spontaneity/
-categories:
-  - Uncategorized
++++
+title = "Disproving The Turtles John Popper Spontaneity"
+date = 2006-05-30
++++
 
----
++++
+title = "05"
+date = 2006
++++
+
 It was hot today. <strike>Scorchingly</strike> Killingly hot. For the first time this year, I felt the Sauna of my car as I sat down, the stickiness of the steering wheel burning my skin off, avoiding the seatbelt as I clicked in. And that lovely two-minute wait between total AC oasis and standing-on-the-sun boil.  
 Friday night: Chris and I went to Tower and I bought a random Eno DVD, two video paintings that ended up being quite strange and I don't know if it was worth the money I spent. We sat on the deck with no hookah for once, but we drank beer instead. Heineken Light and Corona. We watched "What the @#%$ do we know?" and I fell asleep, even though I love that movie.
 

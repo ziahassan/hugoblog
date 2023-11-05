@@ -1,13 +1,13 @@
----
-title: Building a Ship by Relating
-author: ziahassan
-type: post
-date: 2019-10-05T11:45:08+00:00
-url: /building-a-ship-by-relating/
-categories:
-  - Uncategorized
++++
+title = "Building A Ship By Relating"
+date = 2019-10-05
++++
 
----
++++
+title = "10"
+date = 2019
++++
+
 When I was a kid, from the age of 5 to 18, all I wanted was a girlfriend. 
 
 I was _desperate_ to be accepted, by anyone. Like many teenagers, I&#8217;d do things that I thought would impress girls, but that actually made me look foolish. 

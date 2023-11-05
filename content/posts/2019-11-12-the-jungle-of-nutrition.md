@@ -1,15 +1,8 @@
----
-title: The Jungle of Nutrition
-author: ziahassan
-type: post
-date: 2019-11-12T14:38:20+00:00
-url: /the-jungle-of-nutrition/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "The Jungle Of Nutrition"
+date = 2019-11-12
++++
 
----
 A few years ago, a routine doctor&#8217;s visit got me _very_ interested in what I was eating to cause high cholesterol. Surely, my diet couldn&#8217;t have been that bad.
 
 But it was. The area that I lived in was full of walkable restaurants, and most of them used dramatic amounts of oil, sugar, and salt in their foods. At the time, I didn&#8217;t cook much. We did get mealkit delivery, but this gave us three meals a week at most. The rest was all takeout and eating out.

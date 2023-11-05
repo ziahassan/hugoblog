@@ -1,13 +1,8 @@
----
-title: The Anti-Debate
-author: ziahassan
-type: post
-date: 2019-03-15T02:58:08+00:00
-url: /the-anti-debate/
-categories:
-  - Uncategorized
++++
+title = "The Anti Debate"
+date = 2019-03-14
++++
 
----
 From the moment we enter the debate arena, we are poised to disagree. We have counter-arguments ready, truth bombs to drop, people to convince and persuade. 
 
 The audience, in a thoughtful debate, will change their mind numerous times. But I&#8217;ve never seen a debate where a _debater’s_ mind is changed. Perhaps it&#8217;s by design and a debate is performance art. Like watching something static while everything else moves around it. Like values and beliefs ebbing and flowing around a stone in a river. 

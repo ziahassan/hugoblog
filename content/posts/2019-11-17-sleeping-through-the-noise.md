@@ -1,13 +1,8 @@
----
-title: Sleeping Through the Noise
-author: ziahassan
-type: post
-date: 2019-11-17T12:15:10+00:00
-url: /sleeping-through-the-noise/
-categories:
-  - Uncategorized
++++
+title = "Sleeping Through The Noise"
+date = 2019-11-17
++++
 
----
 The barrier between sleep and awake is both fragile and strong. 
 
 I can sleep through a storm outside, but if the furnace makes any kind of weird buzz, I&#8217;m awake instantly. Even a non-intrusive alarm ringtone pierces the veil. 

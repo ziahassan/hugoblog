@@ -1,14 +1,13 @@
----
-title: It’s the Interchange
-author: ziahassan
-type: post
-date: 2020-03-14T21:07:30+00:00
-url: /its-the-interchange/
-categories:
-  - social
-  - social media
++++
+title = "Its The Interchange"
+date = 2020-03-14
++++
 
----
++++
+title = "03"
+date = 2020
++++
+
 When people argue, there’s a tendency to be polite, and to say “yeah exactly!”
 
 It happens even when we disagree. “Yeah, exactly! But…&#8221;

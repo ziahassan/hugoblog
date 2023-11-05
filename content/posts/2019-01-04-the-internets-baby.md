@@ -1,13 +1,8 @@
----
-title: The Internet’s Baby
-author: ziahassan
-type: post
-date: 2019-01-04T15:03:01+00:00
-url: /the-internets-baby/
-categories:
-  - Uncategorized
++++
+title = "The Internets Baby"
+date = 2019-01-04
++++
 
----
 I used to google health things incessantly. If my head hurt, if my skin was unusually dry, if my mouth felt weird&#8230; I&#8217;d google the symptoms.
 
 You can guess how that went. After a while, I turned into a full blown cyberchondriac, which is the same as being a hypochondriac, except you not only believe you have illnesses you don&#8217;t have, but you also google the _shit_ out of those symptoms until you&#8217;re _all but convinced_ that you are dying. 

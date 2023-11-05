@@ -1,13 +1,8 @@
----
-title: The Up and Downsides to Social Media
-author: ziahassan
-type: post
-date: 2019-11-21T05:16:00+00:00
-url: /the-up-and-downsides-to-social-media/
-categories:
-  - Uncategorized
++++
+title = "The Up And Downsides To Social Media"
+date = 2019-11-21
++++
 
----
 Everyone has a microphone. Everyone has a platform. Now, with the power of a Facebook or Twitter or Instagram account, _anyone&nbsp;_can write their thoughts and have an immediate audience.
 
 The upsides are what we’ve been talking about over the last decade: now, no voice gets left out. No one is barred by gatekeepers. For most intents and purposes, gatekeepers don’t even exist anymore, or if they do, they’re simply watching to see who’s doing the groundwork on their own before they make their picks.

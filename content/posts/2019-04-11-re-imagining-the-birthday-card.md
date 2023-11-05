@@ -1,13 +1,8 @@
----
-title: Re-imagining the Birthday Card
-author: ziahassan
-type: post
-date: 2019-04-11T11:57:01+00:00
-url: /re-imagining-the-birthday-card/
-categories:
-  - Uncategorized
++++
+title = "Re Imagining The Birthday Card"
+date = 2019-04-11
++++
 
----
 I wrote a month ago about my complicated relationship with birthdays. About how it&#8217;s an important thing to celebrate a person and I&#8217;ve traditionally been bad at it. So I came up with a unique idea for a business.
 
 It works like this:

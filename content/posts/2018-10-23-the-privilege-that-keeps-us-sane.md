@@ -1,13 +1,8 @@
----
-title: The Privilege That Keeps Us Sane
-author: ziahassan
-type: post
-date: 2018-10-23T17:00:33+00:00
-url: /the-privilege-that-keeps-us-sane/
-categories:
-  - Uncategorized
++++
+title = "The Privilege That Keeps Us Sane"
+date = 2018-10-23
++++
 
----
 Sanity is fleeting these days. I feel it. You probably feel it too.
 
 Most of this discomfort seems to do with a certain balance between certainty and uncertainty. On one hand, predictability and routine make us feel safe and comfortable. Maybe it&#8217;s the 30-something in me, but I _love_ waking up and feeling like I can predict what will happen in my day.

@@ -1,13 +1,8 @@
----
-title: What I Mean When I Say “Brilliant”
-author: ziahassan
-type: post
-date: 2018-10-15T22:00:00+00:00
-url: /what-i-mean-when-i-say-brilliant/
-categories:
-  - Uncategorized
++++
+title = "What I Mean When I Say Brilliant"
+date = 2018-10-15
++++
 
----
 In my Twitter profile, my bio line is “noticing brilliance since ’85.”
 
 People use this word as slang sometimes to mean “cool” or “smart” or “interesting.” My understanding of the word is a bit more specific and aligned to the literal definition of the word.

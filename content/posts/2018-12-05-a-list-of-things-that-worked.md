@@ -1,13 +1,8 @@
----
-title: A List of Things That Worked
-author: ziahassan
-type: post
-date: 2018-12-05T17:11:48+00:00
-url: /a-list-of-things-that-worked/
-categories:
-  - Uncategorized
++++
+title = "A List Of Things That Worked"
+date = 2018-12-05
++++
 
----
 Lists should be a part of every person&#8217;s toolset, when trying to solve a problem.
 
 It&#8217;s not just to-do or task lists. Any set of items that are woven together by a common thread counts.

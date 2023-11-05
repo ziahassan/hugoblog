@@ -1,13 +1,8 @@
----
-title: Eliciting Wonder
-author: ziahassan
-type: post
-date: 2017-12-24T22:45:04+00:00
-url: /eliciting-wonder/
-categories:
-  - Uncategorized
++++
+title = "Eliciting Wonder"
+date = 2017-12-24
++++
 
----
 It’s difficult to find someone who doesn’t enjoy some kind of music. Same goes for movies, and even fine art.
 
 But poetry? When it comes to poetry, there are vast amounts of haters.

@@ -1,13 +1,8 @@
----
-title: The Magic of Magic Eye
-author: ziahassan
-type: post
-date: 2019-07-19T16:05:07+00:00
-url: /the-magic-of-magic-eye/
-categories:
-  - Uncategorized
++++
+title = "The Magic Of Magic Eye"
+date = 2019-07-19
++++
 
----
 For my eighth birthday, I opted to have a smaller birthday party, which meant about 3 people. I specifically remember what each person at my party game me for my birthday.
 
 One boy had given me a video game, one that I played for years and years, called Dr. Robotnik’s Mean Bean Machine. Another child had given me my first box of Hot Tamales, and I was addicted from then on. The third gift I got was a book called Magic Eye.

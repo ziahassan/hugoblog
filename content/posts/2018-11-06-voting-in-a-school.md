@@ -1,13 +1,13 @@
----
-title: Voting in a School
-author: ziahassan
-type: post
-date: 2018-11-06T16:34:50+00:00
-url: /voting-in-a-school/
-categories:
-  - Uncategorized
++++
+title = "Voting In A School"
+date = 2018-11-06
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 I voted this morning. 
 
 Like many people, my polling place was at a local school. And in our case, it’s the one that our son might attend in a few years as a kindergartener. 

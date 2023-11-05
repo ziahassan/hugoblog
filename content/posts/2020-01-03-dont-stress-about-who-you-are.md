@@ -1,13 +1,8 @@
----
-title: Don’t Stress About Who You Are
-author: ziahassan
-type: post
-date: 2020-01-03T15:02:40+00:00
-url: /dont-stress-about-who-you-are/
-categories:
-  - spirituality
++++
+title = "Dont Stress About Who You Are"
+date = 2020-01-03
++++
 
----
 You can change your pen, but you’ll still have the same handwriting. Just like with chronic disease, you never really get rid of _anything &#8211; _ you just learn to manage it.
 
 That might be disheartening, but it’s actually necessary. If the goal of childhood is to end up with some idea of who you are, it might sound like a stressful task. Actually, figuring out who you are doesn’t require adding anything new to your life. No new systems, new diets, new fitness regimens. It requires losing something, which is the idea of _you_ in the first place.

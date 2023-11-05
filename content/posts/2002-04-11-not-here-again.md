@@ -1,15 +1,13 @@
----
-title: not here again.
-author: ziahassan
-type: post
-date: 2002-04-11T19:22:39+00:00
-draft: true
-private: true
-url: /not-here-again/
-categories:
-  - Uncategorized
++++
+title = "Not Here Again"
+date = 2002-04-11
++++
 
----
++++
+title = "04"
+date = 2002
++++
+
 Spring break I was out enjoying life, and now that I'm back at school things with the show have really started to crack down and I've been at school till 7 everyday. Rehearsals are so much fun&#8230; I mean that honestly. This show is so great, not just cuz of the talent&#8230; I like my role, and I'm having fun with the role. People sure do have attitude problems though. Personally, I think Brodsky is a great director. The fact that he has a million years of experience is what I went by before the show started rehearsing. Now it's just his method. People mock him and make fun of him behind his back, but I really don't think he has done anything wrong to the cast. They call him rude and obnoxious, but they don't think that talking whenever he says not to is rude. I'm just talking about the way he treats the cast&#8230; Jon tells me he's a dick to the crew. I woudln't know about that. Maybe brodsky thinks he knows more than the crew since he used to be the tech director and that pisses them off. But what I do know is that he treats the cast extremely fairly. He does the job of a director really well&#8230; straight up you might not see it. You might think he gets annoyed too easily. What people really gotta do is open their eyes and look it at from all points of view. And THEN say it isn't fair. No one's opinion is wrong obviously&#8230; as long as they've truly checked around the car before getting in and backing up into the fire hydrant. The problem is&#8230; everyone thinks they know better. Everyone thinks that they are working harder than everyone else. This might be true individually. Generally though&#8230; I doubt it. You can argue as much as you want, call me an asshole 5 times&#8230; in different ways we're all exerting the same amount of energy doing our jobs. And the reason we can't say this is wrong &#8211; we haven't been in each other's shoes. Everyone's got problems and we just need to help each other. We shoudln't put on authoritive tones no matter who we are necesarily. Now there's a line of course. People will go a little too far sometimes&#8230; that's where force is necesary in my opinion.
 
 (I'm drawing this from the convo I just had with christine.)Take the crew for example. Yelling at everyone and stuff. And yet we have to respect them. And people have a misconception. They think it's because the crew people think they are better than us, or are more important. I personally think it's not a matter of importance or knowledge. It's like this. As an actor, I have a limited view of the way the show is looking. Being on stage left, I can't see what is hurting the show on stage right. Being in a dressing room, I can't see what's hurting the show on stage. I can't see what's hurting the show even by being on stage, or doing something that I think is right. By talking to someone backstage, I can't see that it's hurting the show becuase my voice is being heard onstage. Crew, however, has an overall view of what is benevolent to the show and what isn't. So when jon says to stop talking, or to move, it's because he's trying to prevent the show from being bad&#8230; and THAT'S why we respect the crew.

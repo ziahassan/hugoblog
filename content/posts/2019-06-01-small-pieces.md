@@ -1,13 +1,8 @@
----
-title: Small Pieces
-author: ziahassan
-type: post
-date: 2019-06-02T02:29:43+00:00
-url: /small-pieces/
-categories:
-  - Uncategorized
++++
+title = "Small Pieces"
+date = 2019-06-01
++++
 
----
 Whenever my son eats part of our meal, we cut it up into small pieces so he can use the very few teeth he has to chew the food properly without choking. 
 
 And when I was a teacher, I tried to teach lessons that covered a tiny aspect of one skill. Doing word problems that used two or more operations (like addition and multiplication) was a skill that was spread out over five lessons or so. And the first lesson didn’t involve any math at all &#8211; the students simply had to identify what operations they’d need to use to solve a problem. I did this for the same reason that I break up food for my son: it’s easier to chew and digest if the pieces are smaller. 

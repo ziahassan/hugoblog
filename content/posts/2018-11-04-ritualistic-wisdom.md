@@ -1,13 +1,8 @@
----
-title: Ritualistic Wisdom
-author: ziahassan
-type: post
-date: 2018-11-04T17:20:43+00:00
-url: /ritualistic-wisdom/
-categories:
-  - Uncategorized
++++
+title = "Ritualistic Wisdom"
+date = 2018-11-04
++++
 
----
 For each of the huge life events (graduation, buying a house, having a baby, getting married, etc.) there are a number of things people will say to you as the life event approaches.
 
 For marriage, it’s always an older uncle or relative turning to the man and saying with a wink “and remember, she’s always right.”

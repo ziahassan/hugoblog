@@ -1,15 +1,8 @@
----
-title: showered twice.
-author: ziahassan
-type: post
-date: 2003-01-02T19:32:26+00:00
-draft: true
-private: true
-url: /showered-twice/
-categories:
-  - Uncategorized
++++
+title = "Showered Twice"
+date = 2003-01-02
++++
 
----
 I never thought I'd start writing in my LiveJournal again EVER, but here I am again. In case you're reading this, and wondering why I go around talking shit about livejournals and how they are for people who complain and shit&#8230; maybe people need that outlet. But here's the deal&#8230; any complaining, or negative thinking that's gonna occur will happen in a private entry. So the venting stays in the vent. And I'm disabling commenting. You can probably guess why, I don't need comments on my life. But I mean that in a positive way. I swear that is a good thing. Any stuff that I think the public would find interesting or thoughful will remain public. And just like before, if you don't like, don't read. I have to admit though, I don't think anyone will care to read this. And I say that out of sheer honesty. And also in completely honesty, that's completely irrelevant. The basis of this journal are MY thoughts and MY emotions.
 
 It's the first day of 2003 and I'm psyched. (uhh actually, it JUST became the second, my bad). I graduate this year. It's the year that all us seniors have been waiting for. Last night, I stayed awake till about 6:30 am&#8230; which is pretty riddiculous considering I usually go to sleep around 10 on weekdays, 2 on weekends. Anyway, so of course I was exhausted today, and I slept for about two hours from 7-9&#8230; woke up and had a chinese dinner and then tried go to back to sleep. Guess what&#8230; NO GO. So I remain restless writing in my livejournal, which I haven't written in for&#8230; let me check&#8230; June of 2002. That's about half a year ago. It feels awkward, but I don't care. I need to write. Otherwise I'm going to end up wordless, and I'm gonna go nuts if that happens. Eveybody needs a diary, so here is mine.

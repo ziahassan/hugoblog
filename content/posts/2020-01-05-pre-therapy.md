@@ -1,13 +1,8 @@
----
-title: Pre-therapy
-author: ziahassan
-type: post
-date: 2020-01-05T13:43:39+00:00
-url: /pre-therapy/
-categories:
-  - Uncategorized
++++
+title = "Pre Therapy"
+date = 2020-01-05
++++
 
----
 In the waiting room of my therapist&#8217;s office, there&#8217;s a huge TV screen that shows a live feed of the view from the International Space Station.
 
 Another thing: because her office is filled with other therapists, everyone has a white noise machine outside of their room to make sure nothing from the session is heard outside.

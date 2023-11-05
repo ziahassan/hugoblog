@@ -1,13 +1,8 @@
----
-title: The Not So Hidden Meaning of Recreation
-author: ziahassan
-type: post
-date: 2018-10-18T03:43:28+00:00
-url: /the-not-so-hidden-meaning-of-recreation/
-categories:
-  - Uncategorized
++++
+title = "The Not So Hidden Meaning Of Recreation"
+date = 2018-10-18
++++
 
----
 Recreation is a word to which we’ve assigned a cultural meaning. It usually indicates fun or leisurely activities. Recreation centers are places to relax and exercise. In some schools, it has replaced the word “recess.”
 
 But recreation, or the act of _re-creation_, might give us more than what we’ve taken from the word. 

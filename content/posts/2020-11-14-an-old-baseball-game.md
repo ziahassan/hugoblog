@@ -1,13 +1,13 @@
----
-title: An Old Baseball Game
-author: ziahassan
-type: post
-date: 2020-11-15T04:50:47+00:00
-url: /an-old-baseball-game/
-categories:
-  - story
++++
+title = "An Old Baseball Game"
+date = 2020-11-14
++++
 
----
++++
+title = "11"
+date = 2020
++++
+
 I have a very keen ear. I hear things going on outside of my house even when the windows are closed.
 
 What I heard recently on a late summer night was an echoey, old-timey voice, coming from a nearby house. I opened the window to get a better understanding of what I was hearing: it was the audio from the commentators on an old baseball game. Someone must have been streaming it from YouTube or something, and blasting it through the neighborhood.

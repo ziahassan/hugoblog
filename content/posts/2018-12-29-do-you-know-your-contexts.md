@@ -1,13 +1,8 @@
----
-title: Do You Know Your Contexts?
-author: ziahassan
-type: post
-date: 2018-12-29T19:15:16+00:00
-url: /do-you-know-your-contexts/
-categories:
-  - Uncategorized
++++
+title = "Do You Know Your Contexts"
+date = 2018-12-29
++++
 
----
 For the last decade or so, I’ve use a productivity system called GTD. It’s a framework rather than an app or an instructive system, so my system has looked different over the years.
 
 The idea behind the system, at a basic level, is that you capture to-dos as they come, but process them later into appropriate lists that are then broken down into step-by-step tasks. Lists are then connected to “contexts” which are places/locations/tools needed to do work, so that when you sit down to work, you have a short list of items, all of which can be completed in one sitting.

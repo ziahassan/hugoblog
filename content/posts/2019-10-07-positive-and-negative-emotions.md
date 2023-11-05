@@ -1,13 +1,8 @@
----
-title: Positive and Negative Emotions
-author: ziahassan
-type: post
-date: 2019-10-07T16:29:16+00:00
-url: /positive-and-negative-emotions/
-categories:
-  - Uncategorized
++++
+title = "Positive And Negative Emotions"
+date = 2019-10-07
++++
 
----
 In teacher training, a group of us were asked to create a bunch of drawings, each with a different face and on a different sheet of paper, and each one representing a different emotion.
 
 After collectively brainstorming about a hundred of emotions on the sheets, we were asked to sort them. 

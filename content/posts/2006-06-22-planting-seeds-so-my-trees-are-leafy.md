@@ -1,16 +1,8 @@
----
-title: planting seeds so my trees are leafy.
-author: ziahassan
-type: post
-date: 2006-06-22T19:27:38+00:00
-excerpt: 'Form a band with no album or even any songs, create liner notes and an album title, decide who plays what. Make a discography of future records: where they are headed, which ones will be flops, which ones will be hits, and why the band will break up eventually. Then begin writing and recording. What better way is there to start than from the end?'
-draft: true
-private: true
-url: /planting-seeds-so-my-trees-are-leafy/
-categories:
-  - Uncategorized
++++
+title = "Planting Seeds So My Trees Are Leafy"
+date = 2006-06-22
++++
 
----
 I might as well mention that London was full of fun. It was hot, and I hadn't brought clothes for that sort of climate. No one in the UK has Air Conditioning either, so that didn't make things any better. Liza came for a quick detour through DC before she went back to Minneapolis, and I won't see her for another couple of months. I feel as if everytime we say hello, it's goodbye again.
 
 When we got back, I bought myself a little tape recorder, just to sketch out musical ideas when I wasn't near the studio. It has a USB plug so I can download sounds I record to my computer. I'm not sure how useful it will be, but so far I've done a lot of sketching. Quick ideas and melodies.

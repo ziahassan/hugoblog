@@ -1,11 +1,8 @@
----
-title: Using Names
-author: ziahassan
-type: post
-date: 2019-12-01T17:33:00+00:00
-url: /using-names/
++++
+title = "Using Names"
+date = 2019-12-01
++++
 
----
 One of the most memorable themes from teacher training was the focus on using names. At most corporate events I’ve attended in the last decade or so, name tags were given out, but not actually honored (as in, no one used them).
 
 But during our 3-week summer institute, we all explored our names, wrote about our names, and made the effort to use everyone’s name when speaking to them.

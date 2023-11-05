@@ -1,14 +1,13 @@
----
-title: Breaking the Script
-author: ziahassan
-type: post
-date: 2020-03-11T13:55:23+00:00
-url: /breaking-the-script/
-categories:
-  - marketing
-  - Process
++++
+title = "Breaking The Script"
+date = 2020-03-11
++++
 
----
++++
+title = "03"
+date = 2020
++++
+
 When an airline attendant does a rap instead of the usual announcements, someone films it and [it goes viral][1].
 
 The pickup artists call it “peacocking.” You wear an absurd or interesting piece of clothing to gain attention.

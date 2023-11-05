@@ -1,13 +1,8 @@
----
-title: You Can’t Be Mad if You’re Curious
-author: ziahassan
-type: post
-date: 2019-08-12T18:31:04+00:00
-url: /you-cant-be-mad-if-youre-curious/
-categories:
-  - Uncategorized
++++
+title = "You Cant Be Mad If Youre Curious"
+date = 2019-08-12
++++
 
----
 I’m not sure where I first heard this idea or where it came from, but it really spoke to me.
 
 When I was a teacher, I used to tell my students that anger was an emotion, just like the all the rest. But in my 30’s, I’m realizing that it’s a little bit more dangerous than other emotions. With anger, it’s easy to hit a wall. To slam face first and then not be able to recover for a while. Other emotions can be a little bit more subtle, gentle perhaps.

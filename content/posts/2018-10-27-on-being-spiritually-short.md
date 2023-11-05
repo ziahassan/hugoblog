@@ -1,13 +1,8 @@
----
-title: On Being Spiritually Short
-author: ziahassan
-type: post
-date: 2018-10-27T20:04:39+00:00
-url: /on-being-spiritually-short/
-categories:
-  - Uncategorized
++++
+title = "On Being Spiritually Short"
+date = 2018-10-27
++++
 
----
 The average male is about 5 ft 10, and I stand at a meager 5 ft 6, which makes me short. The interesting thing was that I never really noticed my shortness until it was pointed out once, in my 20’s.
 
 Ever since then, I identified as a short person. But I often wonder what would’ve happened if that person _hadn’t_ pointed out my shortness, causing me to acquire a new piece of identity.

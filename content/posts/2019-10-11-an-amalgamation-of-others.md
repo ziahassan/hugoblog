@@ -1,13 +1,8 @@
----
-title: An Amalgamation of Others
-author: ziahassan
-type: post
-date: 2019-10-11T21:17:46+00:00
-url: /an-amalgamation-of-others/
-categories:
-  - Uncategorized
++++
+title = "An Amalgamation Of Others"
+date = 2019-10-11
++++
 
----
 Occasionally, you might hear people say, “eh, they sound like they&#8217;re trying to sound like Bob Dylan.” Replace Bob Dylan with whomever.
 
 They say it like it’s a bad thing, but it’s a _good thing_. That means that the part of them that may have been inspired by Bob Dylan (or artists that inspired Bob Dylan) are shining through more than others, at that particular moment, and for that particular listener.

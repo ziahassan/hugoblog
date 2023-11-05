@@ -1,13 +1,13 @@
----
-title: Coffee, Tea, and Me
-author: ziahassan
-type: post
-date: 2019-01-14T20:58:25+00:00
-url: /coffee-tea-and-me/
-categories:
-  - Uncategorized
++++
+title = "Coffee Tea And Me"
+date = 2019-01-14
++++
 
----
++++
+title = "01"
+date = 2019
++++
+
 Some days, I&#8217;m coffee.
 
 I wake up with purpose. My bed is made. I&#8217;m at the kitchen table reading the paper an hour before work. The kids have dressed themselves.

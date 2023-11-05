@@ -1,13 +1,8 @@
----
-title: Funneling Emotions With Skip Spaces
-author: ziahassan
-type: post
-date: 2019-04-05T19:40:30+00:00
-url: /funneling-emotions-with-skip-spaces/
-categories:
-  - Uncategorized
++++
+title = "Funneling Emotions With Skip Spaces"
+date = 2019-04-05
++++
 
----
 We live in social media bubbles, as many have pointed out. Most of the people on my feeds seem to share the same political and social opinions. I wonder sometimes if that is actually due to social media itself, that our beliefs are shaped more than we ever realized by the low quality literature we read on Facebook and Twitter. 
 
 It would be easy to do that, as a gigantic technology media company. It&#8217;s not just about the content or the audience, or the targeting of demographics. It&#8217;s about training. 

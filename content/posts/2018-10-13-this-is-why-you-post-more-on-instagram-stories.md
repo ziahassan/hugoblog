@@ -1,13 +1,13 @@
----
-title: This is Why You Post More on Instagram Stories
-author: ziahassan
-type: post
-date: 2018-10-13T22:00:00+00:00
-url: /this-is-why-you-post-more-on-instagram-stories/
-categories:
-  - Uncategorized
++++
+title = "This Is Why You Post More On Instagram Stories"
+date = 2018-10-13
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 Both Snapchat and YouTube are video sites. Both allow every day users to upload original content. And there are some differences between the two, like, the videos on Snapchat can only be 15 seconds and disappear after a while, etc. 
 
 But there’s a big difference in the design of these sites/apps that is worth noting. When you load YouTube, the first thing you see is a bunch of content to consume that might be relevant to your interests. With Snapchat, the first thing you see is your camera. 

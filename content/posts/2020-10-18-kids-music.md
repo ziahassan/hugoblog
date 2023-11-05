@@ -1,13 +1,8 @@
----
-title: Kids Music
-author: ziahassan
-type: post
-date: 2020-10-18T04:40:33+00:00
-url: /kids-music/
-categories:
-  - Uncategorized
++++
+title = "Kids Music"
+date = 2020-10-18
++++
 
----
 Having a child makes it easy to get sucked into all the kid music. Baby shark, Sesame Street, kids bop. 
 
 Some of this stuff is fine to listen to, some of it is not. And remember, you have to listen to these songs on _repeat._ 

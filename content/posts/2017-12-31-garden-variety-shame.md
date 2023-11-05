@@ -1,13 +1,8 @@
----
-title: Garden Variety Shame
-author: ziahassan
-type: post
-date: 2017-12-31T18:46:29+00:00
-url: /garden-variety-shame/
-categories:
-  - Uncategorized
++++
+title = "Garden Variety Shame"
+date = 2017-12-31
++++
 
----
 My New Year’s Resolution is to accept my own apology.
 
 I heard this rule recently: don’t speak to yourself internally in a way that you would not speak to a friend or family member externally. More specifically, this means no more calling yourself an idiot in your head. If you wouldn’t call a friend or family an idiot when they make a mistake, don’t do it to yourself.

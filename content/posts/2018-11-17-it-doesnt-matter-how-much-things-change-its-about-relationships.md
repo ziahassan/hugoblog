@@ -1,13 +1,8 @@
----
-title: It Doesn’t Matter How Much Things Change; It’s About Relationships
-author: ziahassan
-type: post
-date: 2018-11-17T13:12:46+00:00
-url: /it-doesnt-matter-how-much-things-change-its-about-relationships/
-categories:
-  - Uncategorized
++++
+title = "It Doesnt Matter How Much Things Change Its About Relationships"
+date = 2018-11-17
++++
 
----
 The word relationship contains the words _ship_ and relate. Relate means _to connect_. 
 
 I&#8217;m often told that I am good at keeping friends: I still hang out with at least 8 or so of my high school friends on a regular basis. Sometimes, I&#8217;m asked how I maintain these relationships for so long. 

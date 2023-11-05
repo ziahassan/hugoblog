@@ -1,13 +1,8 @@
----
-title: What Time is Evening?
-author: ziahassan
-type: post
-date: 2019-08-05T13:00:13+00:00
-url: /what-time-is-evening/
-categories:
-  - Uncategorized
++++
+title = "What Time Is Evening"
+date = 2019-08-05
++++
 
----
 It used to make me feel awkward whenever I would leave the office at 4pm and my boss would say, “have a good evening!”
 
 Is it evening at 4pm? I was under the impression it was still afternoon. This memory inspires the question: when exactly is the evening?

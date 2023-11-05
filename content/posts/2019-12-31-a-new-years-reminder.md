@@ -1,11 +1,8 @@
----
-title: A New Year’s Reminder
-author: ziahassan
-type: post
-date: 2019-12-31T15:54:48+00:00
-url: /a-new-years-reminder/
++++
+title = "A New Years Reminder"
+date = 2019-12-31
++++
 
----
 Tomorrow is New Years Day, but only because we call it that, only because we decided that this is when the “new year” would begin.
 
 But these words like time and years are just constructs.You can have a “new year” anytime you’d like.

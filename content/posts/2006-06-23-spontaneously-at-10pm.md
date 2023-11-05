@@ -1,16 +1,8 @@
----
-title: spontaneously, at 10pm.
-author: ziahassan
-type: post
-date: 2006-06-23T19:58:18+00:00
-excerpt: "I want to learn to make music with forces that I can't control, like throwing a ball: it lands in a different place everytime, you did the initial work, and physics took care of the rest.  Drawing on a higher power."
-draft: true
-private: true
-url: /spontaneously-at-10pm/
-categories:
-  - Uncategorized
++++
+title = "Spontaneously At 10Pm"
+date = 2006-06-23
++++
 
----
 I've had to put together about 3 binders today.&nbsp; The rest of the day I've sat around listening to music and reading about synthesizers.&nbsp; I did find a cool website called longnow.org which has lectures about forward thinking.&nbsp; Stewart Brand created this orgnization who found it interesting that different people of different cultures envisioned the concept of "now" very differently.&nbsp;&nbsp;
 
 If you asked someone what they were working on "now," would they refer to what they've been doing that hour?&nbsp; That morning?&nbsp; That year?&nbsp; The Long Now organization has decided to make "now" encompass the next 10,000 years.&nbsp; They've even made a clock that plays bells.&nbsp; They have all of their lectures on the site, and I was listening to the kick-off speech from Eno.&nbsp; He began by talking about his first ambient record (discreet music, which I still haven't heard), and then went onto the other ambient ones and explained why they relate to time and "now." &nbsp;

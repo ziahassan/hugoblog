@@ -1,13 +1,13 @@
----
-title: Appointments with Creativity
-author: ziahassan
-type: post
-date: 2019-06-11T01:06:00+00:00
-url: /appointments-with-creativity/
-categories:
-  - Uncategorized
++++
+title = "Appointments With Creativity"
+date = 2019-06-10
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 In her fantastic book, _A Poetry Handbook_, Mary Oliver writes about her methods for writing and also reading poetry. One of the most interesting things she says has to do with creativity, and even though I’ve read so many books on creativity and the creative process, it still stopped me in my tracks:
 
 > “Writing a poem… is a kind of possible love affair between something like the heart and the learned skills of the conscious mind. They make appointments with each other, and keep them, something starts to happen. Or, they make appointments with them but are casual and often forget to keep them; count on it, nothing happens.” 

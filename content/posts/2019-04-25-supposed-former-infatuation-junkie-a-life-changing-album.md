@@ -1,13 +1,8 @@
----
-title: Supposed Former Infatuation Junkie, a Life Changing Album
-author: ziahassan
-type: post
-date: 2019-04-26T00:56:19+00:00
-url: /supposed-former-infatuation-junkie-a-life-changing-album/
-categories:
-  - Uncategorized
++++
+title = "Supposed Former Infatuation Junkie A Life Changing Album"
+date = 2019-04-25
++++
 
----
 It was 1998. I was living in Egypt and I had taken up acting and singing at school and finally felt like I had a place in my community. For the first time ever, I was accepted (or whatever the closest version of accepted is in middle school) by a group of peers. 
 
 My best friend at the time considered himself a playwright, but I didn’t take him seriously until he submitted a play under a pseudonym to a contest at a local university. He won, which meant his play was to be produced, and I went with him to the auditions. 

@@ -1,13 +1,13 @@
----
-title: An Important Radio Station
-author: ziahassan
-type: post
-date: 2019-11-03T19:15:21+00:00
-url: /an-important-radio-station/
-categories:
-  - Uncategorized
++++
+title = "An Important Radio Station"
+date = 2019-11-03
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 At the dentist’s office. In the shopping mall. In my parent’s car. At the grocery store.
 
 All of these places played the radio station Wash FM when I was a kid. Wash FM marketed itself as the “best music of the 70’s, 80’s, and 90’s.” They eventually updated their slogan to “and today” when the 2000’s hit.

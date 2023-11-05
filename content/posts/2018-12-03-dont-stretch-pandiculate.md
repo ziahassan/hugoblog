@@ -1,13 +1,8 @@
----
-title: Don’t Stretch; Pandiculate
-author: ziahassan
-type: post
-date: 2018-12-03T14:54:30+00:00
-url: /dont-stretch-pandiculate/
-categories:
-  - Uncategorized
++++
+title = "Dont Stretch Pandiculate"
+date = 2018-12-03
++++
 
----
 I was sitting in the car recently and I decided to sort of press my palm against the outside of my knee. My leg has this tendency to flail out toward the car door when I’m driving, and I felt the inexplicable need to hold it straight so my leg was straight for a while.
 
 Think this: \|/ vs this | | |

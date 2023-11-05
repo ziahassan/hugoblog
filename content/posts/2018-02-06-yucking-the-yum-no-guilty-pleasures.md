@@ -1,13 +1,8 @@
----
-title: Yucking the Yum (No Guilty Pleasures)
-author: ziahassan
-type: post
-date: 2018-02-06T04:32:00+00:00
-url: /yucking-the-yum-no-guilty-pleasures/
-categories:
-  - Uncategorized
++++
+title = "Yucking The Yum No Guilty Pleasures"
+date = 2018-02-06
++++
 
----
 “Yucking someone’s yum” could be defined as being overly negative about something that someone else is fond of, in front of them.
 
 I’ve yucked people’s yum before without realizing it. Especially when it comes to pro sports, which I don’t think I’ll ever fully understand.

@@ -1,13 +1,13 @@
----
-title: Everyone Should Read “The Power of Habit”
-author: ziahassan
-type: post
-date: 2018-11-19T13:56:08+00:00
-url: /everyone-should-read-the-power-of-habit/
-categories:
-  - Uncategorized
++++
+title = "Everyone Should Read The Power Of Habit"
+date = 2018-11-19
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 There are some books that I come across that go into my personal favorites section on my bookshelf. Most of these wouldn&#8217;t be that interesting to most people because they are refined and tuned to my particular interests such as magic and self-development. 
 
 But then there are some books that explain a part of human life so well that I have to recommend them to all. 

@@ -1,11 +1,8 @@
----
-title: Time For Sleep
-author: ziahassan
-type: post
-date: 2019-12-26T21:13:19+00:00
-url: /time-for-sleep/
++++
+title = "Time For Sleep"
+date = 2019-12-26
++++
 
----
 It’s a trade.
 
 I give up 8 hours in my 24 hour day in order to get reenergized and recovered. It was fashionable when I was a baby to trade a lot of time for it, because I needed to recover often. But when I was a teen, I _thought_ I didn’t need to recover as much and so spent less time on to sleep… until I crashed and burned mid-week.

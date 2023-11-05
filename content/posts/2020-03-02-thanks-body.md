@@ -1,14 +1,13 @@
----
-title: Thanks, Body
-author: ziahassan
-type: post
-date: 2020-03-02T14:55:07+00:00
-url: /thanks-body/
-categories:
-  - mindfulness
-  - physical
++++
+title = "Thanks Body"
+date = 2020-03-02
++++
 
----
++++
+title = "03"
+date = 2020
++++
+
 Despite the fact that the human body is full of complex systems, and that there are organisms, disorders, and syndromes that can invade and attack those systems, the body is _still_ an amazingly protective piece of machinery.
 
 While I was fretting over the Coronavirus, I started to feel sick myself. I began having symptoms, like a runny nose, and a slight cough. It lasted about 24 hours and then I was seemingly back to normal. 
@@ -19,4 +18,4 @@ I believe that it is these elements, and the fact that I spend my days doing wor
 
 But even without these habits in place, the human body is still incredible and adaptive. For instance, my muscles seem to be bigger just from putting them under stress. And the splinter I somehow got into my thumb a while ago has been working its way out for months. I’ve been curiously watching my body do its thing.
 
-So now I have a new ritual. Whenever I heal, even if the infection or wound was trivial, I thank my body, out loud, for everything it does. 
+So now I have a new ritual. Whenever I heal, even if the infection or wound was trivial, I thank my body, out loud, for everything it does.

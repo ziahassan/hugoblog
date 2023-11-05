@@ -1,13 +1,8 @@
----
-title: Watch and Wait
-author: ziahassan
-type: post
-date: 2018-12-17T16:19:51+00:00
-url: /watch-and-wait/
-categories:
-  - Uncategorized
++++
+title = "Watch And Wait"
+date = 2018-12-17
++++
 
----
 A sign in a Minneapolis parking garage simply says “watch and wait.”
 
 The context of course is that people might be walking by, and we don&#8217;t want them to get hit by cars&#8230; so watch and wait, and then exit safely.

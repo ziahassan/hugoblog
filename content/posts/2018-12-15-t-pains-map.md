@@ -1,13 +1,8 @@
----
-title: T-Pain’s Map
-author: ziahassan
-type: post
-date: 2018-12-15T14:09:35+00:00
-url: /t-pains-map/
-categories:
-  - Uncategorized
++++
+title = "T Pains Map"
+date = 2018-12-15
++++
 
----
 A few years ago, the artist T-pain released an NPR Tiny Desk [Concert][1] without _any_ processing from Auto Tune on his voice. 
 
 Antares Autotune, as the name suggests, is the infamous software used to fix off pitch vocals after recording. It was designed to be a touch up tool. If the software did its job, the listener wouldn&#8217;t know that any extra tool was being used &#8211; and the artist would sound perfectly on pitch. 

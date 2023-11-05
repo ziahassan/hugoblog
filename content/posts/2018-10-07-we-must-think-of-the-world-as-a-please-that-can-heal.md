@@ -1,13 +1,8 @@
----
-title: We must view the world as a place that can heal
-author: ziahassan
-type: post
-date: 2018-10-07T22:06:21+00:00
-url: /we-must-think-of-the-world-as-a-please-that-can-heal/
-categories:
-  - Uncategorized
++++
+title = "We Must Think Of The World As A Please That Can Heal"
+date = 2018-10-07
++++
 
----
 Seth Godin writes about the difference between [doom and gloom][1].
 
 I think this is the start, but not the end, of the way forward. Experiencing sadness, anger, and fear are normal and _should_ be experienced in a balanced life.

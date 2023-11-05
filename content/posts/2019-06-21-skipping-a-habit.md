@@ -1,13 +1,8 @@
----
-title: Skipping a Habit
-author: ziahassan
-type: post
-date: 2019-06-21T12:17:34+00:00
-url: /skipping-a-habit/
-categories:
-  - Uncategorized
++++
+title = "Skipping A Habit"
+date = 2019-06-21
++++
 
----
 Every now and then it becomes necessary to skip. 
 
 If you&#8217;ve installed a new habit recently, like within the last month, you _can’t_ skip. Or else you&#8217;ll put your habit formation in danger. It&#8217;s not that skipping will definitely derail you, but it could. 

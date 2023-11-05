@@ -1,13 +1,8 @@
----
-title: How to be on Time
-author: ziahassan
-type: post
-date: 2019-05-15T18:46:32+00:00
-url: /how-to-be-on-time/
-categories:
-  - Uncategorized
++++
+title = "How To Be On Time"
+date = 2019-05-15
++++
 
----
 I’ve struggled with a number of organizational things in my life. When I was a kid, my backpack was a mess, and I never knew when anything was due, never studied for tests or quizzes and never knew when anything was happening. 
 
 I’ve addressed many of these issues through systems that I started building in college and continued building after I graduated. I write a lot about these systems in other posts. But one thing that I _still_ struggle with is being on time.

@@ -1,13 +1,8 @@
----
-title: A Fundamental Truth on Christmas, 1996
-author: ziahassan
-type: post
-date: 2019-02-20T04:18:49+00:00
-url: /a-fundamental-truth-on-christmas-morning/
-categories:
-  - Uncategorized
++++
+title = "A Fundamental Truth On Christmas Morning"
+date = 2019-02-19
++++
 
----
 I learned a fundamental truth about myself around Christmas in 1996.
 
 That was the year that I convinced my dad to let me get a PlayStation for Christmas. The video game console had been out for a while, so I was late to the party. But it was fine because the most up-to-date system I owned was a Super Nintendo, which was outdated.

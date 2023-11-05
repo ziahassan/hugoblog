@@ -1,13 +1,13 @@
----
-title: Busy or Satisfied
-author: ziahassan
-type: post
-date: 2019-09-30T00:19:15+00:00
-url: /busy-or-satisfied/
-categories:
-  - Uncategorized
++++
+title = "Busy Or Satisfied"
+date = 2019-09-29
++++
 
----
++++
+title = "09"
+date = 2019
++++
+
 Many bloggers have argued that productivity is the goal, and then there are others who say that it’s more about the quality of the day rather than how much was accomplished.
 
 Should we focus on being busy or satisfied?

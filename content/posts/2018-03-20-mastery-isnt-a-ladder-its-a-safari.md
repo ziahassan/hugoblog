@@ -1,13 +1,8 @@
----
-title: Mastery Isn’t a Ladder; It’s a Safari
-author: ziahassan
-type: post
-date: 2018-03-20T00:55:12+00:00
-url: /mastery-isnt-a-ladder-its-a-safari/
-categories:
-  - Uncategorized
++++
+title = "Mastery Isnt A Ladder Its A Safari"
+date = 2018-03-20
++++
 
----
 When I was a teacher in DC, one of my very favorite students came up to me and she was really excited.
 
 “Mr. Hassan,” she said, “Ms. Eisele just gave me my reading assessment… I got to reading level Y! That means if I increase my reading level by one more letter, I will get to level Z! That’s the last level!”

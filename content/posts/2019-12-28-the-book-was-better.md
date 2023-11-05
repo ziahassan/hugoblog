@@ -1,11 +1,13 @@
----
-title: The Book Was Better
-author: ziahassan
-type: post
-date: 2019-12-28T19:31:37+00:00
-url: /the-book-was-better/
++++
+title = "The Book Was Better"
+date = 2019-12-28
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 One of my favorite questions to ask people (especially kids) when they see a movie adaptation of a book&#8230;
 
 _When you read the book after having seen the movie, do you visualize the actors from the movie playing their characters in your mind?_

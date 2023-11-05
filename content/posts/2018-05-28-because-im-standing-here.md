@@ -1,13 +1,8 @@
----
-title: Because I’m Standing Here, Paying Attention
-author: ziahassan
-type: post
-date: 2018-05-28T01:38:03+00:00
-url: /because-im-standing-here/
-categories:
-  - Uncategorized
++++
+title = "Because Im Standing Here"
+date = 2018-05-28
++++
 
----
 Another day, another lesson learned from tech support. 
 
 This time, it’s the scenario that has played out so many times over both of my careers in tech: someone complains about a bug, or something that doesn’t work properly. I ask them to replicate it so I can see it happen. The person tries to replicate the issue, and this time, there’s no problem. 

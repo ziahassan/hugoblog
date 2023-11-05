@@ -1,13 +1,13 @@
----
-title: We Are What We Eat
-author: ziahassan
-type: post
-date: 2018-10-19T22:57:45+00:00
-url: /we-are-what-we-eat/
-categories:
-  - Uncategorized
++++
+title = "We Are What We Eat"
+date = 2018-10-19
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 I heard a metaphor the other day &#8211; that all the messages you’re sent as a child are like colored dye being put into a clear glass of water. They might all be different colors, but they blend together to create the unique image you have of yourself as an adult.
 
 I think the same is true for artists, except we can expand this to cover every piece of media we consume. Every book, movie, TV episode, webisode, podcast, and blog post wedges itself, even in a small and subtle way, somewhere in our psyche.

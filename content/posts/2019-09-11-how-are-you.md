@@ -1,13 +1,8 @@
----
-title: How Are You?
-author: ziahassan
-type: post
-date: 2019-09-11T21:25:57+00:00
-url: /how-are-you/
-categories:
-  - Uncategorized
++++
+title = "How Are You"
+date = 2019-09-11
++++
 
----
 One of the most simple questions remains of the most profound mysteries in life. 
 
 How are you? I’m fine.

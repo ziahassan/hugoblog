@@ -1,13 +1,13 @@
----
-title: A Hibachi Chef Contemplates Life
-author: ziahassan
-type: post
-date: 2019-05-23T19:37:00+00:00
-url: /a-hibachi-contemplates-life/
-categories:
-  - Uncategorized
++++
+title = "A Hibachi Contemplates Life"
+date = 2019-05-23
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 I love hibachi food, like Benihana. So much that I always ask to go there on my birthday. It’s like a little journey for me, and the white sauce is nearly _perfect_. 
 
 From the moment we arrive, it’s already a party atmosphere. I get to sit next to some people I don’t know, who have annoying kids but seem as excited to be there as I do. Is it someone in their group’s birthday? According to them, yes. But it could be a lie.

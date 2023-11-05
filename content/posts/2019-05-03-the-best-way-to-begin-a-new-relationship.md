@@ -1,13 +1,8 @@
----
-title: The Best Way to Begin a New Relationship
-author: ziahassan
-type: post
-date: 2019-05-03T11:13:17+00:00
-url: /the-best-way-to-begin-a-new-relationship/
-categories:
-  - Uncategorized
++++
+title = "The Best Way To Begin A New Relationship"
+date = 2019-05-03
++++
 
----
 During teacher training six summers ago, we were tasked with analyzing what we were bringing to our teaching practice. Specifically, what baggage we were carrying from our experience as students. 
 
 We were asked about our favorite teachers, and what made them our favorites. Lots of responses seemed to indicate that a good teacher had a little bit to do with teaching skill, and a lot to do with personal connection. The truth is you can&#8217;t have one without the other. Good teaching goes beyond chops, it necessitates personal connection. 

@@ -1,15 +1,8 @@
----
-title: unlikely collaboration.
-author: ziahassan
-type: post
-date: 2006-07-10T19:51:44+00:00
-draft: true
-private: true
-url: /unlikely-collaboration/
-categories:
-  - Uncategorized
++++
+title = "Unlikely Collaboration"
+date = 2006-07-10
++++
 
----
 Once again, PJ returned home without any prior notice.  We went to Joe&#8217;s Crab Shack to say hi to Billy, who is now working as a barback.  He was sweaty when we met up with him.  PJ created a mission of throwing any excess food into the center of the paper towel roll in the table.  Being children again is satisfying.
 
 My rental from blockbuster is overdue.  For some reason, I can&#8217;t seem to drive the extra mile and a half to return library books or video rentals.  It&#8217;s almost as if I feel too good for them or something.  This explains my love for Blockbuster Online.

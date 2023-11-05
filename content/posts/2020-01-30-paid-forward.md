@@ -1,13 +1,8 @@
----
-title: Paid Forward
-author: ziahassan
-type: post
-date: 2020-01-30T15:31:35+00:00
-url: /paid-forward/
-categories:
-  - story
++++
+title = "Paid Forward"
+date = 2020-01-30
++++
 
----
 I was in a Barnes and Noble once browsing the history shelves. I was teaching a fourth grade unit on the revolution, something I hadn’t really absorbed much as a child, and I wanted to become somewhat of an expert. Hamilton (the musical) had just come out, which helped aid some of my work with the students. I remember telling them that it would be one of the most important musicals of all time.
 
 One of the books I pulled out was Meecham’s book on Thomas Jefferson. As I was looking at the book, a lady stopped by and said “that’s one of my favorites.” 

@@ -1,13 +1,8 @@
----
-title: 7am in the Office
-author: ziahassan
-type: post
-date: 2019-05-20T00:17:42+00:00
-url: /7am-in-the-office/
-categories:
-  - Uncategorized
++++
+title = "7Am In The Office"
+date = 2019-05-19
++++
 
----
 I don’t really miss that my desk job that much. I say “that much” because occasionally there are times when I wish I could just sit in the air conditioned cube watching the world outside and listening to streaming radio while doing something mindless. 
 
 The funny thing is that I don’t really miss the work or even the environment that much. It’s little things.

@@ -1,13 +1,13 @@
----
-title: Sensitivity to Sounds
-author: ziahassan
-type: post
-date: 2018-06-11T03:45:08+00:00
-url: /the-white-noise-paradox/
-categories:
-  - Uncategorized
++++
+title = "The White Noise Paradox"
+date = 2018-06-11
++++
 
----
++++
+title = "06"
+date = 2018
++++
+
 I’m sensitive to sound. It’s always been this way. Vacuums, sirens, people talking during movies, loud noises coming from rooms/houses nearby late at night… all irritate my brain in ways that can’t be easily described. When I was an RA in college, the majority of my reports were noise violations. I’m sensitive to it.
 
 But that sensitivity runs both ways. The sound of vegetables sizzling in oil in a frying pan brings me intense amounts of joy. A good record does the same. The sound of my fingers typing on my MacBook Pro at this very moment, same thing. I can identify people’s voices easily, like when I saw Rogue One and heard Riz Ahmed’s voice and immediately knew he was the rapper from Swet Shop Boys.

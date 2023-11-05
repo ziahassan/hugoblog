@@ -1,13 +1,13 @@
----
-title: I’ll Build it For You
-author: ziahassan
-type: post
-date: 2019-05-12T20:23:32+00:00
-url: /ill-build-it-for-you/
-categories:
-  - Uncategorized
++++
+title = "Ill Build It For You"
+date = 2019-05-12
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 When I moved into my new house last year, there was an interesting phenomenon that I noticed. Every time I’d mention to someone that I bought a new desk or a crib for my upcoming child, I’d get the response: “I’m sure you’re super busy and I’d love to come and build it for you.”
 
 At first, I thought it was just my incredible generous friends and family offering their time to take some of the burden off of my wife and I. And surely it was, at least partially. But no one was chomping at the bit to help us more our furniture, or scrub the bathrooms… overwhelmingly, they simply wanted to build our furniture that we had purchased from Ikea or Wayfair. 

@@ -1,17 +1,13 @@
----
-title: Born Lever Puller.
-author: ziahassan
-type: post
-date: 2006-01-28T07:21:54+00:00
-excerpt: |
-  "It's important to stay friends.  I believe people live their lives by living things that have already happened to them.  Maybe that's why things pass us by so quickly.  So you're in this ride with a few people, and then it becomes your way of living as you move on to new rides that will become your way of living in the future."
-draft: true
-private: true
-url: /born-lever-puller/
-categories:
-  - Uncategorized
++++
+title = "Born Lever Puller"
+date = 2006-01-28
++++
 
----
++++
+title = "01"
+date = 2006
++++
+
 It's important to stay friends. I believe people live their lives by living things that have already happened to them. Maybe that's why things pass us by so quickly. So you're in this ride with a few people, and then it becomes your way of living as you move on to new rides that will become your way of living in the future. This may explain the emptiness I've been trying to conquer. Perhaps all I needed was people who were there for that ride.
 
 I ordered squid tonight. The sushi place we went to is one that we've been to before. The place where awkward tension was strung out like sweaters on a clothesline, where Liza tried her best to order something I would enjoy as much as her, and teetering between whether or not I was lying when I said that I like Bento Boxes. I wasn't. This time around was almost uneventful, but in a way I preferred it. We heard about London and we talked about characters from old volumes. The outing was spontaneous, different, it was what I expected and I loved every second of it. That is why I ordered squid.

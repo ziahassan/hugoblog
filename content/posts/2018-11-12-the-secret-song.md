@@ -1,13 +1,8 @@
----
-title: The Secret Song
-author: ziahassan
-type: post
-date: 2018-11-12T15:57:05+00:00
-url: /the-secret-song/
-categories:
-  - Uncategorized
++++
+title = "The Secret Song"
+date = 2018-11-12
++++
 
----
 Back when CDs were how people listened to music, there was a trend to include secret song at the end of the album (sometimes more). 
 
 The track wouldn’t be listed on the back of the album’s case, so there was no way to really know if it was there. But sure enough, you’d pop in your CD and your CD player would tell you that there are _14_ tracks instead of 13. 

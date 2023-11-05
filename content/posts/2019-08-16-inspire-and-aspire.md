@@ -1,13 +1,13 @@
----
-title: Inspire and Aspire
-author: ziahassan
-type: post
-date: 2019-08-16T21:36:29+00:00
-url: /inspire-and-aspire/
-categories:
-  - Uncategorized
++++
+title = "Inspire And Aspire"
+date = 2019-08-16
++++
 
----
++++
+title = "08"
+date = 2019
++++
+
 When the muse hits us, when we come up with a stroke of genius, we often describe the feeling as _inspiration_.
 
 Inspire literally means to breathe something in. We see something in culture that we take in, that finds its way into the crevices in our bones, that changes our brain chemistry (even a little).

@@ -1,11 +1,13 @@
----
-title: The Abstract
-author: ziahassan
-type: post
-date: 2020-01-13T14:57:44+00:00
-url: /the-abstract/
++++
+title = "The Abstract"
+date = 2020-01-13
++++
 
----
++++
+title = "01"
+date = 2020
++++
+
 Have you ever gone to a museum for abstract art? And have you ever wondered what you’re looking at? Why it sells?
 
 There’s a classic meme of someone looking at a big white frame that an artist left intentionally blank, and it has a price tag of $1000. 

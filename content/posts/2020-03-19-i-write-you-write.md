@@ -1,14 +1,13 @@
----
-title: I Write, You Write
-author: ziahassan
-type: post
-date: 2020-03-19T18:12:39+00:00
-url: /i-write-you-write/
-categories:
-  - mindfulness
-  - spirituality
++++
+title = "I Write You Write"
+date = 2020-03-19
++++
 
----
++++
+title = "03"
+date = 2020
++++
+
 I thought in the last couple of days about giving up writing this blog. It’s an amazing creative exercise, to wake up every day and write about a different topic that I find interesting or fascinating. Very few people read it, though occasionally someone will want to chat about a topic I’ve written about, which is always rewarding.
 
 That said, in this time of very little time, I felt that it made sense to stop writing for a bit. It would give some time back into the schedule that I’m currently dividing between my job and my child. I could return to the blog when things quieted down again. But then, I decided against it.

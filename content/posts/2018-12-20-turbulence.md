@@ -1,13 +1,8 @@
----
-title: Turbulence
-author: ziahassan
-type: post
-date: 2018-12-20T17:08:59+00:00
-url: /turbulence/
-categories:
-  - Uncategorized
++++
+title = "Turbulence"
+date = 2018-12-20
++++
 
----
 One of the first airplane trips I can remember was when I was eight. We were going to Pakistan, by way of London, which would mean I’d get to see my cousins in the UK for a bit.
 
 I counted down the days until the flight and was so excited to fly for a long period of time. I snuggled deep into blankets and watched movies (on one huge screen at the front of the airplane), and I was disappointed when it was over.

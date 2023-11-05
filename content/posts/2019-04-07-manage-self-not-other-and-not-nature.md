@@ -1,13 +1,8 @@
----
-title: Manage Self Not Other (and Not Nature)
-author: ziahassan
-type: post
-date: 2019-04-07T12:24:17+00:00
-url: /manage-self-not-other-and-not-nature/
-categories:
-  - Uncategorized
++++
+title = "Manage Self Not Other And Not Nature"
+date = 2019-04-07
++++
 
----
 There&#8217;s a saying my therapist gave me: manage self, not other (MSNO). The idea is that you can&#8217;t really control the actions and thoughts of others, so it is much more efficient to focus on your own needs and actions. And if all parties do this, the result is much more harmonious relationships. 
 
 I run into these types of situations a lot. Situations where I have to choose pleasing other people over taking care of myself for instance. Or when I want someone to do something that will please me, and then I remind myself that doing that will only get me into more trouble, not to mention it won&#8217;t be very effective. 

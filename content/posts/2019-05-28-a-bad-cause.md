@@ -1,13 +1,8 @@
----
-title: A Bad Cause
-author: ziahassan
-type: post
-date: 2019-05-29T00:32:20+00:00
-url: /a-bad-cause/
-categories:
-  - Uncategorized
++++
+title = "A Bad Cause"
+date = 2019-05-28
++++
 
----
 Whenever someone creates a fundraiser, they usually follow their financial request by saying that its “for a good cause.” If someone is holding a concert that they want me to buy tickets for, they might decide that the money is going to go toward helping homeless people. They will tell me that my money is going toward a good cause.
 
 I commend people who decide make the effort to raise money for charity, but I sometimes wonder about what would qualify as a _bad_ cause. Certainly, whoever is paying for what you might deem a _bad_ cause must believe it’s a good cause.

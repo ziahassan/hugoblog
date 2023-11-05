@@ -1,13 +1,13 @@
----
-title: One Way to Think of Tarot
-author: ziahassan
-type: post
-date: 2019-09-14T12:10:39+00:00
-url: /one-way-to-think-of-tarot/
-categories:
-  - Uncategorized
++++
+title = "One Way To Think Of Tarot"
+date = 2019-09-14
++++
 
----
++++
+title = "09"
+date = 2019
++++
+
 It&#8217;s a bit like poetry. 
 
 In a poem, the words are laid out in front of us, and it&#8217;s up to us to give them meaning. Sure, the poet may have had their own intentions, but any artist worth their salt knows that their intention is basically a form of trivia and audience interpretation is everything. 

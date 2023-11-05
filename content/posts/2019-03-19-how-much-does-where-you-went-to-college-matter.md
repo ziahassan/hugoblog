@@ -1,13 +1,13 @@
----
-title: Where’d You Go to College?
-author: ziahassan
-type: post
-date: 2019-03-19T22:48:12+00:00
-url: /how-much-does-where-you-went-to-college-matter/
-categories:
-  - Uncategorized
++++
+title = "How Much Does Where You Went To College Matter"
+date = 2019-03-19
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 Applying to college in High School was an endless shame spiral. You’d take a hard look at your GPA, and then compare it to the average student that different colleges accepted. You’d make a list of reach schools, target schools, and backup schools. Then you’d apply to all of them and see what came back.
 
 I applied to American University early decision, partially because it was nearby and I was afraid of moving too far away from home, and also because it had an audio technology program (which is what I wanted to do with my life at that point in time). AU’s average GPA for accepted students was around the same as mine, maybe slightly higher… but I could’ve applied to a ton of different schools. 

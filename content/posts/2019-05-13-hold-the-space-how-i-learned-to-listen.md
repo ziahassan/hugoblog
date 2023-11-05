@@ -1,13 +1,13 @@
----
-title: Hold the Space (How I Learned to Listen)
-author: ziahassan
-type: post
-date: 2019-05-13T21:06:25+00:00
-url: /hold-the-space-how-i-learned-to-listen/
-categories:
-  - Uncategorized
++++
+title = "Hold The Space How I Learned To Listen"
+date = 2019-05-13
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 Teacher training is an interesting place to be in August. Right before the school year starts, teachers are a bit more relaxed and they have a natural curiosity and sense of exploration as they begin to tackle the new school year.
 
 At one school in which I taught, we were asked to analyze some articles as part of our pre-service (meaning the professional development we do before students arrive). We were then asked to pair up and discuss the articles using a discussion guide. The guide would walk us through a discussion where would make assertions, arguments, and agreements about different parts of the article. 

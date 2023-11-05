@@ -1,13 +1,13 @@
----
-title: Frame Your Puzzles
-author: ziahassan
-type: post
-date: 2019-10-24T21:16:30+00:00
-url: /frame-your-puzzles/
-categories:
-  - Uncategorized
++++
+title = "Frame Your Puzzles"
+date = 2019-10-24
++++
 
----
++++
+title = "10"
+date = 2019
++++
+
 Driving down the road, I saw a sign next to a framing store that said “frame your puzzles.”
 
 They must have meant jigsaw, but when I hear the word _puzzle_, I think about the mysteries that surround me in life. 

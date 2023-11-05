@@ -1,13 +1,13 @@
----
-title: A Copy of Me
-author: ziahassan
-type: post
-date: 2019-05-27T22:30:33+00:00
-url: /a-copy-of-me/
-categories:
-  - Uncategorized
++++
+title = "A Copy Of Me"
+date = 2019-05-27
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 Having children, in many ways, is just our version of downloading a copy of ourselves onto a chip (or a cell), combining some of our code (DNA) with someone else, and keeping our traditions, thoughts, ideas, and even physical appearance alive without needing to be immortal.
 
 When my son was born, I was subject to this kind of thinking: my kid is a copy of me and my wife, a way to remain everlasting. To survive. 

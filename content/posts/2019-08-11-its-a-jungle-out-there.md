@@ -1,13 +1,8 @@
----
-title: It’s a Jungle Out There
-author: ziahassan
-type: post
-date: 2019-08-11T16:11:53+00:00
-url: /its-a-jungle-out-there/
-categories:
-  - Uncategorized
++++
+title = "Its A Jungle Out There"
+date = 2019-08-11
++++
 
----
 To express stress about the overwhelming and sometimes scary world that we live in, there are a couple of phrases I’ve heard people use. One is _it’s a jungle out there,_ which usually means that the world is too crazy to really understand, and we should resign ourselves to that fact.
 
 I’ve also heard the term _it’s a circus_, which is the same idea with a bit more chaos thrown in for good measure.

@@ -1,13 +1,13 @@
----
-title: Finishing One Thing
-author: ziahassan
-type: post
-date: 2019-07-02T01:25:42+00:00
-url: /finishing-one-thing/
-categories:
-  - Uncategorized
++++
+title = "Finishing One Thing"
+date = 2019-07-01
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 Many new parents complain that they lose themselves a bit after their child arrives. It&#8217;s hard to stay on top of anything related to creativity, fitness, and nutrition. 
 
 I’ve always been a guy who does a million projects at once. So I devised a plan when my son was born. I would touch each one of my projects every day, so that I would remain connected to it. The thinking was that if I don&#8217;t do this, I&#8217;ll be distracted by not finishing my work (this is a real thing for artists). And if I manage to touch them all, I will be in the present moment when I&#8217;m with him. 

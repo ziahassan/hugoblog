@@ -1,13 +1,8 @@
----
-title: Cognitive Error
-author: ziahassan
-type: post
-date: 2019-09-10T14:59:42+00:00
-url: /cognitive-error/
-categories:
-  - Uncategorized
++++
+title = "Cognitive Error"
+date = 2019-09-10
++++
 
----
 It’s been discussed in many books that humans are driven by narrative. That even when we _think_ we’re being rational and logical, we’re really just validating the stories we tell ourselves. Data can prove almost anything, it turns out.
 
 A friend of mine once referred to these instances as “cognitive errors.” But to a technologist, an error means that a system didn’t work as designed. But that’s not the case with the brain: it was “designed” to tell stories, to complete narratives. It’s why we find movies and TV and books to be so compelling. It’s a biological instinct that helps us survive: we fill in missing information, and while it is sometimes to our detriment is often a practice that can save us.

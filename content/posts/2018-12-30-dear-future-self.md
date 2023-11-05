@@ -1,13 +1,8 @@
----
-title: Dear Future Self
-author: ziahassan
-type: post
-date: 2018-12-30T21:12:18+00:00
-url: /dear-future-self/
-categories:
-  - Uncategorized
++++
+title = "Dear Future Self"
+date = 2018-12-30
++++
 
----
 Over the course of my life, I’ve written a few letters to myself.
 
 The first was for my college application. It asked the question: “Where do you see yourself in five years?” 

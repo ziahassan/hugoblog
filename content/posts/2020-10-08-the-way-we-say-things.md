@@ -1,11 +1,13 @@
----
-title: The Way We Say Things
-author: ziahassan
-type: post
-date: 2020-10-08T21:41:03+00:00
-url: /the-way-we-say-things/
++++
+title = "The Way We Say Things"
+date = 2020-10-08
++++
 
----
++++
+title = "10"
+date = 2020
++++
+
 There are certain inflections, certain tones that a person uses when they say certain phrases.
 
 I enjoy these when I hear them. The slang phrases people use and the perfectly predictable intonation and cadence they use while saying them.

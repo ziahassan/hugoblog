@@ -1,13 +1,8 @@
----
-title: Meditation in a Noisy Place
-author: ziahassan
-type: post
-date: 2019-09-12T20:54:48+00:00
-url: /meditation-in-a-noisy-place/
-categories:
-  - Uncategorized
++++
+title = "Meditation In A Noisy Place"
+date = 2019-09-12
++++
 
----
 When you think of meditation, you probably envision a serene hillside, a quiet butterfly or two, and a person sitting silently, legs crossed, in total perfection.
 
 I meditate in my basement. It’s freezing cold, there is usually at least one cricket on the ground near me, and I sit in front of my TV (turned off). But it works.

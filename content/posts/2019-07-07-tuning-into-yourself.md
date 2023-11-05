@@ -1,13 +1,13 @@
----
-title: Tuning into Yourself
-author: ziahassan
-type: post
-date: 2019-07-07T18:46:47+00:00
-url: /tuning-into-yourself/
-categories:
-  - Uncategorized
++++
+title = "Tuning Into Yourself"
+date = 2019-07-07
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 One of the hardest parts of therapy for me is when my therapist asks me to listen to my inner desires. It seems easy enough, and for most of my life, it seems that my inner desires have been pretty obvious and overwhelming.
 
 But then again, I tend to seek out advice quite a bit for problems that only I could ever possibly have the answer to. Questions like, what job should I take? How should I handle this ambiguous situation? What car should I buy?

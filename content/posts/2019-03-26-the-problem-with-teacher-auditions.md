@@ -1,13 +1,13 @@
----
-title: The Problem with Teacher Auditions
-author: ziahassan
-type: post
-date: 2019-03-26T22:46:52+00:00
-url: /the-problem-with-teacher-auditions/
-categories:
-  - Uncategorized
++++
+title = "The Problem With Teacher Auditions"
+date = 2019-03-26
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 When I was applying at schools as a teacher, there was a pretty standard application process. You’d send your resume and cover letter like always, and then you’d have an initial interview. If you made it past that stage, you’d move onto something that was called a “demo teach.” 
 
 In a demo teach, you teach a group of kids at the school at which you’re applying. Administrators watch you to see if your style matches what they are seeking and this is all considered when they make hiring decision in the end. Sometimes this can be substituted by a video of you teaching, but in most cases, you’re going in cold.

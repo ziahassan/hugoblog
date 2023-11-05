@@ -1,13 +1,13 @@
----
-title: I’ll Never Write Another Song
-author: ziahassan
-type: post
-date: 2019-04-27T15:02:24+00:00
-url: /ill-never-write-another-song/
-categories:
-  - Uncategorized
++++
+title = "Ill Never Write Another Song"
+date = 2019-04-27
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 I’ve written before about how songs seem to come to me gift-wrapped. That is, they’ll appear out of nowhere, fully formed with a melody and a core idea, and it will take very little refining on my part to beat them into shape. 
 
 There is some truth to the idea that inspiration is spurred by simply sitting down to work. I’ve written some songs this way, like when I have a custom song to write for a wedding and the deadline is soon approaching. The downside to this approach, of course, is that some of those songs are ones that I’m not inspired by and I never play again. Some, very few, become hits.

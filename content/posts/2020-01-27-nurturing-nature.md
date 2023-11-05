@@ -1,13 +1,13 @@
----
-title: Nurturing Nature
-author: ziahassan
-type: post
-date: 2020-01-27T13:48:49+00:00
-url: /nurturing-nature/
-categories:
-  - spirituality
++++
+title = "Nurturing Nature"
+date = 2020-01-27
++++
 
----
++++
+title = "01"
+date = 2020
++++
+
 The age old debate rages on: are we like this because that’s how we were made, or are we like this because society has given us a superficial roadmap?
 
 I’ve started to believe that it doesn’t matter much.

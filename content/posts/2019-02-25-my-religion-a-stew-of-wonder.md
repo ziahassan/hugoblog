@@ -1,13 +1,8 @@
----
-title: My Religion, a Stew of Wonder
-author: ziahassan
-type: post
-date: 2019-02-26T00:00:09+00:00
-url: /my-religion-a-stew-of-wonder/
-categories:
-  - Uncategorized
++++
+title = "My Religion A Stew Of Wonder"
+date = 2019-02-25
++++
 
----
 My first experience with religion happened when I was a child. I was told, right out of the gate, that I was Muslim. I attended a jamaat with my parents each Friday night, and celebrated Eid. 
 
 My family also celebrated Christmas. It was probably because they wanted to make sure my sister and I didn&#8217;t miss out on any American fun as children. 

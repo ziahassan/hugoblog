@@ -1,13 +1,13 @@
----
-title: An Artist’s Job is to Move You (in Either Direction)
-author: ziahassan
-type: post
-date: 2019-05-31T21:29:25+00:00
-url: /an-artists-job-is-to-move-you-in-either-direction/
-categories:
-  - Uncategorized
++++
+title = "An Artists Job Is To Move You In Either Direction"
+date = 2019-05-31
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 I was part of a show recently and so far have read three reviews of it. And even though I was an opener at the show, I was mentioned in all three of them.
 
 Two of them said really nice things about me, and it was clear they understood what I was going for with my art. The other one clearly didn’t. And of course, it’s always the one that doesn’t really get it that sticks with an artist, despite the accolades that outnumber the criticisms. 

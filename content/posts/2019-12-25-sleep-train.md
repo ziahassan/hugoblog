@@ -1,13 +1,13 @@
----
-title: Sleep Train
-author: ziahassan
-type: post
-date: 2019-12-25T12:39:12+00:00
-url: /sleep-train/
-categories:
-  - Uncategorized
++++
+title = "Sleep Train"
+date = 2019-12-25
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 Putting a child to bed is one of the most fascinating experiences of parenthood so far.
 
 I&#8217;ve never thought about where one actually _goes_ when they go to sleep, not since I was a child. But my son will cry and whimper and cling when I put him down until, all of a sudden, sleep has whisked him away to its magical land of dreams and replenishment.

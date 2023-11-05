@@ -1,13 +1,13 @@
----
-title: My Own Conclusions
-author: ziahassan
-type: post
-date: 2020-02-27T23:25:00+00:00
-url: /my-own-conclusions/
-categories:
-  - Process
++++
+title = "My Own Conclusions"
+date = 2020-02-27
++++
 
----
++++
+title = "02"
+date = 2020
++++
+
 There are those in my friend group who I would describe as best friends. If I had to identify one common thread that links them together, it is that they are all really good at _letting me arrive at my own conclusions._
 
 This is something I value in a friendship, and it’s also something I try to instill in my own life as a trainer, consultant, and college professor. 

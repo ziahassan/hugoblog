@@ -1,13 +1,13 @@
----
-title: Falsehoods About Teachers as Portrayed on TV/Movies
-author: ziahassan
-type: post
-date: 2018-10-26T17:00:06+00:00
-url: /falsehoods-about-teachers-as-portrayed-on-tv-movies/
-categories:
-  - Uncategorized
++++
+title = "Falsehoods About Teachers As Portrayed On Tv Movies"
+date = 2018-10-26
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 Maybe you&#8217;re a doctor who watches medical shows and throws the remote against the TV. Or maybe you&#8217;re a reporter who watches shows like The Newsroom. Hell, maybe you&#8217;re even a barista getting frustrated by watching the coffee-making employees at Central Perk on Friends. I can&#8217;t imagine what astronauts and scientists think about sci-fi shows.
 
 For me, it&#8217;s being an educator and watching TV shows about teaching. There are so many tropes in shows about teaching that just don&#8217;t stack up to the reality of teaching. Here are a few myths

@@ -1,13 +1,8 @@
----
-title: Another Reason I Dislike the Grocery Store
-author: ziahassan
-type: post
-date: 2020-02-04T12:58:10+00:00
-url: /another-reason-i-dislike-the-grocery-store/
-categories:
-  - Uncategorized
++++
+title = "Another Reason I Dislike The Grocery Store"
+date = 2020-02-04
++++
 
----
 The items that are eye level were put there by marketers who paid extra to have their items at eye level.
 
 It&#8217;s a subtle manipulation but an important one: we don&#8217;t pick our food, our food (and its makers) pick us. Unless we actively go out of our way to avoid the manipulation, like people who only shop at Farmers markets.

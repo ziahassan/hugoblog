@@ -1,13 +1,13 @@
----
-title: Music is Legacy
-author: ziahassan
-type: post
-date: 2018-11-20T03:25:32+00:00
-url: /music-is-legacy/
-categories:
-  - Uncategorized
++++
+title = "Music Is Legacy"
+date = 2018-11-20
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 I watched Coco recently (I&#8217;m late to the party). My first thought afterward was how poignant the idea of music as legacy is.
 
 When we pass down our music to our children, we give them a little piece of our soul. It&#8217;s true for the original songs I write for my kid, and it&#8217;s true for the Beatles and ABBA records my dad played constantly on our road trips in the 90s.

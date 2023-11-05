@@ -1,13 +1,8 @@
----
-title: I Bought a CD player
-author: ziahassan
-type: post
-date: 2019-06-08T02:54:06+00:00
-url: /i-bought-a-cd-player/
-categories:
-  - Uncategorized
++++
+title = "I Bought A Cd Player"
+date = 2019-06-07
++++
 
----
 I found it on Amazon for $50. It was a cool looking one that seems to stick on a wall. 
 
 It was a little bit for me &#8211; I had a stack of CDs from High School that my parents had kept at their house until recently. It felt nice to pull from a CD wallet instead of going on Spotify or some other app and letting its algorithm influence my choice of what to listen to.

@@ -1,13 +1,8 @@
----
-title: How Much Do We See?
-author: ziahassan
-type: post
-date: 2020-02-26T22:16:23+00:00
-url: /how-much-do-we-see/
-categories:
-  - social media
++++
+title = "How Much Do We See"
+date = 2020-02-26
++++
 
----
 When you’ve on Instagram or Facebook or some other service, it’s important to stop and ask occasionally how much of someone’s life you’re seeing.
 
 When I see people they’ll often say, “well, looks like you’re doing great!”

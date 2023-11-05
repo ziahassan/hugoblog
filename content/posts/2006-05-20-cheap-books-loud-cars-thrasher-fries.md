@@ -1,19 +1,8 @@
----
-title: cheap books, loud cars. thrasher fries.
-author: ziahassan
-type: post
-date: 2006-05-20T04:35:19+00:00
-excerpt: |
-  "Our waitress informed us that it was "Classic Car Weekend," which is a holiday that Ocean city has where people bring their antique cars down for the spectators (rednecks with Beer coolers who stand on the side of the road with video cameras)."  
-  
-  keep reading
-draft: true
-private: true
-url: /cheap-books-loud-cars-thrasher-fries/
-categories:
-  - Uncategorized
++++
+title = "Cheap Books Loud Cars Thrasher Fries"
+date = 2006-05-20
++++
 
----
 Imagine my surprise today when we walked into, not a hotel room, but my uncle's condo, complete with wireless internet access and a widescreen TV, bags of chips, my own bedroom, a balcony with a view of the sea, and various other awesome components. I could make a habit out of this place.
 
 We got a late start getting out of north potomac, and of course, mom was freaking out about it, but still was very adamant about getting to the outlet mall. In the car ride to the outlet mall, I listened to the Incredible Moses Leroy's album Become the Soft Lightes. A sidenote: this band is really unknown, and I wouldn't have known about them if Utkarsh hadn't brought them up. If anyone enjoys good synth-pop, check it out. Probably one of my favorite albums. Either way, I did some research since they haven't released anything since '03, turns out that they've actually changed their name to the Soft Lightes (http://www.myspace.com/thesoftlightes). Even weirder was that they were playing a track from the album on the radio at the outlet mall. I flipped out and caused a commotion, but isn't that weird?

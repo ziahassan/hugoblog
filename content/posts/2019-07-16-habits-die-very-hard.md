@@ -1,13 +1,8 @@
----
-title: Habits Die Very Hard
-author: ziahassan
-type: post
-date: 2019-07-17T00:21:57+00:00
-url: /habits-die-very-hard/
-categories:
-  - Uncategorized
++++
+title = "Habits Die Very Hard"
+date = 2019-07-16
++++
 
----
 In the book The Power of Habit by Charles Duhigg, the author claims that habits can never be _broken_ but they can be _changed_. This struck me as odd, because of course you can break a habit. I’ve done it many times.
 
 But as it turns out, any time I’ve broken a habit, I’ve actually just replaced a behavior with another one, whether that was due to a change in environment or in my financial abilities, etc.

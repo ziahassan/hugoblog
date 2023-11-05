@@ -1,13 +1,13 @@
----
-title: Rejected from Pandora
-author: ziahassan
-type: post
-date: 2018-12-25T17:37:58+00:00
-url: /rejected-from-pandora/
-categories:
-  - Uncategorized
++++
+title = "Rejected From Pandora"
+date = 2018-12-25
++++
 
----
++++
+title = "12"
+date = 2018
++++
+
 A few years ago, I got a rejection notice from Pandora. I had submitted a new song months prior.
 
 But there’s more to the story.

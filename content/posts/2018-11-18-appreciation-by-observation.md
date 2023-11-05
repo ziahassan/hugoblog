@@ -1,13 +1,13 @@
----
-title: Appreciation by Observation
-author: ziahassan
-type: post
-date: 2018-11-18T13:08:24+00:00
-url: /appreciation-by-observation/
-categories:
-  - Uncategorized
++++
+title = "Appreciation By Observation"
+date = 2018-11-18
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 Want to appreciate a moment? Write down the sensory details. 
 
 Want to appreciate a person? Write them a love letter. 

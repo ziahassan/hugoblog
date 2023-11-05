@@ -1,13 +1,13 @@
----
-title: My Car is Forever Stuck in the Past
-author: ziahassan
-type: post
-date: 2019-07-22T11:30:20+00:00
-url: /my-car-is-forever-stuck-in-the-past/
-categories:
-  - Uncategorized
++++
+title = "My Car Is Forever Stuck In The Past"
+date = 2019-07-22
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 When I noticed that my car’s dashboard calendar was off I tried to adjust it. It was off by a year in the past. When I tried to adjust it, I found it only went up to 2018 &#8211; pressing the forward button one more time set me back to 1999. The manufacturer had not considered a world in which this car would still be in use after 2018. 
 
 To be stuck in the past is a serious situation. I&#8217;d feel the same way if the car was stuck on a future date too. If you&#8217;re living in the past, it&#8217;s hard to enjoy the fullness of the present moment. Impossible, even. 

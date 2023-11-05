@@ -1,13 +1,8 @@
----
-title: The Magic of Time Blocking
-author: ziahassan
-type: post
-date: 2019-01-07T14:45:35+00:00
-url: /the-magic-of-time-blocking/
-categories:
-  - Uncategorized
++++
+title = "The Magic Of Time Blocking"
+date = 2019-01-07
++++
 
----
 I read about a radical idea a couple years ago. At least it was radical to me.
 
 I was researching procrastination because I felt like I wasn&#8217;t getting enough done despite having quite a few hours in the day to do things. I felt like I was wasting time but couldn&#8217;t quite figure out where the time was going. Like all the missing socks eaten by the washer.

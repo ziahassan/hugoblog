@@ -1,13 +1,13 @@
----
-title: On Being Reliable
-author: ziahassan
-type: post
-date: 2019-08-29T12:50:00+00:00
-url: /on-being-reliable/
-categories:
-  - Uncategorized
++++
+title = "On Being Reliable"
+date = 2019-08-29
++++
 
----
++++
+title = "08"
+date = 2019
++++
+
 Many people make it a goal to be more reliable. To be the kind of person that can be trusted, one that keeps promises. 
 
 How do we practice this? It&#8217;s not as easy as it sounds. 

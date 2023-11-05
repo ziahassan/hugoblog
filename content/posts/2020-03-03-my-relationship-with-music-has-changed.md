@@ -1,13 +1,13 @@
----
-title: My Relationship With Music Has Changed
-author: ziahassan
-type: post
-date: 2020-03-03T12:46:50+00:00
-url: /my-relationship-with-music-has-changed/
-categories:
-  - Uncategorized
++++
+title = "My Relationship With Music Has Changed"
+date = 2020-03-03
++++
 
----
++++
+title = "03"
+date = 2020
++++
+
 Rewind to 1999. I’ve got a cd wallet in my car that has about 12-15 slots for CDs. I’m at the second hand record shops every week selling old CDs and buying new ones. I’ve got a boom box and I’ve split its speakers across my room. 
 
 I’m probably playing my music too loud. Keeping my parents up. So I switch to headphones and surf the web. This was back when I could do both things at the same time.

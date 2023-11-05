@@ -1,15 +1,8 @@
----
-title: You’ve Got Time
-author: ziahassan
-type: post
-date: 2019-09-19T12:10:45+00:00
-url: /youve-got-time/
-categories:
-  - mindfulness
-  - Parenting
-  - time
++++
+title = "Youve Got Time"
+date = 2019-09-19
++++
 
----
 We were at the park with our one year old when a man with a scraggly beard and sunglasses approached us.
 
 “Enjoy these days, when they&#8217;re toddling around and cooing at you. Once they&#8217;re gone, they&#8217;re gone, and they&#8217;re _never coming back_.”

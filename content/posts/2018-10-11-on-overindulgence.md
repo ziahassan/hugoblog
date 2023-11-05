@@ -1,13 +1,8 @@
----
-title: On Overindulgence
-author: ziahassan
-type: post
-date: 2018-10-11T21:00:00+00:00
-url: /on-overindulgence/
-categories:
-  - Uncategorized
++++
+title = "On Overindulgence"
+date = 2018-10-11
++++
 
----
 Everything in moderation, including moderation. 
 
 I’m not sure who said it originally, but my father-in-law is the one who mentioned this to me. 

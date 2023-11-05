@@ -1,13 +1,13 @@
----
-title: A Good Re-Watch
-author: ziahassan
-type: post
-date: 2019-06-13T20:15:13+00:00
-url: /a-good-re-watch/
-categories:
-  - Uncategorized
++++
+title = "A Good Re Watch"
+date = 2019-06-13
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 When I was a teacher, my summer breaks were somewhat structured. I had a routine. Every day, I’d wake up and go for a walk around downtown Silver Spring, which is where I lived at the time. I’d visit the library and get myself a pastry. 
 
 And then, around mid-July or so, right in the dead of summer break, I’d watch all of the Ocean’s movies, and both Kill Bills. Occasionally there was an Inception thrown in there somewhere.

@@ -1,11 +1,13 @@
----
-title: Falling Apart
-author: ziahassan
-type: post
-date: 2019-12-20T19:09:38+00:00
-url: /falling-apart/
++++
+title = "Falling Apart"
+date = 2019-12-20
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 The towel hanger on the back of the bathroom door fell off this morning. 
 
 It’s the third piece of the bathroom to break in the last week or so. First the knob on the shower handle, then then stopper lever on the faucet, and now this.
@@ -18,4 +20,4 @@ Perhaps a house is like a mountain. Constantly in flux, but present throughout. 
 
 But then the voice reminds me that _humans are part of nature too_. 
 
-And I feel infinitely better about the towel hanger all of a sudden. 
+And I feel infinitely better about the towel hanger all of a sudden.

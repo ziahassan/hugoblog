@@ -1,17 +1,8 @@
----
-title: get the fax straight.
-author: ziahassan
-type: post
-date: 2006-05-26T19:52:45+00:00
-excerpt: |
-  "Discussion between Scott and I yesterday:  as we get older, it becomes more difficult for us to attach ourselves emotionally to a piece of music.  His theory is that when we're younger, we can't express exactly how we feel, and so when the music does that bit for us, we're gratified."
-draft: true
-private: true
-url: /get-the-fax-straight/
-categories:
-  - Uncategorized
++++
+title = "Get The Fax Straight"
+date = 2006-05-26
++++
 
----
 This week was fast, this day has gone really fast, this year went by the fastest. It feels like decades ago now, last summer with my trip to Minneapolis, Astronomy class, RA training, saying goodbye to everyone. At the same time, I didn't know this is how empty being a senior feels. I still have 10 more classes to take, and since they're intense, I expect to be satisfied from what I learn next year.
 
 Last night: drove to DC around dinnertime to eat Chinese food with scott. Met his new roommates briefly, and then headed to the roof to noodle with guitars for a bit. Wish I had known that was going to happen, I would've come prepared. So many different musical things happening at once, I'm working on Still Life, but today I begin writing songs for a vocal/guitar trio. I don't have any of Mike's songs to listen to or learn, but from what I've heard they're just these awesome straight up rock songs, with solid harmonies and 90's-like hooks. Scott can play guitar really well. I don't know if he considers himself to have great chops, but he plays with feeling, which will come in handy. Also, he has some great chord progressions that can be turned into songs. The songs, though, and I've decided I want all my songs to be like this from now on, will be logical. They'll flow within each other and make sense. Probably lots of hanging upper parts and moving middle parts.

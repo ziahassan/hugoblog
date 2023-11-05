@@ -1,13 +1,13 @@
----
-title: Low Quality Literature
-author: ziahassan
-type: post
-date: 2019-07-17T18:10:10+00:00
-url: /low-quality-literature/
-categories:
-  - Uncategorized
++++
+title = "Low Quality Literature"
+date = 2019-07-17
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 We have an abundance of low quality literature in our culture. 
 
 It used to be that when you wanted to read something interesting, informative, or aligned with your hobbies, you’d seek it out. You’d head to the library or the book store. Perhaps a friend would lend you a copy of their most life-changing book. The term “high quality” is subjective of course &#8211; my mother used to read nothing but Harlequinn romance novels at breakfast when I was a kid, but it made her happy, and that it’s important.

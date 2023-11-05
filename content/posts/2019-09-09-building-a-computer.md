@@ -1,13 +1,8 @@
----
-title: Building a Computer
-author: ziahassan
-type: post
-date: 2019-09-10T02:12:12+00:00
-url: /building-a-computer/
-categories:
-  - Uncategorized
++++
+title = "Building A Computer"
+date = 2019-09-09
++++
 
----
 When I was 11, I visited my uncle in England. We were moving into his house and he told me he was ordering a new computer. I got really excited to play games on it.
 
 When it arrived, it came in various boxes. It turned out my uncle, to save money, had ordered computer _parts_. With very little time to deal with the computer, he tasked me with building.

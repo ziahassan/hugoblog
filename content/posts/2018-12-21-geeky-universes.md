@@ -1,13 +1,8 @@
----
-title: Geeky Universes
-author: ziahassan
-type: post
-date: 2018-12-21T14:33:48+00:00
-url: /geeky-universes/
-categories:
-  - Uncategorized
++++
+title = "Geeky Universes"
+date = 2018-12-21
++++
 
----
 At the end of the year, many people on social media ask for podcast, music and book recommendations. There are top 10 lists galore. 
 
 So I help out, I make my recommendations, but no one ever checks them out. 

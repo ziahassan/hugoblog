@@ -1,13 +1,8 @@
----
-title: A Spiritual Life Starts From Within
-author: ziahassan
-type: post
-date: 2019-01-21T14:15:25+00:00
-url: /a-spiritual-life-starts-from-within/
-categories:
-  - Uncategorized
++++
+title = "A Spiritual Life Starts From Within"
+date = 2019-01-21
++++
 
----
 I was listening to an old On Being interview with Mary Oliver, the poet who died last week. 
 
 In the interview, she advocated for everyone to have a spiritual life, that having a spiritual life is the perfect way to deepen and enhance the way a person interacts with the world. 

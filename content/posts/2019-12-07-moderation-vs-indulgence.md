@@ -1,11 +1,13 @@
----
-title: Moderation vs. Indulgence
-author: ziahassan
-type: post
-date: 2019-12-07T20:07:10+00:00
-url: /moderation-vs-indulgence/
++++
+title = "Moderation Vs Indulgence"
+date = 2019-12-07
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 Oscar Wilde once said “everything should be consumed in moderation, including moderation.&#8221;
 
 I stopped and thought about this quote the first time I heard it. I interpreted the message as it’s important to indulge occasionally, that we aren’t really living unless we’re indulging. And that led to another thought, what specifically is an indulgence? And for that matter, what specifically is moderation?

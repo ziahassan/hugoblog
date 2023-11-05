@@ -1,13 +1,8 @@
----
-title: Choose to get it, or be moved anyway
-author: ziahassan
-type: post
-date: 2017-12-19T03:38:05+00:00
-url: /choose-to-get-it-or-be-moved-anyway/
-categories:
-  - Uncategorized
++++
+title = "Choose To Get It Or Be Moved Anyway"
+date = 2017-12-19
++++
 
----
 Liza and I went to an art museum last weekend (the Renwick in DC).
 
 I don’t know what I’d experienced in the past at art museums that made me feel this way, but whatever it was was weighing down on my excitement level. 

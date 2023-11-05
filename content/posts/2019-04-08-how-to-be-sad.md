@@ -1,13 +1,8 @@
----
-title: How to be Sad
-author: ziahassan
-type: post
-date: 2019-04-09T01:09:57+00:00
-url: /how-to-be-sad/
-categories:
-  - Uncategorized
++++
+title = "How To Be Sad"
+date = 2019-04-08
++++
 
----
 My Nani (maternal grandmother) passed away last night. 
 
 I’ve been working on something lately in therapy, which is learning how to be sad. It turns out that for most of my life, I’ve avoided the feeling of sadness. Often I’ll skip over sadness and go directly to anger, or I’ll sidestep it and go to a distraction or drug. 

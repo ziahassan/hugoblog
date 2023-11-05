@@ -1,13 +1,13 @@
----
-title: Open Mind, Closed Mind
-author: ziahassan
-type: post
-date: 2019-04-30T00:21:00+00:00
-url: /open-to-closed-minds/
-categories:
-  - Uncategorized
++++
+title = "Open To Closed Minds"
+date = 2019-04-29
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 Sometimes I look at the comments people make online, and I wonder how they got so closed minded.
 
 I’ll watch Facebook debates between two politically divided people. No one’s mind is ever changed, and the arguments become circular with each person feeling more and more _right_ after each jab. How is it possible to have an argument where both parties believe they’re _more_ correct after each disagreement?

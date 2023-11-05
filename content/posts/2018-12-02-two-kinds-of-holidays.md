@@ -1,13 +1,13 @@
----
-title: Two Kinds of Holidays
-author: ziahassan
-type: post
-date: 2018-12-03T04:52:45+00:00
-url: /two-kinds-of-holidays/
-categories:
-  - Uncategorized
++++
+title = "Two Kinds Of Holidays"
+date = 2018-12-02
++++
 
----
++++
+title = "12"
+date = 2018
++++
+
 There are two kinds of holidays per recognized major US holiday. One for kids and the one for adults. They occur on the same date but are expressed in different ways.
 
 As a child, we enjoy the magic of each holiday. There’s a certain buzz in the air and school is often cooling down for the semester or quarter. Lots of indoor activities, and lots of sugar. Perhaps there’s a plane trip to Europe in our future.

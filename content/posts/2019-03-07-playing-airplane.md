@@ -1,13 +1,13 @@
----
-title: Playing Airplane
-author: ziahassan
-type: post
-date: 2019-03-07T13:16:18+00:00
-url: /playing-airplane/
-categories:
-  - Uncategorized
++++
+title = "Playing Airplane"
+date = 2019-03-07
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 When my son was a newborn, he would occasionally get fussy. I learned a trick from a book called _Wonder Weeks_ that never fails to calm him down.
 
 I hold him so he&#8217;s parallel to the ground, tummy down. I put him in front of me and fly him through the air like an airplane. We go around the entire house and I pretend to be the “captain” and occasionally make “announcements” about what he&#8217;s seeing from his “window.”

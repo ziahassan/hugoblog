@@ -1,13 +1,8 @@
----
-title: The Upside to Subscriptions
-author: ziahassan
-type: post
-date: 2019-01-10T15:53:21+00:00
-url: /the-upside-to-subscriptions/
-categories:
-  - Uncategorized
++++
+title = "The Upside To Subscriptions"
+date = 2019-01-10
++++
 
----
 I remember the days of paying $300 for a piece of software. That $300 was a one-time fee, and you’d get even get a real box and CD-ROM. That piece of software might generate a decade of utility before it’s worthless. Software updates would be frequent.
 
 And now, most of the services I use are subscription-based. I pay for them monthly or yearly at a discount. The only exception is my beloved Omnifocus, though I do pay for an upgrade every 5 years (my back of the envelope calculations say that I’ve paid a dollar or two per month for this life changing app).

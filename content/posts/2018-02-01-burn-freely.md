@@ -1,13 +1,13 @@
----
-title: Burn Freely
-author: ziahassan
-type: post
-date: 2018-02-01T03:43:25+00:00
-url: /burn-freely/
-categories:
-  - Uncategorized
++++
+title = "Burn Freely"
+date = 2018-02-01
++++
 
----
++++
+title = "02"
+date = 2018
++++
+
 I had dinner with a friend tonight. Someone I respect that I once reached out to interview for a podcast, and then reconnected with randomly in my new job. 
 
 We talked about a lot of things. But mostly we talked about our careers, and why we choose to work in education. Eventually, we moved into reasons why people choose the work that they do in general.

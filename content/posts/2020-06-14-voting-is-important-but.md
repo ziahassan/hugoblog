@@ -1,13 +1,8 @@
----
-title: Voting Is Important, But…
-author: ziahassan
-type: post
-date: 2020-06-14T17:59:32+00:00
-url: /voting-is-important-but/
-categories:
-  - Uncategorized
++++
+title = "Voting Is Important But"
+date = 2020-06-14
++++
 
----
 I’ve spoken to a number of friends in the last few weeks, and I’ve asked all of them what they are doing to address racial injustice.
 
 Sometimes I just bring it up, other times it comes up naturally. I do not ask in an accusatory way. It’s good to know different ways people are coping with the ongoing tragedy of the unnecessary and unjustified loss of black lives. 

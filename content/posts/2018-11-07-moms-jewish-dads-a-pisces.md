@@ -1,13 +1,8 @@
----
-title: Mom’s Jewish; Dad’s a Pisces
-author: ziahassan
-type: post
-date: 2018-11-07T15:54:34+00:00
-url: /moms-jewish-dads-a-pisces/
-categories:
-  - Uncategorized
++++
+title = "Moms Jewish Dads A Pisces"
+date = 2018-11-07
++++
 
----
 I was invited to a dinner recently at a friend&#8217;s house and I didn&#8217;t really know anyone. I started talking about the child I was expecting at the time (who arrived in August) and the person I was talking to interrupted me and asked:
 
 &#8220;So, what religion will your child be if you and your wife aren&#8217;t from the same one?&#8221;

@@ -1,13 +1,13 @@
----
-title: My Favorite Scenes in Lost in Translation
-author: ziahassan
-type: post
-date: 2019-04-18T19:01:34+00:00
-url: /my-favorite-scenes-in-lost-in-translation/
-categories:
-  - Uncategorized
++++
+title = "My Favorite Scenes In Lost In Translation"
+date = 2019-04-18
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 I remember the first time I saw this stargazey film. I was really into ambient music at the time, and the philosophy of creators like Brian Eno, who believed that sometimes we create art that is meant to let our mind drift, the way he did with his famous album Music for Airports (and many others that followed). 
 
 It was the first time I had met up with my parents since I had gone to college. It was still relatively early in the year, October I think, so things were just cooling off but we were in that lovely in between period (at least in terms of the weather) between summer and fall. 

@@ -1,13 +1,13 @@
----
-title: Mental Fitness
-author: ziahassan
-type: post
-date: 2019-04-13T16:20:23+00:00
-url: /mental-fitness/
-categories:
-  - Uncategorized
++++
+title = "Mental Fitness"
+date = 2019-04-13
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 When I started working out years ago, I bought myself a set of rubber bands and a few dumbbells and got the latest fitness book from Barnes and Noble. I don’t think I actually made much progress, but there were still benefits, such as learning how to do certain exercises that I hadn’t learned from high school gym class.
 
 But when my wife convinced me that we should both go to a fitness trainer, and I agreed, I found out that there is a real benefit to having a coach vs. going it alone.

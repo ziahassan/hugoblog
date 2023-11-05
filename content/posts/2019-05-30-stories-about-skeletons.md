@@ -1,13 +1,8 @@
----
-title: Stories about Skeletons
-author: ziahassan
-type: post
-date: 2019-05-31T01:15:22+00:00
-url: /stories-about-skeletons/
-categories:
-  - Uncategorized
++++
+title = "Stories About Skeletons"
+date = 2019-05-30
++++
 
----
 <figure class="wp-block-image"><img decoding="async" src="https://i0.wp.com/theracecardproject.com/wp-content/uploads/2016/03/Skeleton-B05.jpg?ssl=1" alt="" data-recalc-dims="1" /></figure> 
 
  

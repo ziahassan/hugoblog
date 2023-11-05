@@ -1,13 +1,13 @@
----
-title: I Didn’t Tweet my Bento
-author: ziahassan
-type: post
-date: 2019-12-17T14:19:05+00:00
-url: /i-didnt-tweet-my-bento/
-categories:
-  - social media
++++
+title = "I Didnt Tweet My Bento"
+date = 2019-12-17
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 A few weeks ago, I got myself a cute bento box and started making cute lunches to put inside of it. The first time I made a salad in this thing with red cabbage, greens, and berries, I was stunned at how beautiful the whole thing looked. 
 
 “I hope you’re posting these,” my wife told me. 

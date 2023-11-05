@@ -1,13 +1,8 @@
----
-title: The Ephemeral Nature of Book Genres
-author: ziahassan
-type: post
-date: 2018-11-26T17:03:14+00:00
-url: /the-ephemeral-nature-of-book-genres/
-categories:
-  - Uncategorized
++++
+title = "The Ephemeral Nature Of Book Genres"
+date = 2018-11-26
++++
 
----
 When I was five, there were two genres of books: fiction and non-fiction.
 
 The distinction was easy enough for little kids to understand: fiction meant that the story was made up, and non-fiction meant that the story was not made up.

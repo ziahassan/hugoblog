@@ -1,11 +1,13 @@
----
-title: A Major Shift
-author: ziahassan
-type: post
-date: 2019-11-25T21:34:47+00:00
-url: /a-major-shift/
++++
+title = "A Major Shift"
+date = 2019-11-25
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 There’s a social media challenge where you post a picture of yourself from a decade ago, followed by one of you now. I think it’s mostly used as a vanity thing, so that people feel that they’re better off then they were. I haven’t posted one, but reflecting on on the me of a decade ago is a useful exercise.
 
 For one, you can immediately see what the big themes of my life have been when you look at the last 10 years: becoming a teacher, a father, getting married, taking more responsibility for health and wealth.

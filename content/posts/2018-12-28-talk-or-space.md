@@ -1,13 +1,8 @@
----
-title: Talk or Space?
-author: ziahassan
-type: post
-date: 2018-12-28T18:52:11+00:00
-url: /talk-or-space/
-categories:
-  - Uncategorized
++++
+title = "Talk Or Space"
+date = 2018-12-28
++++
 
----
 One of the most overlooked things that new teachers forget about when they start teaching is how often kids cry. The instinct that arises when a new teacher sees a kid cry is to immediately figure out the cause so that they can help. 
 
 But I was in a training once where this instinct was challenged. 

@@ -1,13 +1,8 @@
----
-title: Poems by Robots
-author: ziahassan
-type: post
-date: 2019-03-30T14:37:13+00:00
-url: /poems-by-robots/
-categories:
-  - Uncategorized
++++
+title = "Poems By Robots"
+date = 2019-03-30
++++
 
----
 There’s a site called BotPoet, which displays a poem that is either written by a human or a robot. You, as the spectator, get to vote on whether you think the poem is human-written or bot-written. After you vote, you get the true answer, along with a breakdown of what others on the site thought. 
 
 I tried this out myself. Turns out I can’t tell the difference very easily between bot-written poems and human-written poems. It’s almost like a Turing test. What does it mean that I, a lover of poetry, can’t tell the difference between an algorithm writing and a human mind?

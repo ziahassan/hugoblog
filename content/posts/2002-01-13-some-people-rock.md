@@ -1,17 +1,13 @@
----
-title: some people rock.
-author: ziahassan
-type: post
-date: 2002-01-13T19:09:22+00:00
-excerpt: |
-  "'m gettin back into the love thing. I stopped for a while, and now i'm falling in love with everyone and everything. It's a really weird feeling, loving but getting no love back. It's like when you get those muscular pains and you hit yourself. And like, your hitting yourself but it feels good."
-draft: true
-private: true
-url: /some-people-rock/
-categories:
-  - Uncategorized
++++
+title = "Some People Rock"
+date = 2002-01-13
++++
 
----
++++
+title = "01"
+date = 2002
++++
+
 My friend and I both started our journals at the same time, and she wrote this really nice entry about me. I'm not sure exactly why, but it sure was cool. it takes mariam to do something like that 🙂
 
 see i always have the ambition to do something nice like that for someone. but i'd be afraid of not knowing what to say. like, I could say&#8230; this person is nice, cool, the best ever&#8230; etc. But if I were the person being talked about, I'd never believe myself.

@@ -1,15 +1,8 @@
----
-title: what’s been up.
-author: ziahassan
-type: post
-date: 2002-02-05T16:36:54+00:00
-draft: true
-private: true
-url: /whats-been-up/
-categories:
-  - Uncategorized
++++
+title = "Whats Been Up"
+date = 2002-02-05
++++
 
----
 The new semester is bittersweet. I have some fuckin' easy classes, and some fuckin' hard ones as well. My caclulus teacher stayed the same, just my luck, and she's a nice woman, and a good teacher&#8230; but I just, don't like calculus. Why can't anyone understand that I'll never need it? When I try to tell anyone that they give me this look like "calculus! of course you'll need it! you can't fly a kite without knowing pythagorean's theorem!"
 
 And of course me missing the class recently has been very not beneficial. Not like I've been skipping &#8212; you can't do anymore anyway, they've come up with an ingenius system that keeps track of what classes you are in. damn bastards and their technological advancements &#8212; I've just been in assemblies. Well I'm makin it sound like I missed more than one day. I only missed today, but I know she taught something crucial, or announced a quiz on Friday or something. Which reminds me, I have a chem test on friday. How fuckin' insane is that eh? It's like the 5th day of the semester and we already have a chem test on Friday.

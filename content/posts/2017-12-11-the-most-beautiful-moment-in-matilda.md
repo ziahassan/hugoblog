@@ -1,13 +1,8 @@
----
-title: The Most Beautiful Moment in Matilda
-author: ziahassan
-type: post
-date: 2017-12-11T23:44:17+00:00
-url: /the-most-beautiful-moment-in-matilda/
-categories:
-  - Uncategorized
++++
+title = "The Most Beautiful Moment In Matilda"
+date = 2017-12-11
++++
 
----
 It’s at the very start of the book. Matilda discovers her local library, and starts to read everything on the shelves. She finishes all the kids books, and then moves on to the adult books.
 
 At some point, the librarian informs her that public libraries allow one to take books home.

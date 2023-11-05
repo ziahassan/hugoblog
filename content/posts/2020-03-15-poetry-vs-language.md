@@ -1,14 +1,8 @@
----
-title: Poetry vs. Language
-author: ziahassan
-type: post
-date: 2020-03-15T17:11:41+00:00
-url: /poetry-vs-language/
-categories:
-  - language
-  - poetry
++++
+title = "Poetry Vs Language"
+date = 2020-03-15
++++
 
----
 You can’t really separate the two because all language _is_ poetry.
 
 Consider that in Spanish, “I missed the bus” becomes “the bus missed me.&#8221;

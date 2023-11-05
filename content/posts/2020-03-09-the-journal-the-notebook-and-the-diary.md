@@ -1,13 +1,13 @@
----
-title: The Journal, the Notebook, and the Diary
-author: ziahassan
-type: post
-date: 2020-03-09T14:38:02+00:00
-url: /the-journal-the-notebook-and-the-diary/
-categories:
-  - Process
++++
+title = "The Journal The Notebook And The Diary"
+date = 2020-03-09
++++
 
----
++++
+title = "03"
+date = 2020
++++
+
 For most of my life, these three terms seemed to blur together. But I was asked recently about the difference, and it made me think. And whenever I think, I write. The following is my opinion on semantics.
 
 A diary is a place to log your life events. My British cousins often refer to their calendars as diaries for instance. It’s a place that is separated by dates, where each date is a unique record of information. For me, this means that I write in a diary every day to log my activities. I can refer back whenever I need to. I have hashtags in my DayOne app for when I’m sick, what my symptoms are, what trips I’ve been on, what books I’ve read, etc.

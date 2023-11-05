@@ -1,14 +1,8 @@
----
-title: The Fallacy of “Should”
-author: ziahassan
-type: post
-date: 2020-12-04T03:53:15+00:00
-url: /the-fallacy-of-should/
-categories:
-  - language
-  - spirituality
++++
+title = "The Fallacy Of Should"
+date = 2020-12-03
++++
 
----
 The first time I had a therapy session, my therapist asked me how much sleep I get.
 
 “Less than I should,” I replied.

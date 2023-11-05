@@ -1,13 +1,8 @@
----
-title: On Microdosing
-author: ziahassan
-type: post
-date: 2019-10-26T17:27:58+00:00
-url: /on-microdosing/
-categories:
-  - Uncategorized
++++
+title = "On Microdosing"
+date = 2019-10-26
++++
 
----
 You can overdose on almost anything: drugs, alcohol, talk radio, politics, religion. But there are fewer drugs that you can microdose on. 
 
 Like the dolphin swimming 100 feet below you, you kind of have to sense the drug in your system, and how it’s making you feel. In other words, you have to connect your body with your mind, which is so simple in concept and hard to do in practice.

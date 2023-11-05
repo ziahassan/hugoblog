@@ -1,13 +1,13 @@
----
-title: '2017: A Best Of List in Perspective'
-author: ziahassan
-type: post
-date: 2017-12-25T17:00:00+00:00
-url: /2017-a-best-of-list-in-perspective/
-categories:
-  - Uncategorized
++++
+title = "2017 A Best Of List In Perspective"
+date = 2017-12-25
++++
 
----
++++
+title = "12"
+date = 2017
++++
+
 Every year since I was in high school, I’ve published some kind of list of my favorite discoveries throughout the year. This year, I’ll talk about my favorites but also how my consumption habits have changed. It’s important, and when my great-great-great grandchildren read this years from now, I want them to understand what was happening in 2017.
 
 The way that we find art has changed every single year. At one point, most people relied on word of mouth to hear about the art that would suit them best. Then, they looked to magazines and newspapers. Then it was blogs. Then, the social media universe with all of its videos, tweets, and Instagram stories.

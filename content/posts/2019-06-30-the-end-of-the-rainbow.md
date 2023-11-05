@@ -1,13 +1,13 @@
----
-title: The End of the Rainbow
-author: ziahassan
-type: post
-date: 2019-07-01T02:51:06+00:00
-url: /the-end-of-the-rainbow/
-categories:
-  - Uncategorized
++++
+title = "The End Of The Rainbow"
+date = 2019-06-30
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 The first time I stayed up all night it was New Years Eve, and I was eleven. I just wanted to see what would happen. It was the end of the rainbow. I was curious what would happen I stayed up all night. So hour by hour, I eventually got to the end. The sun rose and I hadn’t missed anything.
 
 The end of the rainbow is also useful when trying to lose weight. You eat a salad for lunch one day and think to yourself, _ah, that wasn’t so hard. What if I do that every day?_ So you eat it the next day and the day after that. And then one day your pants are three sizes smaller and everyone in the office is giving you compliments. End of the rainbow.

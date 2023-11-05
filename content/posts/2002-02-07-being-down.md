@@ -1,15 +1,8 @@
----
-title: being down.
-author: ziahassan
-type: post
-date: 2002-02-07T16:40:31+00:00
-draft: true
-private: true
-url: /being-down/
-categories:
-  - Uncategorized
++++
+title = "Being Down"
+date = 2002-02-07
++++
 
----
 Being down sucks dick. I heard myself in the recordings of the winter concert as well as hit parade. I wanted to throw up. At the time of both of those shows, I thought I did an ok job. Especially with the winter concert, I thought I performed really well. And I'm listenin to this recording wanting to vomit. I hate it, I can't stand it. Nothing is going right for me. Now whenever I recieve a compliment I'm gonna think it's a flat out lie. No matter what. People will say things all the time, it's never fucking true. But if they said what they really thought they woudln't be being polite. And fuck! I don't blame them. Who the fuck wants to be blunt about things, and tell you that you suck? No one wants that, no wants to be told that or tell that. So your only left with one option &#8211; LIE. and LIE WELL.
 
 My head goes back and forth between wanting to give up creating music and then keeping at it. My songs, quite frankly, are disgusting and my voice is even worse. If you think I'm fishing for compliments here, close your fucking browser and shove your head back up your ass. In fact, if you dont' like the fact that I'm freaking out in my journal here, close your fucking browser. You don't have to read this.

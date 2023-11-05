@@ -1,13 +1,13 @@
----
-title: Music While I Work
-author: ziahassan
-type: post
-date: 2019-09-05T14:40:03+00:00
-url: /music-while-i-work/
-categories:
-  - Uncategorized
++++
+title = "Music While I Work"
+date = 2019-09-05
++++
 
----
++++
+title = "09"
+date = 2019
++++
+
 When I worked at a desk and did tasks that didn’t require much cognitive effort, I used to listen to the latest tunes on KCRW.
 
 But when I became a teacher, and the types of things I’d have to write were more cognitively demanding, I moved to instrumental music. Something about lyrics seems to draw me in, and even in a subconscious way distracts me from the work I’m supposed to be doing.

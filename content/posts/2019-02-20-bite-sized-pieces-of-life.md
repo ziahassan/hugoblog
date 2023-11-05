@@ -1,13 +1,13 @@
----
-title: Bite Sized Pieces of Life
-author: ziahassan
-type: post
-date: 2019-02-21T04:44:00+00:00
-url: /bite-sized-pieces-of-life/
-categories:
-  - Uncategorized
++++
+title = "Bite Sized Pieces Of Life"
+date = 2019-02-20
++++
 
----
++++
+title = "02"
+date = 2019
++++
+
 How do you eat an elephant? One bite at a time.
 
 How do you turn an elephant into bite sized pieces? Cut it up.

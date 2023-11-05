@@ -1,13 +1,13 @@
----
-title: Parents are Mirrors
-author: ziahassan
-type: post
-date: 2019-09-26T12:52:13+00:00
-url: /parents-are-mirrors/
-categories:
-  - Uncategorized
++++
+title = "Parents Are Mirrors"
+date = 2019-09-26
++++
 
----
++++
+title = "09"
+date = 2019
++++
+
 It’s not just a pride thing, though pride has a lot to do with it.
 
 No, it’s more primal than that. A few months after my son was born, I was talking to another parent with a 20 year old daughter. The way that she was expressing her affection and admiration of her daughter sounded exactly like the way I expressed affection and admiration of my own child. 20 years later, she was still just as in love.

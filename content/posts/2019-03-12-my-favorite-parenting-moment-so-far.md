@@ -1,13 +1,8 @@
----
-title: My Favorite Parenting Moment So Far
-author: ziahassan
-type: post
-date: 2019-03-13T02:33:44+00:00
-url: /my-favorite-parenting-moment-so-far/
-categories:
-  - Uncategorized
++++
+title = "My Favorite Parenting Moment So Far"
+date = 2019-03-12
++++
 
----
 I’m not sure I can really call what I do parenting. It’s more like infant servitude mixed with improvisational theater mixed with Pavlovian conditioning (for all of us). 
 
 My experiences with Dezi exist in my mind like those string lights people put up at parties and holidays: each little multi-colored LED is a moment, and our time together is the wire in between. 

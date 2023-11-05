@@ -1,13 +1,8 @@
----
-title: It’s Not Technology’s Fault
-author: ziahassan
-type: post
-date: 2018-10-18T10:00:00+00:00
-url: /its-not-technologys-fault/
-categories:
-  - Uncategorized
++++
+title = "Its Not Technologys Fault"
+date = 2018-10-18
++++
 
----
 I was with a person a few decades older than me recently and we were talking about technology.
 
 “Don’t you think,” she asked me, “that technology is making us more isolated? We have all these friends who aren’t really our friends.”

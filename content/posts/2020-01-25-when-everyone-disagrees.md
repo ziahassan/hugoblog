@@ -1,11 +1,8 @@
----
-title: When Everyone Disagrees
-author: ziahassan
-type: post
-date: 2020-01-25T18:28:36+00:00
-url: /when-everyone-disagrees/
++++
+title = "When Everyone Disagrees"
+date = 2020-01-25
++++
 
----
 What are you to do when everyone disagrees? With your choices, with your art, with your life?
 
 For years, I thought this kind of peer feedback was a built-in safety mechanism. My friends would _never _let me do something so stupid as to release a book, or record an album, and embarrass myself. Or wear a yellow wristband with a pink Z, or drink pink cocktails as man, or&#8230;

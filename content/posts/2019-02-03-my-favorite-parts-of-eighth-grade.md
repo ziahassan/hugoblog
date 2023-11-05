@@ -1,13 +1,8 @@
----
-title: My Favorite Parts of “Eighth Grade”
-author: ziahassan
-type: post
-date: 2019-02-03T13:46:15+00:00
-url: /my-favorite-parts-of-eighth-grade/
-categories:
-  - Uncategorized
++++
+title = "My Favorite Parts Of Eighth Grade"
+date = 2019-02-03
++++
 
----
 Spoilers below. 
 
   1. There&#8217;s a moment where Kayla is about to walk out into a pool party in her bright green swimsuit. Right as she works up enough courage, she pulls the screen door to the side and it gets stuck, causing her to walk out sideways. Such a real moment. That element of surprise in an already intense moment is something Bo Burnham does exceedingly well. 

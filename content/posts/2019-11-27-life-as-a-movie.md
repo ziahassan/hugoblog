@@ -1,13 +1,13 @@
----
-title: Life as a Movie
-author: ziahassan
-type: post
-date: 2019-11-27T12:53:23+00:00
-url: /life-as-a-movie/
-categories:
-  - Uncategorized
++++
+title = "Life As A Movie"
+date = 2019-11-27
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 I was obsessed with movies as a kid, but not really with the cinematics. I was obsessed with the editing. The cuts, the fades, the title credits.
 
 So much so that I would sometimes escape by imagining my life as a movie that I was directing. Real life scenarios became scenes and I imagined how the cuts would look, and what music I would select to accompany these scenes.

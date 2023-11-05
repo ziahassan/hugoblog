@@ -1,13 +1,8 @@
----
-title: I Miss MP3.com
-author: ziahassan
-type: post
-date: 2018-10-30T21:00:00+00:00
-url: /?p=346
-categories:
-  - Uncategorized
++++
+title = "I Miss Mp3Com"
+date = 2018-10-30
++++
 
----
 Sometimes, I miss MP3.com. It was one of the first services ever that allowed amateur musicians to just upload Mp3s of their homemade recordings and even order custom CDs with artwork and everything. It wasn’t super fancy, but man, it was cool back in 1999.
 
 There was this quick-release attitude with musicians on the site. You’d have to check back every now and then with your favorite bands to see if there was new music. You could stream the music in lo or hi fi or even pay for a download (and free downloads were like a gift).

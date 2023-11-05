@@ -1,13 +1,13 @@
----
-title: I Get a Tarot Reading Every Month (Seriously)
-author: ziahassan
-type: post
-date: 2018-02-02T04:46:35+00:00
-url: /i-get-a-tarot-reading-every-month-seriously/
-categories:
-  - Uncategorized
++++
+title = "I Get A Tarot Reading Every Month Seriously"
+date = 2018-02-02
++++
 
----
++++
+title = "02"
+date = 2018
++++
+
 Every month, I watch a [YouTube channel][1] where a guy named Nick in an unidentified part of the world reads my tarot. And every month, I learn about what to expect in regard to my health, wealth, and happiness.
 
 He does this by pulling random cards out of a shuffled tarot deck and interpreting what they might mean. And actually, sometimes he doesn’t even pull the cards; instead, he’ll occasionally be clumsy while shuffling and a card will fall out and he’ll use that.

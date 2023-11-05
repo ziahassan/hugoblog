@@ -1,13 +1,8 @@
----
-title: Dive or Pause?
-author: ziahassan
-type: post
-date: 2018-12-08T15:48:03+00:00
-url: /dive-or-pause/
-categories:
-  - Uncategorized
++++
+title = "Dive Or Pause"
+date = 2018-12-08
++++
 
----
 There’s an old trope that when a man buys a new product, they completely ignore the manual and try to assemble or use the product just by intuition.
 
 I recently saw someone on Facebook post about the 25 page manual for their toothbrush. 

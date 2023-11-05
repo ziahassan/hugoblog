@@ -1,13 +1,13 @@
----
-title: I Wish My Son Came with an Instruction Manual
-author: ziahassan
-type: post
-date: 2018-09-10T03:03:54+00:00
-url: /i-wish-my-son-came-with-an-instruction-manual/
-categories:
-  - Uncategorized
++++
+title = "I Wish My Son Came With An Instruction Manual"
+date = 2018-09-10
++++
 
----
++++
+title = "09"
+date = 2018
++++
+
 It occurrs to me, after the birth of my son two weeks ago, that he did not come with an instruction manual.
 
 An instruction manual has always been an integral part in the learning process for anything I interact with. Written instructions on the set up, the maintenance, the care, the features… are usually covered in some kind of booklet. My son came with no such booklet. Therefore, I struggle to understand his operation. It can be frustrating at times, but occasionally when I know how to get the parameters just right, it can also be incredibly joyful.

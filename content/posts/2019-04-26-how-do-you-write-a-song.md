@@ -1,13 +1,8 @@
----
-title: How Do You Write a Song?
-author: ziahassan
-type: post
-date: 2019-04-27T00:40:06+00:00
-url: /how-do-you-write-a-song/
-categories:
-  - Uncategorized
++++
+title = "How Do You Write A Song"
+date = 2019-04-26
++++
 
----
 The first time I wrote a song I was seven years old. My parents had recently gotten a piano in our basement and I made up some simple melody on thee piano that ended up being performed at my piano recital. 
 
 My teacher had told me a secret: you can play any song you want, as long as you know the notes. I figured the same must be true for songwriting, except… how do you know the notes to a song you’ve never heard?

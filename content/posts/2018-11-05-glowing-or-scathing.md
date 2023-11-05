@@ -1,13 +1,13 @@
----
-title: Glowing or Scathing
-author: ziahassan
-type: post
-date: 2018-11-05T14:40:30+00:00
-url: /glowing-or-scathing/
-categories:
-  - Uncategorized
++++
+title = "Glowing Or Scathing"
+date = 2018-11-05
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 Is there anything more sad than reading a scathing review? To scathe, according to the dictionary, means to harm. So a scathing review is, in its essence, seeking to harm the piece of art it&#8217;s criticizing. 
 
 It&#8217;s a misnomer anyway. Ideas can be harmed about as much a square peg can harm a round hole. So the scathing review reads more like the anger one feels over the fact that they can&#8217;t connect. 

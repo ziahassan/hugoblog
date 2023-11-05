@@ -1,15 +1,8 @@
----
-title: A Recording of a Lawnmower
-author: ziahassan
-type: post
-date: 2017-12-01T04:24:49+00:00
-url: /a-recording-of-a-lawnmower/
-categories:
-  - Uncategorized
-tags:
-  - music
++++
+title = "A Recording Of A Lawnmower"
+date = 2017-12-01
++++
 
----
 I have this recurring conversation with a friend of mine.
 
 We argue about whether or not a particular musician is “good.” And often it becomes a battle of who has the strongest opinion, or the most confident tone, or the highest credentials.

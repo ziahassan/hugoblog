@@ -1,13 +1,8 @@
----
-title: Scribbling It Out
-author: ziahassan
-type: post
-date: 2019-08-06T11:35:55+00:00
-url: /scribbling-it-out/
-categories:
-  - Uncategorized
++++
+title = "Scribbling It Out"
+date = 2019-08-06
++++
 
----
 I write a lot, and I always have. I prefer word processing to handwriting usually, because I get annoyed at how much I scribble over things when I write. 
 
 I don&#8217;t use an eraser, even if I&#8217;m using a pencil. What&#8217;s the point? An eraser is for school children turning their work in to a teacher. It makes the page cleaner but it gives the illusion of perfection. 

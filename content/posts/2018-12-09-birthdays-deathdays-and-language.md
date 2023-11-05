@@ -1,13 +1,13 @@
----
-title: Birthdays, Deathdays, and Language
-author: ziahassan
-type: post
-date: 2018-12-09T14:37:13+00:00
-url: /birthdays-deathdays-and-language/
-categories:
-  - Uncategorized
++++
+title = "Birthdays Deathdays And Language"
+date = 2018-12-09
++++
 
----
++++
+title = "12"
+date = 2018
++++
+
 There&#8217;s a common procedure at funerals to talk about the deceased&#8217;s life, and the ways in which the deceased changed the lives of others. People will give these kind of speeches, or write these kind of social media posts.
 
 Sometimes I hear these speeches and I think, these are some of the kindest words I&#8217;ve ever heard about a person. If they were alive, they would feel pretty damn special and loved.

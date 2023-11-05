@@ -1,13 +1,8 @@
----
-title: The Violinist, not the Violin
-author: ziahassan
-type: post
-date: 2019-03-24T16:04:08+00:00
-url: /the-violinist-not-the-violin/
-categories:
-  - Uncategorized
++++
+title = "The Violinist Not The Violin"
+date = 2019-03-24
++++
 
----
 In my early 20’s, after I started a high paying (for a college student anyway) job as a consultant, my inclination was to finally buy all the gear that I had been salivating over for the past 4 years. Things like microphones, guitars (a large number of guitars) and cameras were purchased, and since I was living at home, there was no immediate financial consequence. I could continue living just fine with the rate that I was buying preamps, keyboards, and headphones.
 
 I don’t regret buying these items. Many of the things I bought have been sold over the years, on eBay or through services. My current studio and instrument setup has remained the same since 2012, and I use the tools regularly to create and share my art.

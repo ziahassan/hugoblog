@@ -1,15 +1,13 @@
----
-title: A Problem, A Solution
-author: ziahassan
-type: post
-date: 2019-10-28T15:57:16+00:00
-url: /a-problem-a-solution/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "A Problem A Solution"
+date = 2019-10-28
++++
 
----
++++
+title = "10"
+date = 2019
++++
+
 I studied marketing in college, and we studied it the right way. We were taught how to adjust product, price, and brand to meet the demands of a segment of the market.
 
 But then I started reading about marketing online and most of the content was about how to get a higher search result on Google, how to increase follower count, how to &#8220;hustle&#8221; and make money, and a bunch of other to-dos that are more about having bragging rights than they are about marketing. 

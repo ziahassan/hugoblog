@@ -1,15 +1,8 @@
----
-title: segmented vacation.
-author: ziahassan
-type: post
-date: 2006-06-15T17:53:26+00:00
-draft: true
-private: true
-url: /segmented-vacation/
-categories:
-  - Uncategorized
++++
+title = "Segmented Vacation"
+date = 2006-06-15
++++
 
----
 It's been a little over a week since I arrived in the UK, but it feels much longer due to the way I've worked out our living schedule. This entry could be quite long, so I've marked it with subheadings. Feel free to pick and choose, or to carry on with your day at work or wherever you may be.
 
 Arrival at Heathrow's and Riz Mamoo's

@@ -1,13 +1,13 @@
----
-title: Continents and Disorientation
-author: ziahassan
-type: post
-date: 2018-11-02T17:59:48+00:00
-url: /continents-and-disorientation/
-categories:
-  - Uncategorized
++++
+title = "Continents And Disorientation"
+date = 2018-11-02
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 In 7th grade, the very first geography test of the year was a test to label all 7 continents.
 
 Sounds easy, but there was a caveat: the continents were drawn on the paper out of context. As if the teacher took cut-outs of each continent and just spilled them onto a blank page in any order and photocopied it. Some were oriented differently, flipped around, etc.

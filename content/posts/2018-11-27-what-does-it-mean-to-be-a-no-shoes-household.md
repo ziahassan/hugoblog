@@ -1,13 +1,8 @@
----
-title: What Does It Mean to be a ‘No Shoes’ Household?
-author: ziahassan
-type: post
-date: 2018-11-27T23:32:05+00:00
-url: /what-does-it-mean-to-be-a-no-shoes-household/
-categories:
-  - Uncategorized
++++
+title = "What Does It Mean To Be A No Shoes Household"
+date = 2018-11-27
++++
 
----
 When I was a kid, I was always caught off guard when a friend’s parent required all of us to take our shoes off when we came inside.
 
 “It’s to keep the carpet clean,” my mom explained to a perplexed 5 year old me, in the car on the short ride home.

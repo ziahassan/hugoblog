@@ -1,15 +1,13 @@
----
-title: it’s too late
-author: ziahassan
-type: post
-date: 2003-01-06T19:37:08+00:00
-draft: true
-private: true
-url: /its-too-late/
-categories:
-  - Uncategorized
++++
+title = "Its Too Late"
+date = 2003-01-06
++++
 
----
++++
+title = "01"
+date = 2003
++++
+
 God it's way too late to be up, yet I am.
 
 Today was Monday, a snowday, and it was a pretty good day all in all. I woke up around 11 or so and had a bagel for breakfast. And jesus, I just realized I haven't gotten out of the house at all.

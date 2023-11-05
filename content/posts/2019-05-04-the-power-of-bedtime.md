@@ -1,13 +1,8 @@
----
-title: The Power of Bedtime
-author: ziahassan
-type: post
-date: 2019-05-05T01:53:12+00:00
-url: /the-power-of-bedtime/
-categories:
-  - Uncategorized
++++
+title = "The Power Of Bedtime"
+date = 2019-05-04
++++
 
----
 For the first four months of my son’s life, we let him sleep whenever he felt like it. It didn’t matter whether it was noon after lunch or 3am, if he was up, he was up, and if he was going to sleep, then there was absolutely nothing we could do stop him. This was developmentally appropriate for a newborn.
 
 After four months, we’ve become much more cognizant of his naps. We don’t want him to get too much but we also don’t want him to get too little. But the biggest reason is that he now has a _bedtime_. 

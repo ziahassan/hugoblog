@@ -1,13 +1,13 @@
----
-title: The Meaning of Innovation
-author: ziahassan
-type: post
-date: 2019-01-20T02:17:05+00:00
-url: /whats-innovative/
-categories:
-  - Uncategorized
++++
+title = "Whats Innovative"
+date = 2019-01-19
++++
 
----
++++
+title = "01"
+date = 2019
++++
+
 I was working on a consulting project last year in which one of the words used to describe our eventual work was “innovative”. 
 
 I’ve always liked how that word sounds, but haven’t been able to always fully define it. Society likes it too, because it’s written everywhere in an attempt to make jobs sound more modern, or something. 

@@ -1,16 +1,8 @@
----
-title: always changing probably.
-author: ziahassan
-type: post
-date: 2006-08-02T16:37:48+00:00
-excerpt: "Billy and Andy understand music theory well enough to discuss it and emote over the same complexities, and while I know some basics, I'm much more into sound rather than notes. Admittedely, as Billy pointed out, my brain works with music differently than Andy and different than himself. It's possible that we, as a planet, work differently with music, but surprisingly, we have similar emotions over some stuff."
-draft: true
-private: true
-url: /always-changing-probably/
-categories:
-  - Uncategorized
++++
+title = "Always Changing Probably"
+date = 2006-08-02
++++
 
----
 I develop a similar habit wherever I work: get to work, do a few tasks, go get a mid-morning snack, do more work, late lunch, relax, and go home. Billy and Andy came over the other night to work on some songs. We molded a song that Andy had written a year ago &#8211; Time Has Passed, or something like that. Changed the chord structure a little bit (it&#8217;s always easier playing a guitar rather than a piano) and worked the melody so that Billy could add in some harmonies. One of the previous nights, we had a long discussion about music over a few whisky sours. Billy and Andy understand music theory well enough to discuss it and emote over the same complexities, and while I know some basics, I&#8217;m much more into sound rather than notes. Admittedely, as Billy pointed out, my brain works with music differently than Andy and different than himself. It&#8217;s possible that we, as a planet, work differently with music, but surprisingly, we have similar emotions over some music. At the same time, we have very polar emotions over some other types of songs.
 
 You can&#8217;t really point it out. Is it the tone of the voice, the chord progression, the melody of an instrument layered over the progression, the acoustics in the room of the recording, the processing? Which is the thing that pushes the music over the edge of emotion, and why does that edge exist in different places for different people? And is that thing different for same music and different people?

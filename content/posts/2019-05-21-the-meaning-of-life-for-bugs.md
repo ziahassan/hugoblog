@@ -1,13 +1,8 @@
----
-title: The Meaning of Life for Bugs
-author: ziahassan
-type: post
-date: 2019-05-21T19:36:51+00:00
-url: /the-meaning-of-life-for-bugs/
-categories:
-  - Uncategorized
++++
+title = "The Meaning Of Life For Bugs"
+date = 2019-05-21
++++
 
----
 One of the questions I used to ask anyone whom I respected was: what is the meaning of life?
 
 I got some interesting and memorable responses from this activity. John Mayer said comfort (which I suppose is arguable). Matt Nathanson said travel (he even wrote it on the dead guitar tuner he gave to me at that show).

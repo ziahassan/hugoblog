@@ -1,13 +1,8 @@
----
-title: Certainty to a Beat
-author: ziahassan
-type: post
-date: 2018-12-04T13:54:36+00:00
-url: /certainty-to-a-beat/
-categories:
-  - Uncategorized
++++
+title = "Certainty To A Beat"
+date = 2018-12-04
++++
 
----
 I’m certain that I’ll see sunlight when daybreak hits, even if it’s filtered through clouds. This makes me feel safe.
 
 I’m uncertain whether or not my presentation will go well. This makes me feel tense.

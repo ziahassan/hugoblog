@@ -1,13 +1,8 @@
----
-title: Responsibilities as Creators and Consumers
-author: ziahassan
-type: post
-date: 2019-10-08T15:20:14+00:00
-url: /responsibilities-as-creators-and-consumers/
-categories:
-  - Uncategorized
++++
+title = "Responsibilities As Creators And Consumers"
+date = 2019-10-08
++++
 
----
 When we engage on the web, we’re either taking the role of the creator or the consumer.
 
 We’re either the ones writing the blog posts and directing the videos, or we’re the ones reading and watching them. This role changes often throughout the day.

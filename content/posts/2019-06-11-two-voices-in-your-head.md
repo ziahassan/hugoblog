@@ -1,13 +1,13 @@
----
-title: Two Voices in Your Head
-author: ziahassan
-type: post
-date: 2019-06-11T21:16:05+00:00
-url: /two-voices-in-your-head/
-categories:
-  - Uncategorized
++++
+title = "Two Voices In Your Head"
+date = 2019-06-11
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 You can try this experiment at home.
 
 Find a nice place to sit, and breathe in and out deeply for a minute. I’ll wait.

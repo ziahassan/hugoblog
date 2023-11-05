@@ -1,13 +1,8 @@
----
-title: On Grocery Stores
-author: ziahassan
-type: post
-date: 2018-12-27T16:24:56+00:00
-url: /on-grocery-stores/
-categories:
-  - Uncategorized
++++
+title = "On Grocery Stores"
+date = 2018-12-27
++++
 
----
 In the summers of my youth, when my sister and I were off from school, with no summer camps going on or any activities really, we used to accompany my mom to the grocery store. 
 
 I remember quite vividly how _frigid_ it was. How I wanted to leave the moment I got there. It was a unique feeling because while I generally disliked doing errands with my mom, the grocery store was a particular kind of hell for me. 

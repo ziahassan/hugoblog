@@ -1,13 +1,8 @@
----
-title: The Size of Everything
-author: ziahassan
-type: post
-date: 2018-10-28T21:40:08+00:00
-url: /the-size-of-everything/
-categories:
-  - Uncategorized
++++
+title = "The Size Of Everything"
+date = 2018-10-28
++++
 
----
 Traffic lights are big. Bigger than you [think][1].
 
 If you’re driving on the road, the traffic lights and street signs look like they might fit in the palm of your hand. When one comes down, or you get to see it close up, you realize that they’re much bigger than you think.

@@ -1,13 +1,8 @@
----
-title: Long Term Exposure To Music
-author: ziahassan
-type: post
-date: 2019-01-24T20:28:15+00:00
-url: /long-term-exposure-to-music/
-categories:
-  - Uncategorized
++++
+title = "Long Term Exposure To Music"
+date = 2019-01-24
++++
 
----
 I’ve long felt that music has had a profound effect on who I am. It’s not so much the type of music I listen to, but that I listen to it so intently. 
 
 I’ve learned to love so many different kinds of music. In my 20’s, they were almost like phases. I went through an ambient music phase, an opera phase, a classical phase, an experimental phase…

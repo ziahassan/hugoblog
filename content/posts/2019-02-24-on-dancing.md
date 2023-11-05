@@ -1,13 +1,8 @@
----
-title: On Dancing (and Joy)
-author: ziahassan
-type: post
-date: 2019-02-24T20:05:00+00:00
-url: /on-dancing/
-categories:
-  - Uncategorized
++++
+title = "On Dancing"
+date = 2019-02-24
++++
 
----
 When I was a kid, I was a great dancer. 
 
 I learned moves from watching Michael Jackson and Madonna videos. I just loved the free feeling I felt while I was dancing. In fact, I was _so_ spirited with my dance moves that family members would often ask me to dance to music at parties when I was a kid, just so they could watch me fling my body around with glee and attempt to moonwalk. I was a good dancer.

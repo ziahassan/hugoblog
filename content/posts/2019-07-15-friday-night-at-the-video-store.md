@@ -1,13 +1,13 @@
----
-title: Friday Night at the Video Store
-author: ziahassan
-type: post
-date: 2019-07-15T15:32:34+00:00
-url: /friday-night-at-the-video-store/
-categories:
-  - Uncategorized
++++
+title = "Friday Night At The Video Store"
+date = 2019-07-15
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 Rituals are so important. For some, Friday nights are reserved for pizza night with their family. For me, it was Blockbuster video.
 
 Blockbuster video represented a particular sensory experience &#8211; the feet walking around on the carpet, dampening the sound of the footsteps. The smell of the plastic video cases. The walls full of the latest releases. The cardboard posters.

@@ -1,13 +1,8 @@
----
-title: Thinking about Thoughts
-author: ziahassan
-type: post
-date: 2019-07-13T11:27:55+00:00
-url: /thinking-about-thoughts/
-categories:
-  - Uncategorized
++++
+title = "Thinking About Thoughts"
+date = 2019-07-13
++++
 
----
 What came first? The thinking or the thoughts?
 
 Do we have thoughts? Or do thoughts have us?

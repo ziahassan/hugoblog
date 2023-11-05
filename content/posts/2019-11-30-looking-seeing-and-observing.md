@@ -1,11 +1,13 @@
----
-title: Looking, Seeing, and Observing
-author: ziahassan
-type: post
-date: 2019-11-30T15:44:01+00:00
-url: /looking-seeing-and-observing/
++++
+title = "Looking Seeing And Observing"
+date = 2019-11-30
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 Seeing is the act of processing visual information. Seeing isn’t judging. It’s natural for most people.
 
 Looking is a type of seeking. When we look for things, we’re filtering out information to find exactly what we need.

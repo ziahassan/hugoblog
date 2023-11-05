@@ -1,13 +1,8 @@
----
-title: Best Piece of Advice for Expecting Parents
-author: ziahassan
-type: post
-date: 2019-01-08T16:26:48+00:00
-url: /best-piece-of-advice-for-expecting-parents/
-categories:
-  - Uncategorized
++++
+title = "Best Piece Of Advice For Expecting Parents"
+date = 2019-01-08
++++
 
----
 While my wife and I were expecting our first child, I often asked a question to parents that I would meet: _what is one thing you wish had been told before the birth of your child, and one thing that you were told very often that didn’t end up true for you?_
 
 The answers were interesting and definitely will be the subject of an upcoming video or post, but I’m now being asked by the same people what I would say if I was giving advice to expecting parents.

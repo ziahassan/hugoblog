@@ -1,13 +1,8 @@
----
-title: What People Leave Behind
-author: ziahassan
-type: post
-date: 2020-03-22T14:14:57+00:00
-url: /what-people-leave-behind/
-categories:
-  - wonder
++++
+title = "What People Leave Behind"
+date = 2020-03-22
++++
 
----
 Most of the stuff that the previous owners of our house kept here has been moved out, with some tiny exceptions. You can see in some rooms the little bumps that the spackle left behind. 
 
 There are also stickers that presumably never came off. There are a couple of kid-looking stickers still on the window and one on the stove. I’m guessing they were difficult to remove. 

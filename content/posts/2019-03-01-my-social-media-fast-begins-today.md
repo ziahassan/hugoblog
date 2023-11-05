@@ -1,13 +1,13 @@
----
-title: My Social Media Fast Begins Today
-author: ziahassan
-type: post
-date: 2019-03-01T13:57:17+00:00
-url: /my-social-media-fast-begins-today/
-categories:
-  - Uncategorized
++++
+title = "My Social Media Fast Begins Today"
+date = 2019-03-01
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 After reading Cal Newport’s Digital Minimalism, I&#8217;ve decided to give a social media detox a try. So as of today for the rest of March, I&#8217;ll be off Facebook, Twitter, and Instagram (other than my work accounts). 
 
 I&#8217;m keeping Reddit, RSS, and YouTube because they don&#8217;t have that addictive quality for me. At least for now. YouTube is a major timesuck but I basically use it as my TV provider so I consider it necessary. But I&#8217;ll be blocking it during most of the day using the Freedom app. I may even experiment with giving up Spotify but the alternatives are more expensive or slightly limited. 

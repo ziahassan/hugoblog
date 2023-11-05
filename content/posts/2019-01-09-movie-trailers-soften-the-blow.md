@@ -1,13 +1,13 @@
----
-title: Movie Trailers Soften the Blow
-author: ziahassan
-type: post
-date: 2019-01-09T16:00:00+00:00
-url: /movie-trailers-soften-the-blow/
-categories:
-  - Uncategorized
++++
+title = "Movie Trailers Soften The Blow"
+date = 2019-01-09
++++
 
----
++++
+title = "01"
+date = 2019
++++
+
 I used to love movie trailers as a kid. 
 
 So much that I&#8217;d be upset if I was late and missed even one of them. There was something magical to me about the telling of these mini-stories. I loved following up by seeing the movie advertised and would get excited when I&#8217;d notice a scene from the trailer and how it fit into the film. 

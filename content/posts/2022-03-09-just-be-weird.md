@@ -1,17 +1,13 @@
 +++
-title = "Just be weird"
-date = "2023-10-25T22:27:11-04:00"
-author = ""
-authorTwitter = "" #do not include @
-cover = ""
-tags = ["", ""]
-keywords = ["", ""]
-description = ""
-showFullContent = false
-readingTime = false
-hideComments = false
-color = "" #color from the theme settings
+title = "Just Be Weird"
+date = 2022-03-09
 +++
+
++++
+title = "03"
+date = 2022
++++
+
 I’ve had trouble with conforming to society’s expectations for my entire life.
 
 When everyone in art class drew a picture in elementary school, I wrote a poem (in a cool font, I might add).

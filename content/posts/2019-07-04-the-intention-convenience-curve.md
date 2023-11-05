@@ -1,13 +1,8 @@
----
-title: The Intention-Convenience Curve
-author: ziahassan
-type: post
-date: 2019-07-05T01:11:17+00:00
-url: /the-intention-convenience-curve/
-categories:
-  - Uncategorized
++++
+title = "The Intention Convenience Curve"
+date = 2019-07-04
++++
 
----
 The art of catching a show on TV is dead. The only time where I actually watch live TV anymore is at a hotel, or perhaps on an airplane which doesn’t really count as live TV anyway.
 
 There was a time where I would dart back from my 5:30 block class at university just to catch the latest episode of Prison Break. And today, all of Stranger Things 3 is available on Netflix _right now_. 

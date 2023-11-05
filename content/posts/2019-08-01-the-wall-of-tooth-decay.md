@@ -1,13 +1,13 @@
----
-title: The Wall of Tooth Decay
-author: ziahassan
-type: post
-date: 2019-08-02T00:18:22+00:00
-url: /the-wall-of-tooth-decay/
-categories:
-  - Uncategorized
++++
+title = "The Wall Of Tooth Decay"
+date = 2019-08-01
++++
 
----
++++
+title = "08"
+date = 2019
++++
+
 One of the most amazing examples of fear based motivation was at my orthodontist’s office when I had braces as a child.
 
 These appointments would consist of approximately 60 minutes of waiting time (which meant lots of Archie comics), a 20 minute adjustment, and then the orthodontist would come out and ask me to bite a lot and then send me on my way.

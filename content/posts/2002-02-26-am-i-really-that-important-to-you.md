@@ -1,15 +1,13 @@
----
-title: am i really that important to you?
-author: ziahassan
-type: post
-date: 2002-02-26T16:47:08+00:00
-draft: true
-private: true
-url: /am-i-really-that-important-to-you/
-categories:
-  - Uncategorized
++++
+title = "Am I Really That Important To You"
+date = 2002-02-26
++++
 
----
++++
+title = "02"
+date = 2002
++++
+
 'm back mothafucka.  
 but this is my own journal. what does being back really mean? i've still been thinkin, stlill been keepin my thoughts flowin like a river. not a lake mind you. lakes don't flow, they just kinda sit there, and people paddle in them. that's YOU. you are the lake. or the paddlers rather. and there waint' no water so you were screamin to me from being at the bottom of a big hole of dried up mud.
 

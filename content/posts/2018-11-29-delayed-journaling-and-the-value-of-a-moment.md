@@ -1,13 +1,8 @@
----
-title: Delayed Journaling and the Value of a Moment
-author: ziahassan
-type: post
-date: 2018-11-29T03:41:52+00:00
-url: /delayed-journaling-and-the-value-of-a-moment/
-categories:
-  - Uncategorized
++++
+title = "Delayed Journaling And The Value Of A Moment"
+date = 2018-11-29
++++
 
----
 A small but important change I made recently to my journaling process is that I practice delayed journaling &#8211; journaling about my day on the following day, instead of at night before I go to bed.
 
 Ever since I started doing this, I’ve been able to capture every day fully in my journal, and I also find my entries are less frustrated. There are less “ughs” &#8211; it appears that whatever I’m frustrated about usually doesn’t frustrate me as much the next day.

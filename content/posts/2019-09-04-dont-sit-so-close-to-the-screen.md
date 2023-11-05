@@ -1,13 +1,13 @@
----
-title: Don’t Sit So Close to the Screen
-author: ziahassan
-type: post
-date: 2019-09-04T13:56:44+00:00
-url: /dont-sit-so-close-to-the-screen/
-categories:
-  - Uncategorized
++++
+title = "Dont Sit So Close To The Screen"
+date = 2019-09-04
++++
 
----
++++
+title = "09"
+date = 2019
++++
+
 I think kids should be able to watch TV. And a lot of it.
 
 Not Netflix or an iPad device that allows them to pick any channel and binge the same TV show for hours like a monster.

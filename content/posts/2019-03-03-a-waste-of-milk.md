@@ -1,13 +1,8 @@
----
-title: A Waste of Milk
-author: ziahassan
-type: post
-date: 2019-03-03T12:57:31+00:00
-url: /a-waste-of-milk/
-categories:
-  - Uncategorized
++++
+title = "A Waste Of Milk"
+date = 2019-03-03
++++
 
----
 When I was growing up, my mom was obsessed with making my sister and I drink milk. In fact, we bookended our day with milk. A cup in the morning, a full glass in the evening. 
 
 We were told dairy industry lies, somehow convincing ourselves that milk would “do our body good” and would make us grow bigger and stronger somehow. 

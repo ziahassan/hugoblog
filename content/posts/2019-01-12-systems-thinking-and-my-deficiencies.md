@@ -1,13 +1,8 @@
----
-title: Systems Thinking and my Deficiencies
-author: ziahassan
-type: post
-date: 2019-01-12T20:42:31+00:00
-url: /systems-thinking-and-my-deficiencies/
-categories:
-  - Uncategorized
++++
+title = "Systems Thinking And My Deficiencies"
+date = 2019-01-12
++++
 
----
 We’re all born with gifts, and we’re all born with anti-gifts. Skills that seem to come naturally to others but are a total mystery to us. 
 
 One of those, for me, is Tetris. Being able to fit pieces into gaps, being able to think ahead in a spatial way… are not skills in which I excel. 

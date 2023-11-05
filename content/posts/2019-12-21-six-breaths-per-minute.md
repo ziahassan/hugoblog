@@ -1,13 +1,8 @@
----
-title: Six Breaths Per Minute
-author: ziahassan
-type: post
-date: 2019-12-21T18:18:53+00:00
-url: /six-breaths-per-minute/
-categories:
-  - mindfulness
++++
+title = "Six Breaths Per Minute"
+date = 2019-12-21
++++
 
----
 I was surprised the first time I heard that the optimal number of breaths per minute for a human is about _[six][1]._ 
 
 Try it: sit down somewhere comfortable and try to take six breaths (in and out is one breath). Make each one last about 10 seconds. No need to time it perfectly. 

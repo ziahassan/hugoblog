@@ -1,13 +1,8 @@
----
-title: The Minute You Think
-author: ziahassan
-type: post
-date: 2018-11-25T13:00:00+00:00
-url: /the-minute-you-think/
-categories:
-  - Uncategorized
++++
+title = "The Minute You Think"
+date = 2018-11-25
++++
 
----
 The minute you think that you know about something, you discover you&#8217;re a novice.
 
 The minute you think you’re too old, you’re crying for your mom.

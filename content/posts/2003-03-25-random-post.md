@@ -1,15 +1,8 @@
----
-title: random post.
-author: ziahassan
-type: post
-date: 2003-03-25T00:48:14+00:00
-draft: true
-private: true
-url: /random-post/
-categories:
-  - Uncategorized
++++
+title = "Random Post"
+date = 2003-03-25
++++
 
----
 t's that time in the process of getting sick where my nose is only slightly clogged, except when I wake up when it is fully clogged. Well we performed for the middle school today, and they were possibly the worst audience ever. Even worse than the 8th graders from the year before. Or the year before that!
 
 I'm noticing that I'm gaining some weight. I mention it to anyone and they laugh at me, but I know when I'm gaining weight and it's definetely now. Well, after this weekend there will be some changes. New haircut, new running/walking excercise everyday, and new music. I need to start writing again now that I have a fucking awesome guitar.

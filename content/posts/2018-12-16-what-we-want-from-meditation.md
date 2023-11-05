@@ -1,13 +1,8 @@
----
-title: What We Want From Meditation
-author: ziahassan
-type: post
-date: 2018-12-16T17:28:56+00:00
-url: /what-we-want-from-meditation/
-categories:
-  - Uncategorized
++++
+title = "What We Want From Meditation"
+date = 2018-12-16
++++
 
----
 When I was fifteen, I developed an interest in Zen Buddhism. The practice of _zazen_ in particular drew me in.
 
 Fifteen is a tangled web of rage and depression (at least it was for me) so the idea that a daily practice of sitting (the direct translation of zazen) appealed to me.

@@ -1,13 +1,8 @@
----
-title: No Big Decisions
-author: ziahassan
-type: post
-date: 2019-10-09T15:18:14+00:00
-url: /no-big-decisions/
-categories:
-  - Uncategorized
++++
+title = "No Big Decisions"
+date = 2019-10-09
++++
 
----
 I’ve never made a big decision. One might think that buying a house, getting married, switching careers (twice), and having kids would qualify as big decisions but I don’t see them that way.
 
 I see each of these as a series of tiny little decisions.

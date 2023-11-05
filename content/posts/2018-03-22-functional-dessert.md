@@ -1,13 +1,8 @@
----
-title: Functional Dessert
-author: ziahassan
-type: post
-date: 2018-03-22T03:09:43+00:00
-url: /functional-dessert/
-categories:
-  - Uncategorized
++++
+title = "Functional Dessert"
+date = 2018-03-22
++++
 
----
 In most restaurants, dessert is the thing they try to push on you after you’ve already eaten a big meal. So you have your ice cream, or pie a la mode, and then collapse into a big heap on your bed while contemplating going on a diet.
 
 Chinese restaurants give the same dessert with every meal, for the most part: a fortune cookie. 

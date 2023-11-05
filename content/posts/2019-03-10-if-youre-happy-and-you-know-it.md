@@ -1,13 +1,8 @@
----
-title: If You’re Happy and You Know it
-author: ziahassan
-type: post
-date: 2019-03-10T18:33:09+00:00
-url: /if-youre-happy-and-you-know-it/
-categories:
-  - Uncategorized
++++
+title = "If Youre Happy And You Know It"
+date = 2019-03-10
++++
 
----
 … clap your hands.
 
 Except, how do you know when you’re happy? And can you be happy without knowing it?

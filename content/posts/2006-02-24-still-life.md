@@ -1,23 +1,13 @@
----
-title: still life.
-author: ziahassan
-type: post
-date: 2006-02-24T08:55:15+00:00
-excerpt: "Dark windows are closed doors."
-draft: true
-private: true
-url: /still-life/
-enclosure:
-  - |
-    |
-        http://nw01.american.edu/~zh1873a/dark%20door.mp3
-        2473375
-        audio/mpeg
-        
-categories:
-  - Uncategorized
++++
+title = "Still Life"
+date = 2006-02-24
++++
 
----
++++
+title = "02"
+date = 2006
++++
+
 4am. right click -> download target as
 
 [dark windows are closed doors.][1] 

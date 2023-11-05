@@ -1,13 +1,8 @@
----
-title: The Terse Recipe Card
-author: ziahassan
-type: post
-date: 2019-08-08T21:46:34+00:00
-url: /the-terse-recipe-card/
-categories:
-  - Uncategorized
++++
+title = "The Terse Recipe Card"
+date = 2019-08-08
++++
 
----
 I became a cook in my late 20’s. Someone had given me a card for the company Hello Fresh, which at the time was just starting out with their meal delivery kits. I got a free trial and never looked back. 
 
 Meal delivery took everything I hated out of the cooking process; mostly, going to the [grocery store][1] and measuring things out. After a few years of using the service every week, I felt like I could basically cook anything, even if I didn’t have a great sense of flavor.

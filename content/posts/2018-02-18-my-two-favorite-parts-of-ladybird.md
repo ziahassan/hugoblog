@@ -1,13 +1,13 @@
----
-title: My Two Favorite Parts of Ladybird
-author: ziahassan
-type: post
-date: 2018-02-18T21:13:05+00:00
-url: /my-two-favorite-parts-of-ladybird/
-categories:
-  - Uncategorized
++++
+title = "My Two Favorite Parts Of Ladybird"
+date = 2018-02-18
++++
 
----
++++
+title = "02"
+date = 2018
++++
+
 Spoilers ahead.
 
 First: The part where everyone is complimenting and congratulating the performers at the school play on the way out, and the drama teacher says quietly “They didn’t get it.” We later find out that he’s depressed. 

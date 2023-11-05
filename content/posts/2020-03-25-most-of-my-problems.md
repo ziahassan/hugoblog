@@ -1,14 +1,8 @@
----
-title: Most of My Problems
-author: ziahassan
-type: post
-date: 2020-03-25T19:52:58+00:00
-url: /most-of-my-problems/
-categories:
-  - mindfulness
-  - spirituality
++++
+title = "Most Of My Problems"
+date = 2020-03-25
++++
 
----
 Most of my problems are not solvable.
 
 Most of my problems do not come with a money back guarantee.

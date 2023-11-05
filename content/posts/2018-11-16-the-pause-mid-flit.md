@@ -1,13 +1,8 @@
----
-title: The Pause, Mid-Flit
-author: ziahassan
-type: post
-date: 2018-11-16T15:17:07+00:00
-url: /the-pause-mid-flit/
-categories:
-  - Uncategorized
++++
+title = "The Pause Mid Flit"
+date = 2018-11-16
++++
 
----
 <blockquote class="wp-block-quote">
   <p>
     flit

@@ -1,13 +1,8 @@
----
-title: In Defense of Memorization
-author: ziahassan
-type: post
-date: 2019-08-03T16:09:48+00:00
-url: /in-defense-of-memorization/
-categories:
-  - Uncategorized
++++
+title = "In Defense Of Memorization"
+date = 2019-08-03
++++
 
----
 It’s easy to criticize modern education for focusing too much on memorization over critical thinking skills. When people hear about kids memorizing the state capitals, the comments that emerge are always something about how students should be taught _think critically_ and that modern education is the equivalent of a collection of trivia.
 
 This argument is partially true. While things are rapidly changing, many students are subjected every day to the memorization of facts masquerading as knowledge. I’ve written before about [what it means to be smart][1], and it really has nothing to do with facts at all, or even critiquing text. 

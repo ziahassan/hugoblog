@@ -1,11 +1,8 @@
----
-title: Friendship like Tea
-author: ziahassan
-type: post
-date: 2020-01-15T17:52:01+00:00
-url: /friendship-like-tea/
++++
+title = "Friendship Like Tea"
+date = 2020-01-15
++++
 
----
 A number of years ago, I released a video about tea and friendship. In the video, I filmed my friend Grant making tea with an overdubbed conversation about how tea is like friendship because you have to “re-steep” occasionally, bringing out deeper and more complex flavors.
 
 But another way that tea is like friendship is that different flavors can be brought out depending on the temperature of the water. In the same way that boiling water brings out the astringent qualities of a good green tea, a particularly aggressive friend might bring out _my_ more astringent qualities.

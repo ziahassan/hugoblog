@@ -1,14 +1,8 @@
----
-title: The Living Room
-author: ziahassan
-type: post
-date: 2020-03-23T17:13:44+00:00
-url: /the-living-room/
-categories:
-  - Kids
-  - social
++++
+title = "The Living Room"
+date = 2020-03-23
++++
 
----
 Have you ever wonder why we it’s named “the living room?&#8221;
 
 The name came from the French, who decided it should be called that since the activities that happen in the room were lively. 

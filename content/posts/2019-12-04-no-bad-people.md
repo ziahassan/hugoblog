@@ -1,11 +1,13 @@
----
-title: No Bad People
-author: ziahassan
-type: post
-date: 2019-12-05T04:11:34+00:00
-url: /no-bad-people/
++++
+title = "No Bad People"
+date = 2019-12-04
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 “They’re just an asshole,” she says to me in the car on the way home.
 
 “Nobody is &#8216;just an asshole&#8217;,” I reply. I have no idea where that came from, and I have no idea why I’m being defensive over someone I don’t even know, but there it is.
@@ -19,5 +21,3 @@ Suddenly, out of nowhere, I have a new life rule: there are no bad people. Contr
 “Fearful.”
 
 The rest of the ride is silent. It’s hard to know if what I said was the right thing or the wrong thing.
-
- 

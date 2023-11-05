@@ -1,13 +1,8 @@
----
-title: Lab Notebook
-author: ziahassan
-type: post
-date: 2019-01-19T04:35:40+00:00
-url: /lab-notebook/
-categories:
-  - Uncategorized
++++
+title = "Lab Notebook"
+date = 2019-01-18
++++
 
----
 Today, I received a package in the mail that I’ve been waiting for since the new year started.
 
 I wasn’t quite sure when it would arrive, and I checked the mail incessantly. There was no tracking number or notification service letting me know when it would be out for delivery.

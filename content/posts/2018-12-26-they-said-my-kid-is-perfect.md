@@ -1,13 +1,13 @@
----
-title: They Said My Kid Is Perfect
-author: ziahassan
-type: post
-date: 2018-12-26T16:14:29+00:00
-url: /they-said-my-kid-is-perfect/
-categories:
-  - Uncategorized
++++
+title = "They Said My Kid Is Perfect"
+date = 2018-12-26
++++
 
----
++++
+title = "12"
+date = 2018
++++
+
 When my child was born, one of the most common comments I got from people was “he&#8217;s perfect.” It caught me off guard the first time because I&#8217;ve always believed that no one is perfect. Other new babies seem to get the same compliment. 
 
 It seems an odd thing to say. Babies are people, and people aren&#8217;t perfect. I know that it&#8217;s kind of just something that people say about new babies, but then I realized that there _is_ some truth to it. 

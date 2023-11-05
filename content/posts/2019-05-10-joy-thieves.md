@@ -1,13 +1,8 @@
----
-title: Joy Thieves
-author: ziahassan
-type: post
-date: 2019-05-10T17:50:40+00:00
-url: /joy-thieves/
-categories:
-  - Uncategorized
++++
+title = "Joy Thieves"
+date = 2019-05-10
++++
 
----
 “Don’t let anyone steal your joy.”
 
 This was a phrase written in permanent ink on the teacher’s board in the copy room of a school I worked at. It made sense for a school setting for teachers, who have their joy stolen constantly by basically everyone, including people outside of their job who think they understand their jobs. 

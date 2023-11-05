@@ -1,15 +1,8 @@
----
-title: john mayer shannanigans
-author: ziahassan
-type: post
-date: 2002-05-30T19:31:03+00:00
-draft: true
-private: true
-url: /john-mayer-shannanigans/
-categories:
-  - Uncategorized
++++
+title = "John Mayer Shannanigans"
+date = 2002-05-30
++++
 
----
 Zia: lemme know if you're interested in going with me  
 Billy: ill get back to you  
 Zia: ok you get back to me like john mayer  

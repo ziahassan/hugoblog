@@ -1,13 +1,13 @@
----
-title: It Shouldn’t Come as a Surprise
-author: ziahassan
-type: post
-date: 2019-06-29T18:07:12+00:00
-url: /it-shouldnt-come-as-a-surprise/
-categories:
-  - Uncategorized
++++
+title = "It Shouldnt Come As A Surprise"
+date = 2019-06-29
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 Helpful performance reviews, the ones that have just the right balance of praise and actionable feedback, are difficult to get. 
 
 In some jobs, like teaching, the standards for success are so ridiculous that it’s easy to feel inadequate and defensive right from the start.

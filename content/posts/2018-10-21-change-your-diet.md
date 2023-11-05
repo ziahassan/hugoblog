@@ -1,13 +1,8 @@
----
-title: Change Your Diet
-author: ziahassan
-type: post
-date: 2018-10-21T21:00:00+00:00
-url: /change-your-diet/
-categories:
-  - Uncategorized
++++
+title = "Change Your Diet"
+date = 2018-10-21
++++
 
----
 You can change what foods you eat, and it will have at least some kind of impact on your life. You might feel that you have more energy, that you’re happier, that your mood has improved.
 
 You can change the type of material you read online. Certain social networks have been shown to have negative impact on mental health. You might find that you judge yourself less harshly when compared to others, and you have less of an urge to get into arguments with strangers. 

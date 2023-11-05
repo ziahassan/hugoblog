@@ -1,13 +1,13 @@
----
-title: A Sense of Humor
-author: ziahassan
-type: post
-date: 2019-05-18T16:24:07+00:00
-url: /a-sense-of-humor/
-categories:
-  - Uncategorized
++++
+title = "A Sense Of Humor"
+date = 2019-05-18
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 A phrase I’ve heard throughout my life is: “Have a sense of humor.” The way that people say it is almost akin to the way they offer a breath mint: “Here, take one.” 
 
 But you can’t offer someone a sense of humor that way. A sense of humor is developed, like any other sense. I wouldn’t turn to you if you didn’t enjoy a concert and say “have a sense of hearing!” Or if you didn’t like the art in a gallery, “have a sense of vision!” I may instead perhaps try and introduce you to elements of a painting that make it interesting from my point of view, or have you listen to music with really nice headphones to appreciate the subtleties.

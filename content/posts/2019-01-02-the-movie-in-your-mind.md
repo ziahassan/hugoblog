@@ -1,13 +1,8 @@
----
-title: The Movie in Your Mind
-author: ziahassan
-type: post
-date: 2019-01-02T14:25:00+00:00
-url: /the-movie-in-your-mind/
-categories:
-  - Uncategorized
++++
+title = "The Movie In Your Mind"
+date = 2019-01-02
++++
 
----
 There are some movies or TV shows that leave you with gruesome and vivid images. Images that leave you with nightmares for years. Shows like _Breaking Bad._
 
 Then there are movies and shows that fill you up, that leave you more together than you were before. Movies where you remember the emotion you felt so clearly when you were in the theater. Films and shows like _Big Fish_ and _Six Feet Under_.

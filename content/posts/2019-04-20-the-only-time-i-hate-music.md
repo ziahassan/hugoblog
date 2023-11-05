@@ -1,13 +1,13 @@
----
-title: The Only Time I Hate Music
-author: ziahassan
-type: post
-date: 2019-04-20T18:43:39+00:00
-url: /the-only-time-i-hate-music/
-categories:
-  - Uncategorized
++++
+title = "The Only Time I Hate Music"
+date = 2019-04-20
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 About a decade ago, I posed the question to my Facebook feed: do you know anyone who actively dislikes music?
 
 No one responded. At least no one responded with evidence of someone that actively dislikes music. Sure, there were some who disliked _some_ forms of music but no one seems to just dislike it altogether. Even religious sects that think music is evil seem to form their beliefs tribally, in the same way that eating pork is a sin to a Muslim but they don’t, as a culture, dislike its taste necessarily.

@@ -1,13 +1,8 @@
----
-title: Art as Gift
-author: ziahassan
-type: post
-date: 2019-04-25T01:51:29+00:00
-url: /art-as-gift/
-categories:
-  - Uncategorized
++++
+title = "Art As Gift"
+date = 2019-04-24
++++
 
----
 Seeing Austin Kleon tonight at Politics and Prose was highly enjoyable. He has such interesting thoughts and I love his books. Not to mention, his blackout poetry is really creative. 
 
 One of the things he said that really stuck with me was the idea of making gifts. That we we will sometimes see a friend’s good art and then say that they should make an Etsy store or, in my case, try out for American Idol. 

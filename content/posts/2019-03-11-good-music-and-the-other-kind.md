@@ -1,13 +1,8 @@
----
-title: Good Music and the Other Kind
-author: ziahassan
-type: post
-date: 2019-03-11T23:45:38+00:00
-url: /good-music-and-the-other-kind/
-categories:
-  - Uncategorized
++++
+title = "Good Music And The Other Kind"
+date = 2019-03-11
++++
 
----
 I have a rule that I started following a few years ago: I don’t submit my music to songwriting contests.
 
 I don’t have anything against the contests themselves, or anyone who enters for them. I’ve just never loved the idea of a gatekeeper. The idea that someone, somewhere could determine the relevant value of my music to the world, and then for people to believe that my music does or doesn’t have value based on that one person (or committee) is especially hard to swallow.

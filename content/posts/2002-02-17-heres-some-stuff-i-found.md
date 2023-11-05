@@ -1,15 +1,8 @@
----
-title: here’s some stuff i found.
-author: ziahassan
-type: post
-date: 2002-02-17T16:46:15+00:00
-draft: true
-private: true
-url: /heres-some-stuff-i-found/
-categories:
-  - Uncategorized
++++
+title = "Heres Some Stuff I Found"
+date = 2002-02-17
++++
 
----
 here's some stuff I found.  
 On a Sear's hairdryer:  
 Do not use while sleeping.  

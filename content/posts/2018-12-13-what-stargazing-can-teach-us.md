@@ -1,13 +1,13 @@
----
-title: What Stargazing Can Teach Us
-author: ziahassan
-type: post
-date: 2018-12-13T14:49:42+00:00
-url: /what-stargazing-can-teach-us/
-categories:
-  - Uncategorized
++++
+title = "What Stargazing Can Teach Us"
+date = 2018-12-13
++++
 
----
++++
+title = "12"
+date = 2018
++++
+
 Last year, I started advertising my services as a professional magician around the holidays. The idea was that I&#8217;d perform at holiday parties to small groups of adults while they talked, ate, and drank.
 
 So I booked my first gig and found out there was a miscommunication (or perhaps a non-communication) and instead of walking around doing tricks for adults, I was going to be at a table performing tricks for children. This wasn’t the worst news; I had spent years as an elementary school teacher, so I was used to working with and performing for kids.

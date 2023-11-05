@@ -1,13 +1,13 @@
----
-title: Short and Wide
-author: ziahassan
-type: post
-date: 2019-10-27T18:54:24+00:00
-url: /short-and-wide/
-categories:
-  - Uncategorized
++++
+title = "Short And Wide"
+date = 2019-10-27
++++
 
----
++++
+title = "10"
+date = 2019
++++
+
 I was with someone the other day that I didn’t know very well. I asked them how they were doing, and they said “ah, you know, the days are long the years are short.”
 
 It stuck with me. It’s such an interesting problem: on one hand, it’s scary how quickly the years seem to fly by, but the day can stretch out, hour by hour, seemingly forever. 

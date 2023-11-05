@@ -1,13 +1,13 @@
----
-title: It’s Okay to Cry
-author: ziahassan
-type: post
-date: 2019-07-18T15:52:00+00:00
-url: /its-okay-to-cry/
-categories:
-  - Uncategorized
++++
+title = "Its Okay To Cry"
+date = 2019-07-18
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 When I found out I was going to have a son, a bunch of anxiety washed over me.
 
 I was excited, of course, to have a child no matter the gender. But I carried a lot of baggage from my childhood (and beyond) of shaping my relationship with masculinity.

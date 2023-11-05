@@ -1,13 +1,8 @@
----
-title: Using the Dictionary Strategically
-author: ziahassan
-type: post
-date: 2019-10-04T18:02:34+00:00
-url: /using-the-dictionary-strategically/
-categories:
-  - Uncategorized
++++
+title = "Using The Dictionary Strategically"
+date = 2019-10-04
++++
 
----
 I once saw a piece of advice for writers and poets to look up words in the dictionary that you already know the meaning of (or at least, you think you do).
 
 Doing so can reveal some amazing new qualities of the word, especially when the words are related to things you do in your daily life.

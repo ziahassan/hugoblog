@@ -1,13 +1,8 @@
----
-title: How to Feel Better
-author: ziahassan
-type: post
-date: 2019-09-01T13:42:11+00:00
-url: /how-to-feel-better/
-categories:
-  - Uncategorized
++++
+title = "How To Feel Better"
+date = 2019-09-01
++++
 
----
 This isn&#8217;t about mood, or even wellness. It&#8217;s about the skill of _feeling_. How do we improve how we go about feeling?
 
 If we hold an object, our skin is exposed to it, and we feel it automatically. 

@@ -1,13 +1,8 @@
----
-title: Completely Delusional
-author: ziahassan
-type: post
-date: 2019-10-29T12:32:22+00:00
-url: /completely-delusional/
-categories:
-  - Uncategorized
++++
+title = "Completely Delusional"
+date = 2019-10-29
++++
 
----
 When I was a kid, I wanted to be a pop star. I was thrilled by the idea of writing songs and performing on stages. 
 
 So, to satisfy myself, I began performing on stages, playing my own songs at the age of 7. At family gatherings, I&#8217;d dance like Michael Jackson. In high school, I&#8217;d play my songs at parties and I&#8217;d think super carefully about my set list and banter. I&#8217;d perform magic for anyone who would watch. I still do these things. 

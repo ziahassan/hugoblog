@@ -1,13 +1,8 @@
----
-title: Richard Branson’s Morning Routine
-author: ziahassan
-type: post
-date: 2019-05-11T12:16:45+00:00
-url: /richard-bransons-morning-routine/
-categories:
-  - Uncategorized
++++
+title = "Richard Bransons Morning Routine"
+date = 2019-05-11
++++
 
----
 I&#8217;m a huge fan of routines in general. I learned as a teacher is that routines are comforting to children _and_ adults. It seems obvious, yet we rarely think about how we can use routines strategically. 
 
 One popular way that designing a routine has become a bit more mainstream is the idea of a morning routine, or the actions we take when we rise each morning. Drink a warm glass of lemon water, do yoga, write in a journal, eat a small meal. Do it every day when you wake up, and your day will continue to have some kind of structure. 

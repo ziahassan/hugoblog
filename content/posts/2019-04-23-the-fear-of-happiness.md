@@ -1,13 +1,8 @@
----
-title: The Fear of Happiness
-author: ziahassan
-type: post
-date: 2019-04-23T18:46:25+00:00
-url: /the-fear-of-happiness/
-categories:
-  - Uncategorized
++++
+title = "The Fear Of Happiness"
+date = 2019-04-23
++++
 
----
 If you were to review the tapes of my life, all the books I’ve read, the podcasts, the movies, the lessons I took away from those movies… you’d think that I was doing whatever I could to seek happiness. 
 
 And actually, maybe that’s most of us. Not everyone is into the genre of self-help, but most people I know are trying to help themselves through whatever possible means. An old friend of mine got into Jiu Jitsu in order to better his physical and mental abilities. That may not be equivalent to reading Tolle but if it isn’t self-help, I’m not sure what is.

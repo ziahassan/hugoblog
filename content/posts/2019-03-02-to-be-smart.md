@@ -1,13 +1,8 @@
----
-title: To Be Smart
-author: ziahassan
-type: post
-date: 2019-03-02T13:46:00+00:00
-url: /to-be-smart/
-categories:
-  - Uncategorized
++++
+title = "To Be Smart"
+date = 2019-03-02
++++
 
----
 The other day I was conducting a training on a topic I had spent a lot of time learning and understanding. This was a speech I could do with my eyes closed, in my sleep, etc. 
 
 At one point one a trainee interrupted with: “Wow, you are _so smart!_”

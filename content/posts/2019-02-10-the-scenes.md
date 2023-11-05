@@ -1,15 +1,13 @@
----
-title: The Scenes
-author: ziahassan
-type: post
-date: 2019-02-10T05:02:48+00:00
-url: /the-scenes/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "The Scenes"
+date = 2019-02-10
++++
 
----
++++
+title = "02"
+date = 2019
++++
+
 It&#8217;s always a treat to get a behind-the-scenes look at a thing.
 
 After all, this is the process that created some beloved piece of art. It&#8217;s a peak into what the creators had to go through. The trial, tribulation, pain, and pleasure in the act of creating something new and unique. We imagine that the behind-the-scenes is full of bustling artists, fast-talkers, and brilliant strokes of genius.

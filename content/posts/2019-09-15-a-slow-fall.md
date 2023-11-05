@@ -1,13 +1,8 @@
----
-title: A Slow Fall
-author: ziahassan
-type: post
-date: 2019-09-15T20:07:00+00:00
-url: /a-slow-fall/
-categories:
-  - Uncategorized
++++
+title = "A Slow Fall"
+date = 2019-09-15
++++
 
----
 Occasionally, an item that was placed on a very high shelf falls without warning. Nothing seemed to cause the fall. There was no gnome hiding behind the object, no gust of wind, and no invisible hands.
 
 This type of thing was once known as a poltergeist: an unexplained occurrence that people would attribute to a supernatural being or a ghost.

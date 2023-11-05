@@ -1,13 +1,8 @@
----
-title: Serotonin and Dopamine
-author: ziahassan
-type: post
-date: 2019-07-10T02:31:41+00:00
-url: /serotonin-and-dopamine/
-categories:
-  - Uncategorized
++++
+title = "Serotonin And Dopamine"
+date = 2019-07-09
++++
 
----
 Robert Lustig recently wrote a book about two chemicals in the brain: dopamine and serotonin. 
 
 Dopamine, he says, is secreted when we seek short term pleasure. That is, anything that can become addictive. Sweet foods, alcohol, sex, etc.

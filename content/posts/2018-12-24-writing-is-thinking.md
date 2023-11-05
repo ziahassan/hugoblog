@@ -1,13 +1,8 @@
----
-title: Writing is Thinking
-author: ziahassan
-type: post
-date: 2018-12-24T18:54:44+00:00
-url: /writing-is-thinking/
-categories:
-  - Uncategorized
++++
+title = "Writing Is Thinking"
+date = 2018-12-24
++++
 
----
 I heard a lecture recently for PHd students. The instructor started by informing the class in quite a dramatic fashion that they&#8217;ve never written a thing in their lives.
 
 How can that be?

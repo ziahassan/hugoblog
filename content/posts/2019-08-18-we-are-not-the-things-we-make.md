@@ -1,13 +1,13 @@
----
-title: We Are Not the Things We Make
-author: ziahassan
-type: post
-date: 2019-08-18T18:55:31+00:00
-url: /we-are-not-the-things-we-make/
-categories:
-  - Uncategorized
++++
+title = "We Are Not The Things We Make"
+date = 2019-08-18
++++
 
----
++++
+title = "08"
+date = 2019
++++
+
 We all create art, whether we admit to it or not. Perhaps your art is your fine art, or perhaps it’s your children, or perhaps it’s your cooking. 
 
 When we look at it this way, it’s easy to get offended when others don’t like or connect to our art. We get defensive, and we start to question our abilities as an artist.

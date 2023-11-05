@@ -1,13 +1,8 @@
----
-title: A Better Way to Parent with Technology
-author: ziahassan
-type: post
-date: 2019-05-24T19:24:09+00:00
-url: /a-better-way-to-parent-with-technology/
-categories:
-  - Uncategorized
++++
+title = "A Better Way To Parent With Technology"
+date = 2019-05-24
++++
 
----
 These days, almost everyone has the ability to use technology to share your child’s personality with the world.
 
 We can post pictures on Instagram. We can write stories about our child and the funny things they say on Facebook. Mini-conversations written like plays on Twitter. YouTube videos, like the one I made that went viral a few years back, can show a chid’s budding intellect.

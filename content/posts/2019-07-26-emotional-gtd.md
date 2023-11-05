@@ -1,13 +1,8 @@
----
-title: Emotional GTD
-author: ziahassan
-type: post
-date: 2019-07-26T15:08:10+00:00
-url: /emotional-gtd/
-categories:
-  - Uncategorized
++++
+title = "Emotional Gtd"
+date = 2019-07-26
++++
 
----
 I came up with this idea years ago, and others have also written about it. 
 
 In the Getting Things Done methodology, the way that we work is by collecting all the junk in our lives into a list called “Inbox.” Once we collect everything, from the tasks that require a few minutes of time, to larger and more gargantuan tasks like buying a house or writing a thesis, we can then do the step of GTD known as processing.

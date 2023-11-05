@@ -1,13 +1,8 @@
----
-title: 'Semantic Satiation: How to Taste Mindfulness'
-author: ziahassan
-type: post
-date: 2019-06-08T19:19:00+00:00
-url: /semantic-satiation-how-to-taste-mindfulness/
-categories:
-  - Uncategorized
++++
+title = "Semantic Satiation How To Taste Mindfulness"
+date = 2019-06-08
++++
 
----
 Zazen, meditation, mindfulness, yoga… take your pick. Every one of these arts has a component of thought observation: the mind must observe itself. It’s a meta-cognitive struggle that startles you the first time you try it.
 
 And that’s the thing &#8211; you have to choose to try it. Observing your thoughts is not instinctive. We’re supposed to worry, dwell, and be anxious so that our amygdala can protect this from threats. Only there aren’t that many threats that we need to be protected from. So we end up fearful of _nothing_, or put another way, fearful of that which does not exist. Observing thoughts lifts you up one level of abstraction, and you consciously stop equating yourself with a thought or emotion.

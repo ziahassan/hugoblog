@@ -1,13 +1,8 @@
----
-title: On Being a Highly Sensitive Person
-author: ziahassan
-type: post
-date: 2018-11-08T15:48:38+00:00
-url: /on-being-a-highly-sensitive-person/
-categories:
-  - Uncategorized
++++
+title = "On Being A Highly Sensitive Person"
+date = 2018-11-08
++++
 
----
 For most of my life, I’ve been told that I’m _too sensitive_. 
 
 I’ve been called _too sensitive_ when I’ve cried over something that someone else deemed not cry-worthy. I’ve been _too sensitive_ when I withdraw from conversation if somebody is ribbing me too hard. _Too sensitive_ if I’m offended by something that was “meant as a harmless joke.”

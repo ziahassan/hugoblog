@@ -1,13 +1,13 @@
----
-title: The Nature of Gift Giving and Receiving
-author: ziahassan
-type: post
-date: 2019-05-07T20:20:00+00:00
-url: /the-nature-of-gift-giving/
-categories:
-  - Uncategorized
++++
+title = "The Nature Of Gift Giving"
+date = 2019-05-07
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 How many times have you asked this question: “What should I get [person] for their birthday?”
 
 <p dir="ltr">

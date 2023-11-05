@@ -1,13 +1,8 @@
----
-title: Explaining the Inexplicable
-author: ziahassan
-type: post
-date: 2019-02-28T00:14:27+00:00
-url: /explaining-the-inexplicable/
-categories:
-  - Uncategorized
++++
+title = "Explaining The Inexplicable"
+date = 2019-02-27
++++
 
----
 Before Dezi was born, I asked every parent I came into contact with the same question: what is one thing you wish you were told about parenting? And what&#8217;s one thing you were told over and over again but didn&#8217;t end up being true for you? I figured the responses to these questions would change my brain chemistry a bit, and maybe make me slightly more prepared.
 
 The responses were interesting. Most notably, some parents said they wish they were told how much love they&#8217;d feel for their child upon their arrival&#8230; about how post-birth, some part of them unlocks, and they suddenly &#8220;get it.&#8221;

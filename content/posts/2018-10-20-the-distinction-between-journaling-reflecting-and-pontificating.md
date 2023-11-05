@@ -1,13 +1,13 @@
----
-title: The Distinction Between Journaling, Reflecting and Pontificating
-author: ziahassan
-type: post
-date: 2018-10-20T21:00:00+00:00
-url: /the-distinction-between-journaling-reflecting-and-pontificating/
-categories:
-  - Uncategorized
++++
+title = "The Distinction Between Journaling Reflecting And Pontificating"
+date = 2018-10-20
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 Many people use a journal to “reflect.” But when I reflect, it’s not the semi-literal interpretation of looking at myself as I am now. 
 
 There’s a clear distinction between pontificating and reflecting, for me. When I write in this blog, I pontificate. Often, the writing is just my process for thinking. I have a very small idea of what I believe when I start a piece, and a much more complete version by the time I’m done.

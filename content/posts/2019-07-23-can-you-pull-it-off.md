@@ -1,13 +1,8 @@
----
-title: Can You Pull it Off?
-author: ziahassan
-type: post
-date: 2019-07-23T18:31:27+00:00
-url: /can-you-pull-it-off/
-categories:
-  - Uncategorized
++++
+title = "Can You Pull It Off"
+date = 2019-07-23
++++
 
----
 In a clothing store in Wyoming in 1999, I was confronted by clothing for the first on my own. My mom had purchased almost every piece of clothing that I owned, and now, on my first cross country trip by myself, I was in a clothing store and able to try out whatever I wanted.
 
 There were all sorts of clothes. Cool looking button downs, khakis, hats, everything. It was kind of liberating, at the age of 14, to be able to go through a clothing rack and for the first time, decide what _I_ wanted. 

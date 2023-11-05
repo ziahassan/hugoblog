@@ -1,13 +1,8 @@
----
-title: How to Appreciate Anything
-author: ziahassan
-type: post
-date: 2018-10-12T22:26:51+00:00
-url: /how-to-appreciate-anything/
-categories:
-  - Uncategorized
++++
+title = "How To Appreciate Anything"
+date = 2018-10-12
++++
 
----
 When I was a high school kid, I was told My Bloody Valentine’s album Loveless would change my life. So I went to a record store in Georgetown, found a copy of it in the used bin, and went home to listen to it with some friends.
 
 “Those are guitars? Sounds like a vacuum cleaner,” one of my friends smirked. I couldn’t help but agree.

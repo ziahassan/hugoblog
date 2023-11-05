@@ -1,13 +1,8 @@
----
-title: Real Tips for Fighting an Oncoming Cold
-author: ziahassan
-type: post
-date: 2019-01-25T09:25:35+00:00
-url: /real-tips-for-fighting-an-oncoming-cold/
-categories:
-  - Uncategorized
++++
+title = "Real Tips For Fighting An Oncoming Cold"
+date = 2019-01-25
++++
 
----
 I thought I was getting sick over the last couple of days. My throat got really raw, and I felt the discomfort starting to move around from my throat to my nose. I have a business trip coming up that requires public speaking so I needed to act fast.
 
 There are many who say that there is no way to shorten the duration of a cold or to lessen the symptoms. But based on being a teacher and experimenting with remedies, I disagree. Here are some ways I&#8217;ve managed to stomp sickness before it starts.

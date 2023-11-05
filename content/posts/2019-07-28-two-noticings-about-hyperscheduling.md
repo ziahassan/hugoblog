@@ -1,13 +1,8 @@
----
-title: Two Noticings About Hyperscheduling
-author: ziahassan
-type: post
-date: 2019-07-28T12:55:06+00:00
-url: /two-noticings-about-hyperscheduling/
-categories:
-  - Uncategorized
++++
+title = "Two Noticings About Hyperscheduling"
+date = 2019-07-28
++++
 
----
 One trend in productivity right now is hyperscheduling, which means to plan your day hour by hour. The idea is that it&#8217;s easier to stick to your tasks and habits if they&#8217;re on some kind of calendar. People who use systems like these also tend to schedule their free time activities too, like watching TV or reading. 
 
 It sounds over the top, but it works. And the structure, for some, gives the day a feeling of completeness in a modern age where days never feel complete (like scrolling through an endless feed&#8230;)

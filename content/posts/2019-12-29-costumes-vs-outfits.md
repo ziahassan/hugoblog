@@ -1,11 +1,8 @@
----
-title: Costumes vs. Outfits
-author: ziahassan
-type: post
-date: 2019-12-30T03:26:56+00:00
-url: /costumes-vs-outfits/
++++
+title = "Costumes Vs Outfits"
+date = 2019-12-29
++++
 
----
 I recently discovered that the men’s suit was modeled off of the type of outfit that military generals wear. It got me wondering… what’s the difference between an outfit and a costume?
 
 An outfit is also more personal in some ways, but then again a costume is very personal too. If you asked me and I had no resources, I’d say that the distinction is a costume is make believe, and an outfit is based in reality. 

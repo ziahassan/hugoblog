@@ -1,13 +1,8 @@
----
-title: To Nourish You
-author: ziahassan
-type: post
-date: 2019-11-04T21:15:35+00:00
-url: /to-nourish-you/
-categories:
-  - Uncategorized
++++
+title = "To Nourish You"
+date = 2019-11-04
++++
 
----
 I think a lot about being a father. I mean, what it means to be a father, how one should conduct themselves as a father, how one should teach their children or at least provide the conditions necessary for their children to learn.
 
 A few years ago, when my wife and I started talking about the possibility of having kids one day, I found myself more motivated than ever before to go to the gym and work out more. With every rep, and every mile I ran, I would say to my future child in my head, _this is for you._ Sure, I wanted to improve my health in general, but I was mostly motivated by future fatherhood.

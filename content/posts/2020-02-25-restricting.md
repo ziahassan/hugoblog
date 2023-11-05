@@ -1,11 +1,13 @@
----
-title: Restricting
-author: ziahassan
-type: post
-date: 2020-02-25T20:06:32+00:00
-url: /restricting/
++++
+title = "Restricting"
+date = 2020-02-25
++++
 
----
++++
+title = "02"
+date = 2020
++++
+
 One of the most prominent features of a diet is restrictions. Some diets restrict calories, while other diets restrict certain macronutrients. But the more coherent doctors that I’ve heard speak indicate that macronutrients (protein, fat, and carbs) are actually _all_ good. That it’s more about how our body processes certain types of foods, particularly processed food.
 
 There’s a parallel when it comes to emotions. I grew up being told to stop being sensitive, to contain my sadness, my anger, and other so-called negative emotions.

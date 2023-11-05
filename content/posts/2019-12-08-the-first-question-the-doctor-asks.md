@@ -1,11 +1,8 @@
----
-title: The First Question the Doctor Asks
-author: ziahassan
-type: post
-date: 2019-12-08T19:48:19+00:00
-url: /the-first-question-the-doctor-asks/
++++
+title = "The First Question The Doctor Asks"
+date = 2019-12-08
++++
 
----
 “Can you tell me about your diet and exercise?&#8221;
 
 It’s one of the first questions the doctor usually asks. About 3 years ago, this was the first question I was asked at my physical. I wasn’t quite sure how to answer.

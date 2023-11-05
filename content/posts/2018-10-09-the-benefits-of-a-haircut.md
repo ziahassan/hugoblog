@@ -1,13 +1,8 @@
----
-title: The Benefits of a Haircut
-author: ziahassan
-type: post
-date: 2018-10-09T21:00:00+00:00
-url: /the-benefits-of-a-haircut/
-categories:
-  - Uncategorized
++++
+title = "The Benefits Of A Haircut"
+date = 2018-10-09
++++
 
----
 For a long time, I didn’t care much about getting a haircut, or cutting my nails before they got really long, or shaving every day. I actually got pretty upset if someone told me I needed a haircut… like, actually, I don’t _need_ your _shit_. 
 
 And then, at some point in my mid-20’s, I became hyper-aware of my body. If my beard got just a little too long, it would become unbearable and scratchy and if I was out at dinner I’d rush home to shave it. It came on out of nowhere, seemingly. 

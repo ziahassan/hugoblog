@@ -1,11 +1,8 @@
----
-title: A Darkened Room
-author: ziahassan
-type: post
-date: 2020-10-13T22:37:20+00:00
-url: /a-darkened-room/
++++
+title = "A Darkened Room"
+date = 2020-10-13
++++
 
----
 Many sleep scientists say that the key to healthy sleep is a darkened room. As in, all lights off, all light sources covered (including phones). 
 
 All of this allows the brain to perceive (as our ancestors did) darkness as a cue to fall asleep. 

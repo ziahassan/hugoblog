@@ -1,13 +1,8 @@
----
-title: The Magic of an Old Guitar
-author: ziahassan
-type: post
-date: 2018-12-12T14:01:56+00:00
-url: /the-magic-of-an-old-guitar/
-categories:
-  - Uncategorized
++++
+title = "The Magic Of An Old Guitar"
+date = 2018-12-12
++++
 
----
 A friend of mine came over recently and was playing some of my guitars (I have 8 of them).
 
 He picked up a vintage acoustic, one from the 70s that I had picked up used on eBay a few years ago, and examined it closely.

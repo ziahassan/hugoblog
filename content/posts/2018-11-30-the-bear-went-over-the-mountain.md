@@ -1,13 +1,8 @@
----
-title: The Bear Went Over the Mountain
-author: ziahassan
-type: post
-date: 2018-12-01T04:24:01+00:00
-url: /the-bear-went-over-the-mountain/
-categories:
-  - Uncategorized
++++
+title = "The Bear Went Over The Mountain"
+date = 2018-11-30
++++
 
----
 &#8230; to see what he could see. 
 
 The bear went over the mountain, but not for food, or money, or fame, or glory. 

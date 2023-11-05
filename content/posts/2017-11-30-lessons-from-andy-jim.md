@@ -1,15 +1,8 @@
----
-title: 'Lessons from Andy & Jim'
-author: ziahassan
-type: post
-date: 2017-11-30T02:42:50+00:00
-url: /lessons-from-andy-jim/
-categories:
-  - Uncategorized
-tags:
-  - movie
++++
+title = "Lessons From Andy Jim"
+date = 2017-11-30
++++
 
----
 I recently watched this documentary called Andy & Jim about how Jim Carey basically assumed, full-time, the spirit/zeitgeist of Andy Kaufman/Bob Clifton in the outstanding movie _Man on the Moon_.
 
 But doing so required that I first re-watch _Man on the Moon_, which I hadn&#8217;t seen since it came out in 18 years ago. 

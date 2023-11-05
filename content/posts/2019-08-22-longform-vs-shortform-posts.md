@@ -1,13 +1,8 @@
----
-title: Longform vs. Shortform posts
-author: ziahassan
-type: post
-date: 2019-08-22T21:17:41+00:00
-url: /longform-vs-shortform-posts/
-categories:
-  - Uncategorized
++++
+title = "Longform Vs Shortform Posts"
+date = 2019-08-22
++++
 
----
 I feel like a capped fountain if I’m not writing daily. Another reason I write is because it’s a great way to ponder the mysteries of life. Writing and publishing can cause all sorts of healing. It’s thrilling when someone is affected by what you write, even if it’s just one person.
 
 But I mean this specifically with writing long form articles/posts on a blog (not a social media site). On a social media site like Facebook, everyone is watching and so it makes sense to write knowing that hundreds of people might immediately be exposed to your work.

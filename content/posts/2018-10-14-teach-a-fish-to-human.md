@@ -1,13 +1,8 @@
----
-title: Teach a Fish to Human
-author: ziahassan
-type: post
-date: 2018-10-14T22:00:00+00:00
-url: /teach-a-fish-to-human/
-categories:
-  - Uncategorized
++++
+title = "Teach A Fish To Human"
+date = 2018-10-14
++++
 
----
 Give a person a fish and you’ll feed them for a day. 
 
 Teach a person to fish and you’ll feed them for a lifetime.

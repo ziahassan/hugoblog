@@ -1,11 +1,8 @@
----
-title: Why January is the Worst
-author: ziahassan
-type: post
-date: 2022-02-11T23:23:41+00:00
-url: /why-january-is-the-worst/
++++
+title = "Why January Is The Worst"
+date = 2022-02-11
++++
 
----
 January is the worst month. It’s a slog.
 
 It’s unreasonably cold (relative to your usual weather).

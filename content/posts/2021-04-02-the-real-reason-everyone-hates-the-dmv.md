@@ -1,13 +1,8 @@
----
-title: The Real Reason Everyone Hates the DMV
-author: ziahassan
-type: post
-date: 2021-04-03T02:02:40+00:00
-url: /the-real-reason-everyone-hates-the-dmv/
-categories:
-  - Uncategorized
++++
+title = "The Real Reason Everyone Hates The Dmv"
+date = 2021-04-02
++++
 
----
 Imagine if you arrived and were handed a number. You sit down and watch the numbers scroll through, one by one. You’re #45, and they’re on #17. No problem, you think. It’s a long wait, but it keeps getting closer.
 
 But this isn’t what happens at the DMV. Instead, you get a letter AND a number. And instead of watching a chronological path from a lower number to your higher number, you instead watch as random letters and numbers are called before you. 

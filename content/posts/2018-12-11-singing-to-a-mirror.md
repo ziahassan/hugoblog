@@ -1,13 +1,8 @@
----
-title: Singing to a Mirror
-author: ziahassan
-type: post
-date: 2018-12-11T13:51:41+00:00
-url: /singing-to-a-mirror/
-categories:
-  - Uncategorized
++++
+title = "Singing To A Mirror"
+date = 2018-12-11
++++
 
----
 Songwriting is reflective by its very nature. Writing lyrics is a kind of therapy, of course. But how those lyrics are presented, the texture of the music, the sentiment of the chord changes, the choice of instruments&#8230; all of these artistic choices are part of a reflective process.
 
 Because when artists look inward, we&#8217;re sometimes confronted with stuff we&#8217;d rather not acknowledge. Other times, it&#8217;s stuff we were actually searching for, like an understanding of why we feel what we feel.

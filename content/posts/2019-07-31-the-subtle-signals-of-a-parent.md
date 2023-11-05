@@ -1,13 +1,13 @@
----
-title: The Subtle Signals of a Parent
-author: ziahassan
-type: post
-date: 2019-07-31T11:22:49+00:00
-url: /the-subtle-signals-of-a-parent/
-categories:
-  - Uncategorized
++++
+title = "The Subtle Signals Of A Parent"
+date = 2019-07-31
++++
 
----
++++
+title = "07"
+date = 2019
++++
+
 On my third birthday, after getting terrified by a gigantic mouse at Chuck E Cheese, I came home to open presents. The first gift I unwrapped was a camera. It was a fisher price one that actually used film, and I didn&#8217;t care about any other gifts after I opened that one.
 
 The reason I was so obsessed was because my dad had a camera. I saw him use it all the time and I was fascinated by it. So fascinated that my parents got me one of my own. I still remember not understanding that film could be exposed, and ruining my first set of photos by excitedly opening the back compartment.

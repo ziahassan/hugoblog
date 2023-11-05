@@ -1,13 +1,8 @@
----
-title: Some Complaints about Podcasts
-author: ziahassan
-type: post
-date: 2019-06-05T01:08:45+00:00
-url: /some-complaints-about-podcasts/
-categories:
-  - Uncategorized
++++
+title = "Some Complaints About Podcasts"
+date = 2019-06-04
++++
 
----
 Podcasts are slowly becoming my favorite medium, and from talking to friends and family, it seems I’m not the only one. I started listening to podcasts back in the dark ages of 2010, before Serial. And I even spent time producing [my own][1] back in 2011, interviewing whomever I could, and telling whatever stories I could possibly come up with.
 
 Then Serial came out, with its NPR sleekness and vocal fry, and what followed was somewhat of a podcasting revolution. Blogs fell out of fashion, and even videos (which at one point were seen as the _new new hotness_) were taking a backseat to podcasts.

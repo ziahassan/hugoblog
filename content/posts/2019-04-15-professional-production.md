@@ -1,13 +1,8 @@
----
-title: Professional Production
-author: ziahassan
-type: post
-date: 2019-04-15T13:40:11+00:00
-url: /professional-production/
-categories:
-  - Uncategorized
++++
+title = "Professional Production"
+date = 2019-04-15
++++
 
----
 Sometimes after I play a gig, a sound engineer or someone from the crowd will approach me and tell me that they’d like to work with me and potentially record my music. I took someone up on this once, and we ended up with a pretty nice result.
 
 Sometimes I get Facebook messages that are similar. I once received one that said:

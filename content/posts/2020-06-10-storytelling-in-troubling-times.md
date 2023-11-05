@@ -1,13 +1,8 @@
----
-title: Storytelling in Troubling Times
-author: ziahassan
-type: post
-date: 2020-06-11T00:54:55+00:00
-url: /storytelling-in-troubling-times/
-categories:
-  - Uncategorized
++++
+title = "Storytelling In Troubling Times"
+date = 2020-06-10
++++
 
----
 I tell stories for a living and for my hobbies. The medium through which I tell the story doesn’t matter: it could be a guitar, a microphone, or a coat hanger. The mediums that generate me the most income become my job (technology) and the ones that generate the most satisfaction become my hobbies (songwriting).
 
 What draws me to stories, just like everyone else, is their structure; they have a beginning, a middle and an end. It’s a tried and true formula, though some storytellers play with the order of these elements.

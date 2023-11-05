@@ -1,15 +1,8 @@
----
-title: Ignoring Advice
-author: ziahassan
-type: post
-date: 2019-12-06T21:27:38+00:00
-url: /ignoring-advice/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";s:3:"yes";s:2:"id";N;s:21:"follower_notification";s:3:"yes";s:7:"license";s:19:"all-rights-reserved";s:14:"publication_id";s:2:"-1";s:6:"status";s:6:"public";s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "Ignoring Advice"
+date = 2019-12-06
++++
 
----
 I give and get advice all the time.   
 
 
@@ -30,4 +23,4 @@ So I give less. Because the appropriate advice for me is not necessarily the app
 Just because you&#8217;re like someone else, doesn&#8217;t mean that your life values and rules are appropriate for them, even if they&#8217;re looking for life values and rules (as many people do).   
 
 
-That&#8217;s because life values can only be realized by tuning into one&#8217;s self and maybe, just maybe, ignoring everything else for a time. 
+That&#8217;s because life values can only be realized by tuning into one&#8217;s self and maybe, just maybe, ignoring everything else for a time.

@@ -1,13 +1,8 @@
----
-title: Chemical Shortcuts
-author: ziahassan
-type: post
-date: 2020-02-18T20:25:09+00:00
-url: /chemical-shortcuts/
-categories:
-  - mind
++++
+title = "Chemical Shortcuts"
+date = 2020-02-18
++++
 
----
 We can use a stimulus to activate dopamine. We can take a chemical to activate more brain chemicals.
 
 It’s like our brain is just sitting there, _begging_ to be stimulated. The things with which we stimulate it vary from person to person. 

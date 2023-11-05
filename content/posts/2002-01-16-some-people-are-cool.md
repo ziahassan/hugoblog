@@ -1,17 +1,13 @@
----
-title: some people are cool.
-author: ziahassan
-type: post
-date: 2002-01-16T19:11:44+00:00
-excerpt: |
-  "Yeah it's morning. Usually I'm doing homework right about now but I finished my english project. AP world quiz... but it's open note. Of course I'm gonna fuck it up like normal."
-draft: true
-private: true
-url: /some-people-are-cool/
-categories:
-  - Uncategorized
++++
+title = "Some People Are Cool"
+date = 2002-01-16
++++
 
----
++++
+title = "01"
+date = 2002
++++
+
 So my parents made me talk to this college counselor/tutor last night. It was mad cool. She's a parent of a kindergartener, so she's reasonably young and she knows her shit. She's been around, college counseling and stuff. Anyway, I asked her what she got on her PSATS/SAT, she said lower than me&#8230; 1000. She had a 4.0 in high school though, she just was a bad test-taker. Then she told me the reason she went into tutoring was to get back at the test for being such a bitch for her. I thought that was so fuckin cool.  
 Yeah it's morning. Usually I'm doing homework right about now but I finished my english project. AP world quiz&#8230; but it's open note. Of course I'm gonna fuck it up like normal.
 

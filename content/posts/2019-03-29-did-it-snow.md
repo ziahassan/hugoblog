@@ -1,13 +1,8 @@
----
-title: Did it Snow?
-author: ziahassan
-type: post
-date: 2019-03-29T17:23:23+00:00
-url: /did-it-snow/
-categories:
-  - Uncategorized
++++
+title = "Did It Snow"
+date = 2019-03-29
++++
 
----
 The night before a potential snowstorm was magical. No snow had actually touched the ground yet, and of course, our parents made us do _all_ our homework even though the weather station was predicting a few inches in the morning because, hey, they could be wrong.
 
 So we’d go to sleep in the same way kids go to sleep on Christmas Eve. So excited you can’t sleep, but anxious because you _want_ to sleep so you can just fast forward to the next morning and see what you got.

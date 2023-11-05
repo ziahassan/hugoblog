@@ -1,13 +1,8 @@
----
-title: Stay in Control
-author: ziahassan
-type: post
-date: 2019-07-08T04:01:08+00:00
-url: /stay-in-control/
-categories:
-  - Uncategorized
++++
+title = "Stay In Control"
+date = 2019-07-08
++++
 
----
 Today, in the midst of quite a thunderstorm, I was parked near a auto repair shop. Through my windshield, which was streaked with rain, I noticed a sign that simply said: _stay in control._
 
 I immediately felt more grounded after reading it. I do teeter off sometimes, losing my control and poise, and as soon as I had read these very authoritative (nearly commanding) words, my mind snapped back to center. I felt victorious.

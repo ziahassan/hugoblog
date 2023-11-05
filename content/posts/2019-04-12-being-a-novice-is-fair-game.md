@@ -1,13 +1,8 @@
----
-title: Being a Novice is Fair Game
-author: ziahassan
-type: post
-date: 2019-04-13T00:23:32+00:00
-url: /being-a-novice-is-fair-game/
-categories:
-  - Uncategorized
++++
+title = "Being A Novice Is Fair Game"
+date = 2019-04-12
++++
 
----
 When I first started playing guitar and piano, every note and every chord were fair game. 
 
 When I started programming, a simple print hello world program was fair game. 

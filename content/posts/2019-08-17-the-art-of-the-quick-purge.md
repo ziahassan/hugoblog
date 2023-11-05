@@ -1,13 +1,8 @@
----
-title: The Art of the Quick Purge
-author: ziahassan
-type: post
-date: 2019-08-17T15:56:20+00:00
-url: /the-art-of-the-quick-purge/
-categories:
-  - Uncategorized
++++
+title = "The Art Of The Quick Purge"
+date = 2019-08-17
++++
 
----
 As I was building my recording studio in my early 20’s, it felt like I bought a new microphone every day. Not just microphones in fact, but pre-amps, software, headphones, guitars, and other various tools that I could use to make music. I’d buy some stuff, figure out it wasn’t for me, and then sell it on eBay or another site.
 
 People thought I was crazy. Of course, I rarely re-sold these items for more or equal to what I paid, so what was the point? Surely the difference between two high quality microphones wasn’t that big. Also, when would I stop this cycle and just be happy with what I have?

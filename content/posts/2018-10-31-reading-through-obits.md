@@ -1,13 +1,13 @@
----
-title: Reading Through Obits
-author: ziahassan
-type: post
-date: 2018-10-31T17:59:05+00:00
-url: /reading-through-obits/
-categories:
-  - Uncategorized
++++
+title = "Reading Through Obits"
+date = 2018-10-31
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 A few moments after my son was born recently, I had what David Allen calls BFO, a Blinding Flash of Obvious. This is a term used to describe thoughts that are obvious in hindsight but kind of revelatory in the present. BFOs are how most of the best fiction and comedy are written.
 
 My BFO: many people are born every day, and many die every day.

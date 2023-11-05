@@ -1,13 +1,8 @@
----
-title: No Gatekeepers?
-author: ziahassan
-type: post
-date: 2020-03-27T01:48:13+00:00
-url: /no-gatekeepers/
-categories:
-  - marketing
++++
+title = "No Gatekeepers"
+date = 2020-03-26
++++
 
----
 One of the arguments that many new media folks will invoke is that there are no longer any gatekeepers. It used to be that we had to create a piece of art that spoke to someone’s taste. That person, an A&R rep or whatever, would be the gatekeeper to the audience or the recording deal that we needed to be a massive success.
 
 Now, almost anyone can get famous if they have good enough content. The cream rises to the top. Or does it?

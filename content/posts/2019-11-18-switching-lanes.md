@@ -1,11 +1,13 @@
----
-title: Switching Lanes
-author: ziahassan
-type: post
-date: 2019-11-18T22:30:59+00:00
-url: /switching-lanes/
++++
+title = "Switching Lanes"
+date = 2019-11-18
++++
 
----
++++
+title = "11"
+date = 2019
++++
+
 This is purely anecdotal, but I see it all the time: those who switch lines furiously on the highway are also _terrible_ at using their signal. Yet, [research][1] has shown that switching lanes frequently doesn’t take many minutes off of our trip. We’ll still get to our destination at about the same time.
 
 It makes me think of the book Faster Smarter Better by Charles Duhigg, the author tells us that having autonomy can make us feel like we’re in charge, and therefore more motivated to do a task.

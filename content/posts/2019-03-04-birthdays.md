@@ -1,13 +1,8 @@
----
-title: Birthdays
-author: ziahassan
-type: post
-date: 2019-03-04T14:15:37+00:00
-url: /birthdays/
-categories:
-  - Uncategorized
++++
+title = "Birthdays"
+date = 2019-03-04
++++
 
----
 Today’s my 34th birthday. I’ve discovered, especially in recent years, that my relationship with birthdays is complicated.
 
 On my birthday as a kid, sometimes it felt like time stopped. It was a normal day for everyone else, but for me, it was a revelation. I’d notice details that I didn’t see on other days, and words people said to me meant more. There are certain stories and situations that are fairly mundane that I remember from birthdays when I was a kid.

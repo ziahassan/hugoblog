@@ -1,13 +1,8 @@
----
-title: What’s the Point of Finishing a Book?
-author: ziahassan
-type: post
-date: 2020-06-11T22:19:47+00:00
-url: /whats-the-point-of-finishing-a-book/
-categories:
-  - Uncategorized
++++
+title = "Whats The Point Of Finishing A Book"
+date = 2020-06-11
++++
 
----
 Unless you want to, of course. 
 
 But when people begin posting their tapestry of all the books they’ve read in the year to social media, it’s a vanity metric, as Nadal Ravikant says in [this clip][1] from Joe Rogan.

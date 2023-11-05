@@ -1,15 +1,8 @@
----
-title: step outside.
-author: ziahassan
-type: post
-date: 2003-03-18T00:39:12+00:00
-draft: true
-private: true
-url: /step-outside/
-categories:
-  - Uncategorized
++++
+title = "Step Outside"
+date = 2003-03-18
++++
 
----
 David you're probably gonna be the first person to read this. Or maybe the only.
 
 I've been telling everyone to step outside recently, and what I mean is, step outside of your stress, your tension, whatevers holding you down. Once you step outside of that and take a look at yourself, it all seems so meaningless and stupid. I forget how to do that sometimes, and it takes some effort. Elyssa said she took my advice and it made her feel better about life, so I'm kinda glad. It's interesting, Billy doesn't ever get stressed. Well he mentioned being stressed about college apps and stuff, but generally he's pretty calm about things. If there's one thing I admire about Billy it's that thing. I wish I could be like that &#8211; and recently I've been moving more in that direction.

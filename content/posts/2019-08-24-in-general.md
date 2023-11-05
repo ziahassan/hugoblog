@@ -1,13 +1,8 @@
----
-title: In General
-author: ziahassan
-type: post
-date: 2019-08-24T11:35:52+00:00
-url: /in-general/
-categories:
-  - Uncategorized
++++
+title = "In General"
+date = 2019-08-24
++++
 
----
 I&#8217;m addicted to researching topics on the internet. If I&#8217;m going through something (fatherhood, an illness, buying a car), I soak up as much information as possible from people on the web. 
 
 Anecdotal stories about how to sleep train, and what nutritional plan works best are helpful because they let me zoom in on actual stories. 

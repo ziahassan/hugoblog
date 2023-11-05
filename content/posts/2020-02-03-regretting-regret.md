@@ -1,13 +1,8 @@
----
-title: Regretting Regret
-author: ziahassan
-type: post
-date: 2020-02-03T14:47:41+00:00
-url: /regretting-regret/
-categories:
-  - spirituality
++++
+title = "Regretting Regret"
+date = 2020-02-03
++++
 
----
 It’s a total coincidence that I happened to post about Mark Manson’s article yesterday because I read another one of his pieces this morning and it connected to one of the ideas on my ongoing list of potential blog topics.
 
 And that is, the idea of regret. 

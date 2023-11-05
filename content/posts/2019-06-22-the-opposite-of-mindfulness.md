@@ -1,13 +1,8 @@
----
-title: 'Social Media: The Opposite of Mindfulness'
-author: ziahassan
-type: post
-date: 2019-06-22T21:00:42+00:00
-url: /the-opposite-of-mindfulness/
-categories:
-  - Uncategorized
++++
+title = "The Opposite Of Mindfulness"
+date = 2019-06-22
++++
 
----
 In meditation, we sit in pure observation of our thoughts. We purposefully go out of our minds for a brief and beautiful few moments. We see it all, the pain, the joy, and the wonder, from the outside, mostly to remind ourselves that there _is_ an outside.
 
 And we can almost sustain it. After spending two minutes in Zazen this morning, I left feeling energized and positive, ready for a day of doing my job and not even caring that it&#8217;s a weekend because I love what I do.

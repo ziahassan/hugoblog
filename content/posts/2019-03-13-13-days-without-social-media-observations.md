@@ -1,13 +1,13 @@
----
-title: 13 Days Without Social Media (observations)
-author: ziahassan
-type: post
-date: 2019-03-13T14:27:23+00:00
-url: /13-days-without-social-media-observations/
-categories:
-  - Uncategorized
++++
+title = "13 Days Without Social Media Observations"
+date = 2019-03-13
++++
 
----
++++
+title = "03"
+date = 2019
++++
+
 When I woke up on March 1st, I rolled over in my bed and grabbed my phone off of my bedside table and immediately opened Facebook. After 15 minutes of browsing, my screen time reminder kicked in and told me that I was done for the day and that it was about to block the app… but that I had the option of keeping the app open if I wanted to, and ignoring the reminder.
 
 I thought about asking my wife to set a screen time passcode that only she knew, so I wouldn’t be able to access the app as easily. Then I realized that even _having_ a thought like that meant my addiction had run a little too deep and it was time to take a break.

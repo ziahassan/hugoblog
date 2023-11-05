@@ -1,13 +1,13 @@
----
-title: Small Talk vs. Large Talk (Your Rich Inner Life)
-author: ziahassan
-type: post
-date: 2018-06-16T20:55:26+00:00
-url: /small-talk-vs-large-talk-and-your-rich-inner-life/
-categories:
-  - Uncategorized
++++
+title = "Small Talk Vs Large Talk And Your Rich Inner Life"
+date = 2018-06-16
++++
 
----
++++
+title = "06"
+date = 2018
++++
+
 A message you’ll see a lot in social media is “you are loved.” But a blanket statement to a thousand friends looks nice on the surface and is relatively useless under the hood.
 
 What matters is not what cover photo you have on your Facebook or Instagram. What matters is curiosity about those things that exist outside of yourself.

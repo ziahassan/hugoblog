@@ -1,13 +1,13 @@
----
-title: I Wish for Nuance
-author: ziahassan
-type: post
-date: 2018-12-22T14:47:06+00:00
-url: /i-wish-for-nuance/
-categories:
-  - Uncategorized
++++
+title = "I Wish For Nuance"
+date = 2018-12-22
++++
 
----
++++
+title = "12"
+date = 2018
++++
+
 This holiday season, I wish for nuance. If I could give each person a gift, it&#8217;d be nuance wrapped in a bow.
 
 I wish for nuance in our news headlines. Our diets and workout plans. Our political stances. Our religions.

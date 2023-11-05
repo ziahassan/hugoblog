@@ -1,13 +1,13 @@
----
-title: Punishment by YouTube
-author: ziahassan
-type: post
-date: 2019-05-01T21:46:00+00:00
-url: /punishment-by-youtube/
-categories:
-  - Uncategorized
++++
+title = "Punishment By Youtube"
+date = 2019-05-01
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 A recent trend on YouTube are kids filming themselves punishing their children. In one of these videos, a father filmed his daughter walking to school from his car. He explains, at the start of the video, that she had been bullying other kids on the school bus and therefore had been kicked off the bus, for the second time in one week. 
 
 The daughter seems to be unaware that she’s being filmed, and the father is giving the camera a monologue about how unacceptable bullying is, and how he’s against kids thinking they’re entitled to things, like being able to ride the bus in the morning.

@@ -1,13 +1,13 @@
----
-title: Preparing Tea
-author: ziahassan
-type: post
-date: 2019-04-02T14:11:34+00:00
-url: /preparing-tea/
-categories:
-  - Uncategorized
++++
+title = "Preparing Tea"
+date = 2019-04-02
++++
 
----
++++
+title = "04"
+date = 2019
++++
+
 I always forget when I visit the UK how much of a love the Brits have for drinking tea. And surely, growing up, my mom who lived in Pakistan for her childhood was a very vehement tea drinker. Her cup would be filled with milky white tea every day, and she even had biscuits to go along with it. 
 
 My childhood experience watching people with coffee was a whole other thing. People who drank coffee seemed to do it carelessly, slinging the coffee cup around and letting it splash everywhere. I have the distinct memory of a cartoon where someone literally tossed the liquid from a coffee cup into the air and caught it in their mouth on the way out the door. 

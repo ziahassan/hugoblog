@@ -1,15 +1,8 @@
----
-title: the center of the earth.
-author: ziahassan
-type: post
-date: 2002-01-27T16:33:34+00:00
-draft: true
-private: true
-url: /the-center-of-the-earth/
-categories:
-  - Uncategorized
++++
+title = "The Center Of The Earth"
+date = 2002-01-27
++++
 
----
 Let me tell you how the center of the earth feels. It feels like ice and fire at the same time, like mother nature is smiling on you but every single god is cursing you. It feels like you've won the lottery but lost the ambition to buy anything. Or, bought a car but have nowhere to drive to. A nice car.
 
 If you know what I'm talking about, you're at the center of the earth.

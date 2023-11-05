@@ -1,13 +1,8 @@
----
-title: How Much News is Useless?
-author: ziahassan
-type: post
-date: 2020-02-02T23:48:50+00:00
-url: /how-much-news-is-useless/
-categories:
-  - social media
++++
+title = "How Much News Is Useless"
+date = 2020-02-02
++++
 
----
 This morning, I read Mark Manson’s [assessment][1] that most news is irrelevant and not actually useful. I’ve long felt this way about most social media posts; that either someone is posting something helpful intentionally, or they are posting something that increases their own status and doesn’t really help anyone but themselves.
 
 I never thought of news as having the same quality, but now that I’ve read Mark’s piece… _of course it does._

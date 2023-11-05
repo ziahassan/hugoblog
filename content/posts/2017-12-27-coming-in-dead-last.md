@@ -1,13 +1,8 @@
----
-title: Coming in Dead Last
-author: ziahassan
-type: post
-date: 2017-12-27T04:42:37+00:00
-url: /coming-in-dead-last/
-categories:
-  - Uncategorized
++++
+title = "Coming In Dead Last"
+date = 2017-12-27
++++
 
----
 I recently saw a relative of mine posting about their child coming in last in some athletic competitions at their school. My relative congratulated her child anyway, and told her that participating, not winning, is the most important part of competing.
 
 It made me think about my childhood. Frequently, I came in last in races (of any kind). Not second to last, or somewhere in the back of the pack, but _dead last_. And I remember my sister once coming in dead last at a horseback riding competition. (I guess it runs in the family.)

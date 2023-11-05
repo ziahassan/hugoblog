@@ -1,13 +1,13 @@
----
-title: Training and Trains
-author: ziahassan
-type: post
-date: 2019-05-14T18:42:23+00:00
-url: /training-and-trains/
-categories:
-  - Uncategorized
++++
+title = "Training And Trains"
+date = 2019-05-14
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 Two years ago I switched careers from being a teacher to being a trainer. What is the difference between a trainer and a teacher anyway?
 
 There isn’t much. The biggest difference seems to be in semantics, that teaching is more related to academic or personal skills, and that training is related to careers and jobs. In other words, teaching will benefit the individual, but training will provide skills that benefit an organization of some kind. 

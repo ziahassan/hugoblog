@@ -1,13 +1,8 @@
----
-title: The Good Ol’ Days
-author: ziahassan
-type: post
-date: 2018-12-19T16:33:00+00:00
-url: /the-good-ol-days/
-categories:
-  - Uncategorized
++++
+title = "The Good Ol Days"
+date = 2018-12-19
++++
 
----
 I was sitting with someone recently at a work event, and I was talking about my newborn.
 
 “Enjoy it,” he told me. “I wish I had. I was so stressed about everything when my daughter was born. Now I realize, those were the good ol’ days.”

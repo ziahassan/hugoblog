@@ -1,13 +1,13 @@
----
-title: Ode to Marble Run
-author: ziahassan
-type: post
-date: 2019-06-03T02:39:20+00:00
-url: /ode-to-marble-run/
-categories:
-  - Uncategorized
++++
+title = "Ode To Marble Run"
+date = 2019-06-02
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 There were so many toys growing up, so many interesting obsessions and fascinations.
 
 The slinky, a world of wonder. The physics that we didn’t need — didn’t _want_— to understand and the joy of watching the mystery unfold right in front of us.

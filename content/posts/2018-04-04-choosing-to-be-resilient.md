@@ -1,13 +1,8 @@
----
-title: Choosing to be Resilient
-author: ziahassan
-type: post
-date: 2018-04-04T23:13:15+00:00
-url: /choosing-to-be-resilient/
-categories:
-  - Uncategorized
++++
+title = "Choosing To Be Resilient"
+date = 2018-04-04
++++
 
----
 I used to think that a happy person was someone full of smiles. Someone who, upon hearing tragic news, would shrug it off and smell the roses. Someone who you couldn’t shatter with bad news. A happy person, to me, was invincible. And sometimes, you’ll hear this adage that you can _choose_ to be happy if you want to be.
 
 But considering that in 33 years, I’ve never met such a person, perhaps we shouldn’t spread this idea of happiness being a choice. It’s too simple. 

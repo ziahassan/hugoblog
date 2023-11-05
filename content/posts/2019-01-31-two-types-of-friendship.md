@@ -1,15 +1,13 @@
----
-title: Two Types of Friendship
-author: ziahassan
-type: post
-date: 2019-01-31T18:41:25+00:00
-url: /two-types-of-friendship/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "Two Types Of Friendship"
+date = 2019-01-31
++++
 
----
++++
+title = "01"
+date = 2019
++++
+
 There are two types of friendships.
 
 The first one, or the one that most of us are accustomed to, is spread across days like jelly. We start small, maybe in a class or at the office, getting to know each other. Maybe we have a meal or a coffee and figure out what we have in common. 

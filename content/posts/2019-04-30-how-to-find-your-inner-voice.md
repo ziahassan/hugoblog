@@ -1,13 +1,8 @@
----
-title: How to Find Your Inner Voice
-author: ziahassan
-type: post
-date: 2019-05-01T01:22:49+00:00
-url: /how-to-find-your-inner-voice/
-categories:
-  - Uncategorized
++++
+title = "How To Find Your Inner Voice"
+date = 2019-04-30
++++
 
----
 I’ve always thought that the idea of an inner voice was a little bit over the top. When I was at the peak of my religious phase in 8th grade, I read the book _Conversations with God._ The idea of this book, if you don’t know about it, is that a man gets really mad one day and starts to write a letter to God, and to his surprise, God writes back… through him, by manipulating his arm and forcing him to write a response.
 
 Of course, after being in kind of a wondrous phase with the book, I came to understand the truth which is that this guy is delusional or perhaps a great con-artist and is writing religious fan fiction. But Oprah and Barnes and Noble and everyone else ate it up. Even my freakin’ Grandmother read Conversations with God.

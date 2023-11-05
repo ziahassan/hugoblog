@@ -1,13 +1,8 @@
----
-title: Why Automate?
-author: ziahassan
-type: post
-date: 2019-04-21T19:07:59+00:00
-url: /why-automate/
-categories:
-  - Uncategorized
++++
+title = "Why Automate"
+date = 2019-04-21
++++
 
----
 Many people, when they enter my home, notice that I have four echo dots scattered across my house. At first, they wonder why I would need so many echo dots, until they see how I use them:
 
   * multiple cooking timers

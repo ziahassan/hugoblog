@@ -1,15 +1,8 @@
----
-title: cast parties are awesome, sorta.
-author: ziahassan
-type: post
-date: 2002-01-13T19:08:49+00:00
-draft: true
-private: true
-url: /cast-parties-are-awesome-sorta/
-categories:
-  - Uncategorized
++++
+title = "Cast Parties Are Awesome Sorta"
+date = 2002-01-13
++++
 
----
 hit parade was damn fun last night. the cast party was soooo great, all the theater guys know how to have a good time.  
 somehow i just feel outta place. i'm considering not trying out for brigadoon for a few reasons. 1, for the past two shows i've been feeling so weird, so outta place and lonely. and 2, junior year is kickin my ass and I have to somehow keep my grades up. it's gonna be hard with a musical going on&#8230; i had a hard time just managing hit parade. fuck it, i'm gonna audition, i know i am. there's no way i'd miss out. it's my last show with a buncha my good friends. and probably my first with a buncha new ones.
 

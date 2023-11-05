@@ -1,13 +1,8 @@
----
-title: Crying in a Treehouse (Over-processing)
-author: ziahassan
-type: post
-date: 2019-05-25T13:42:32+00:00
-url: /crying-in-a-treehouse-over-processing/
-categories:
-  - Uncategorized
++++
+title = "Crying In A Treehouse Over Processing"
+date = 2019-05-25
++++
 
----
 One of the habits of highly sensitive people it seems is to take a long time to process something. I often describe it to my therapist as understanding what just happened when I’m already two miles away. I see the activating event in the rear view but at this point there’s nothing I can do about it.
 
 It reminds me of George Constanza’s famous line in Seinfield: _that’s what I should’ve said._ Only in my case it’s something I should have done as well. I get flustered a lot in the moment, and can often form a more coherent response later on when it’s too late.

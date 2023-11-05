@@ -1,13 +1,8 @@
----
-title: New Problems in Education
-author: ziahassan
-type: post
-date: 2018-01-06T19:18:52+00:00
-url: /new-problems-in-education/
-categories:
-  - Uncategorized
++++
+title = "New Problems In Education"
+date = 2018-01-06
++++
 
----
 A friend of mine posted an article about 6 problems in education… and I realized that we’ve heard these arguments over and over for the past decade or so, and videos and articles like these keep being made. 
 
 Hasn’t anyone paid attention to the work being in done in schools to address these issues? Yes, we’re a long way from progressive being the norm, but here’s my breakdown of the video which is linked [here][1].

@@ -1,14 +1,13 @@
----
-title: What Do You Say to a Kid?
-author: ziahassan
-type: post
-date: 2019-12-03T17:06:47+00:00
-url: /what-do-you-say-to-a-kid/
-categories:
-  - Kids
-  - Parenting
++++
+title = "What Do You Say To A Kid"
+date = 2019-12-03
++++
 
----
++++
+title = "12"
+date = 2019
++++
+
 Recently, I invited a friend of mine over to meet my son. This friend voiced their concern that they’re not “good with kids.” They don’t know what to say, it’s always awkward, they told me. Coincidentally, this was the same week that SNL posted its funny [Duolingo for kids][1] sketch.
 
 While the sketch is funny, it does identify an interesting problem. As parents, we know what to say to our kids to keep them organized, to hear about their feelings, to communicate with them. And when we meet another adult, we can make small talk about the weather and work. But what about meeting a kid that you don’t know? What is the kid version of small talk? The adult version doesn’t seem to work.

@@ -1,13 +1,8 @@
----
-title: The Water Bottle Stories
-author: ziahassan
-type: post
-date: 2019-03-25T11:48:43+00:00
-url: /the-water-bottle-stories/
-categories:
-  - Uncategorized
++++
+title = "The Water Bottle Stories"
+date = 2019-03-25
++++
 
----
 One weird quirk about me that is that I&#8217;ve always been sort of opposed to drinking water over other beverages. The times in my life where I have developed a water habit have only happened for health reasons, not because I had suddenly developed a taste for it. 
 
 At restaurants, glasses of water always looked unappealing to me. Due to the transparent nature of the water, I could see all the dust, leftover grime, dishwasher streaks, and floaters.

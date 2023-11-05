@@ -1,13 +1,8 @@
----
-title: How Words Stick to My Teeth
-author: ziahassan
-type: post
-date: 2019-03-19T01:48:31+00:00
-url: /how-words-stick-to-my-teeth/
-categories:
-  - Uncategorized
++++
+title = "How Words Stick To My Teeth"
+date = 2019-03-18
++++
 
----
 I have an amazing long-term memory. My short term memory is total shit, but my long term memory amazes me on a daily basis (and many of my friends as well).
 
 My memory’s so good that in ninth grade, I was at a movie theater and noticed that the guy who was selling tickets was a friend of mine that I sat next to all of second grade. He moved away from that school for third, so I hadn’t seen him since. 

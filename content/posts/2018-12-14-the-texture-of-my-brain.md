@@ -1,13 +1,8 @@
----
-title: The Texture of My Mind
-author: ziahassan
-type: post
-date: 2018-12-14T14:23:59+00:00
-url: /the-texture-of-my-brain/
-categories:
-  - Uncategorized
++++
+title = "The Texture Of My Brain"
+date = 2018-12-14
++++
 
----
 One of my in-laws once said that therapy isn&#8217;t akin to cleaning out your attic; rather, it&#8217;s like turning on a light. It always intrigued me, and I believe in proactive and preventative care, so I promised myself I&#8217;d try it if I could.
 
 Over the last few months, I&#8217;ve walked away from each of my therapy sessions with a new insight. A new piece of info about how my brain works, about how I communicate. About how others in my life communicate, and how I can tune into this to be more harmonious with them.

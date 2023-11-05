@@ -1,13 +1,8 @@
----
-title: Layers in Cash Transfer Apps
-author: ziahassan
-type: post
-date: 2018-12-07T00:58:04+00:00
-url: /layers-in-cash-transfer-apps/
-categories:
-  - Uncategorized
++++
+title = "Layers In Cash Transfer Apps"
+date = 2018-12-06
++++
 
----
 I was explaining Venmo/Cash transfer apps to a person who is firmly part of the generation above me.
 
 “So you can see people’s transactions?” he asked me, wide-eyed.

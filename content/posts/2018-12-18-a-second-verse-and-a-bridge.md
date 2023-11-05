@@ -1,13 +1,13 @@
----
-title: A Second Verse and a Bridge
-author: ziahassan
-type: post
-date: 2018-12-18T14:23:42+00:00
-url: /a-second-verse-and-a-bridge/
-categories:
-  - Uncategorized
++++
+title = "A Second Verse And A Bridge"
+date = 2018-12-18
++++
 
----
++++
+title = "12"
+date = 2018
++++
+
 Many songwriters know this feeling. You write a great song, and you call it a song even though you still need to write a second verse and a bridge.
 
 And the thing is, the second verse and bridge are _infinitely_ harder to write.

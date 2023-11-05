@@ -1,15 +1,13 @@
----
-title: koss headphones.
-author: ziahassan
-type: post
-date: 2003-01-13T19:52:18+00:00
-draft: true
-private: true
-url: /koss-headphones/
-categories:
-  - Uncategorized
++++
+title = "Koss Headphones"
+date = 2003-01-13
++++
 
----
++++
+title = "01"
+date = 2003
++++
+
 I wanted those headphones that they had in store, the Koss Td-80's. The sound is phenomenal on those baby's. I went out and bought them and they sucked. So uncomfortable. So I traded them in for the newer model. I wear them now but I just put on my old sony's. What a warm sound. Sure it's a little muddy sometimes&#8230; but it's so comfortable. You really forget that they are on your head. I need create a headphone one day that does what the TD-80 does, with the comfort of the Sony's. You think that the Koss people would take that into account when they are making their phones! But no.
 
 Anyway. Today was a typical Monday. I woke in an OK mood cuz I had done most of my homework. My sister had a science project to attend to, so I ended up just driving myself and Christine to school. It was nice for her to be in the front for a change.

@@ -1,13 +1,8 @@
----
-title: As Time Goes By, For a Bird
-author: ziahassan
-type: post
-date: 2018-12-07T14:06:00+00:00
-url: /as-time-goes-by-for-a-bird/
-categories:
-  - Uncategorized
++++
+title = "As Time Goes By For A Bird"
+date = 2018-12-07
++++
 
----
 When I was 12, my parents got an African grey parrot.
 
 At first, we just wanted Coco to talk, because that is what we understood parrots do.

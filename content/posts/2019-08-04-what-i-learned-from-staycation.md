@@ -1,13 +1,8 @@
----
-title: What I Learned From Staycation
-author: ziahassan
-type: post
-date: 2019-08-04T19:40:06+00:00
-url: /what-i-learned-from-staycation/
-categories:
-  - Uncategorized
++++
+title = "What I Learned From Staycation"
+date = 2019-08-04
++++
 
----
 If you’re unaware, a staycation is a vacation where you don’t vacate &#8211; you stay at home and either enjoy low key activities or explore the city in which you live.
 
 My wife and I decided to do one recently. During that time we went kayaking, bought a new car, saw a movie in theaters, planned for our son’s birthday party and much more. The extra time to reflect was beneficial and taught me a lot of lessons. 

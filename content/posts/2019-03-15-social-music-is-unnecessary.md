@@ -1,13 +1,8 @@
----
-title: Social Music is Unnecessary
-author: ziahassan
-type: post
-date: 2019-03-16T00:57:16+00:00
-url: /social-music-is-unnecessary/
-categories:
-  - Uncategorized
++++
+title = "Social Music Is Unnecessary"
+date = 2019-03-15
++++
 
----
 When Spotify came out in the US, I was among the first people to use it. With a seemingly endless catalog, it was a dream come true for a music fan like me. 
 
 Up until Spotify, I’d gone through a record player, walkman, many discmen, a Creative Zen MP3 player, an iPod, and even an iPod Touch. For acquiring music, I went from records to tapes to CDs to Napster to Limewire to BearShare to Kazaa to AudioGalaxy and finally to invite-only Oink torrents.

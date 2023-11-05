@@ -1,13 +1,8 @@
----
-title: The Danger of the Noodle Power Structure
-author: ziahassan
-type: post
-date: 2019-01-13T16:59:36+00:00
-url: /the-danger-of-the-noodle-power-structure/
-categories:
-  - Uncategorized
++++
+title = "The Danger Of The Noodle Power Structure"
+date = 2019-01-13
++++
 
----
 Years ago, I had a set of supervisors whom I would describe as _noodles._
 
 A noodle is a people-manager who is rigid in their ways, but breaks very easily. When you put a noodle in metaphorical hot water, they bend and curl up, letting fear and pain drive their choices. They are destined to live their days in boiling broth swimming around in a pathetic loop of hate-fear.

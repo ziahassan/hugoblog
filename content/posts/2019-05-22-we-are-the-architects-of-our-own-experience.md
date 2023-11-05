@@ -1,15 +1,8 @@
----
-title: We are the Architects of Our Own Experience
-author: ziahassan
-type: post
-date: 2019-05-22T16:47:42+00:00
-url: /we-are-the-architects-of-our-own-experience/
-medium_post:
-  - 'O:11:"Medium_Post":11:{s:16:"author_image_url";N;s:10:"author_url";N;s:11:"byline_name";N;s:12:"byline_email";N;s:10:"cross_link";N;s:2:"id";N;s:21:"follower_notification";N;s:7:"license";N;s:14:"publication_id";N;s:6:"status";N;s:3:"url";N;}'
-categories:
-  - Uncategorized
++++
+title = "We Are The Architects Of Our Own Experience"
+date = 2019-05-22
++++
 
----
 On the first day of Kindergarten, my teacher told all of us newbies that we were in the process of creating a building. That we could think of each thing we learned as a brick in that building. And by the time we got to the high school, our building would have a roof, and we&#8217;d be able to use the building to create new opportunities for ourselves.
 
 And yesterday, I heard the quote that we are the architects of our own experience. The person who said it didn&#8217;t know where it came from, but it made me think about that first day of Kindergarten. I remember being excited for the building that I was going to make, and then I got so wrapped up in the brick laying that I forgot about the building as an entity.

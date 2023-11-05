@@ -1,13 +1,8 @@
----
-title: True Empathy
-author: ziahassan
-type: post
-date: 2020-11-21T05:17:19+00:00
-url: /true-empathy/
-categories:
-  - Uncategorized
++++
+title = "True Empathy"
+date = 2020-11-21
++++
 
----
 Empathy is an exercise. A rep of this exercise is considering another person’s point of view, and attempting to wear their shoes, and feel their pain. 
 
 We’d like to think we are the empathetic type, that we can easily feel the pain of others. But the exercise of empathy works deeper muscles. 

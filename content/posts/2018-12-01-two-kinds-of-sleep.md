@@ -1,13 +1,8 @@
----
-title: Two Kinds of Sleep
-author: ziahassan
-type: post
-date: 2018-12-02T02:45:46+00:00
-url: /two-kinds-of-sleep/
-categories:
-  - Uncategorized
++++
+title = "Two Kinds Of Sleep"
+date = 2018-12-01
++++
 
----
 There are two kinds of sleep. We can’t meaningfully control which one we get when we fall, but we can tell which one it was when we wake up.
 
 The first kind feels like a recharge. It feels like being tired when we get into bed, and slightly less tired when we wake up. Sometimes, we’re not quite sure how we slept until hours later, when we’re head down at our cubicle. Other times, we make it through the day just fine, even without coffee. 

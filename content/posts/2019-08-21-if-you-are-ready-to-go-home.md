@@ -1,13 +1,13 @@
----
-title: If You Are Ready to Go Home
-author: ziahassan
-type: post
-date: 2019-08-21T22:23:45+00:00
-url: /if-you-are-ready-to-go-home/
-categories:
-  - Uncategorized
++++
+title = "If You Are Ready To Go Home"
+date = 2019-08-21
++++
 
----
++++
+title = "08"
+date = 2019
++++
+
 A common message that we heard from our parents and teachers growing up is _never give up._
 
 But in the movie Moana, this conventional wisdom is reversed in a [subtle moment][1] toward the end of the film. There’s a scene in Moana where she feels like giving up and she confronts the spirit of her grandmother to seek advice. Normally in these situations, especially in kids movies, the wise old sage will tell the warrior not to give up. But Moana’s grandmother doesn’t do this; instead, she says “If you are ready to go home, I will be with you.”

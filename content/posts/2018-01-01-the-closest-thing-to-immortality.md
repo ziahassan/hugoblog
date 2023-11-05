@@ -1,13 +1,13 @@
----
-title: The Closest Thing to Immortality
-author: ziahassan
-type: post
-date: 2018-01-01T22:35:58+00:00
-url: /the-closest-thing-to-immortality/
-categories:
-  - Uncategorized
++++
+title = "The Closest Thing To Immortality"
+date = 2018-01-01
++++
 
----
++++
+title = "01"
+date = 2018
++++
+
 Ever since Ray Dalio’s book Principles arrived, many people have been thinking less in terms of _goals_ and more in terms of _principles_. In other words, it’s less about _how_ we do something and more about _why_ we do it. This aligns also with the work of Simon Sinek (Start With the Why). 
 
 I recently thought about my own set of principles. From just a quick brainstorming session in my journal, here are three of mine. I’m giving myself permission to change or add to these later.

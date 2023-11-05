@@ -1,13 +1,8 @@
----
-title: At Whom Do We Smile?
-author: ziahassan
-type: post
-date: 2018-11-15T23:48:11+00:00
-url: /who-are-we-smiling-at/
-categories:
-  - Uncategorized
++++
+title = "Who Are We Smiling At"
+date = 2018-11-15
++++
 
----
 When someone takes a photo of us, we are asked to smile. But at whom?
 
 It&#8217;s not the person taking the picture, so it must be the camera. 

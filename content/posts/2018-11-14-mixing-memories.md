@@ -1,13 +1,13 @@
----
-title: Mixing Memories
-author: ziahassan
-type: post
-date: 2018-11-14T16:34:38+00:00
-url: /mixing-memories/
-categories:
-  - Uncategorized
++++
+title = "Mixing Memories"
+date = 2018-11-14
++++
 
----
++++
+title = "11"
+date = 2018
++++
+
 I’ve had this situation happen when I feel like I have a memory that is so perfectly wedged into my mind, only to watch a videotape of the memory later on and find out that what I remembered isn’t what actually happened.
 
 Or, I’ll have a memory is speckled with details from another memory. I’ll remember the correct sequence of events, but I’ll remember Bill making a particular comment when it was really Steve.

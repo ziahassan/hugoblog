@@ -1,13 +1,13 @@
----
-title: The Difference Between a Teacher and a Learner
-author: ziahassan
-type: post
-date: 2019-05-29T20:09:48+00:00
-url: /the-difference-between-a-teacher-and-a-learner/
-categories:
-  - Uncategorized
++++
+title = "The Difference Between A Teacher And A Learner"
+date = 2019-05-29
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 What is the difference between teacher and learner?
 
 We could say that learning is the reception of knowledge and teaching is disseminating knowledge. It’s pretty easy to tell in most American classrooms who the learners and teachers are in the classroom. The teachers present themselves differently, they’re usually at the front of the class and the center of attention. 

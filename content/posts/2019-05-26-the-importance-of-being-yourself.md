@@ -1,13 +1,13 @@
----
-title: The Importance of Being Yourself
-author: ziahassan
-type: post
-date: 2019-05-26T17:05:50+00:00
-url: /the-importance-of-being-yourself/
-categories:
-  - Uncategorized
++++
+title = "The Importance Of Being Yourself"
+date = 2019-05-26
++++
 
----
++++
+title = "05"
+date = 2019
++++
+
 Most of the positive messages I heard growing up were some form or another of “be yourself.” In my experience, the be yourself messages are rampant the younger you are, and start to change when you get older.
 
 Because at some point, probably in High School, you’ll get the idea from the adults in your life that yes, it’s good to be yourself, but you’ll probably have to conform if you want to be accepted into a part of society that will help make you a lot of money so you don’t end up homeless and broke.

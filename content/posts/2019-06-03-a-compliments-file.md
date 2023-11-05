@@ -1,13 +1,13 @@
----
-title: A Compliments File
-author: ziahassan
-type: post
-date: 2019-06-04T00:23:16+00:00
-url: /a-compliments-file/
-categories:
-  - Uncategorized
++++
+title = "A Compliments File"
+date = 2019-06-03
++++
 
----
++++
+title = "06"
+date = 2019
++++
+
 I keep a journal in an app called Day One. While I don’t think everyone should use this app necessarily, it has a great tagging feature. I tag everything in it from good days to bad days, days where I’ve felt tired, symptoms I’ve had, any interesting changes in my child.
 
 A few years ago, someone sent me an incredible email complimenting my music. Apparently, this person had been listening to my tunes for about a decade and felt the need to write me about how much my music has helped them along their journey. It validated everything I do with my art. Made every single painstaking decision, cut, mix, whatever, all worthwhile.

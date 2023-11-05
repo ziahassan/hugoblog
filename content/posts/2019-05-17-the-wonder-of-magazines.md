@@ -1,13 +1,8 @@
----
-title: The Wonder of Magazines
-author: ziahassan
-type: post
-date: 2019-05-17T16:08:32+00:00
-url: /the-wonder-of-magazines/
-categories:
-  - Uncategorized
++++
+title = "The Wonder Of Magazines"
+date = 2019-05-17
++++
 
----
 During my social media fast during the month of March, I found myself less interested in my phone when I was bored, say, sitting in a waiting room. So in these cases, I would usually resort to listening to music, or leaning into the boredom, which enhanced my creative thoughts and spurred new ideas. 
 
 But in waiting rooms, I noticed something that I hadn’t really noticed in a while &#8211; magazines. The interesting thing about magazines in today’s world is that they don’t need to be create click-baity headlines. Now, I’m not referring to the ones you see at the grocery store, because those have _always_ been clickbait. But the ones you find in say, a psychologists office, can exist on their own, without the need to draw you in. 

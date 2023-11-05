@@ -1,13 +1,8 @@
----
-title: Beloved Artists
-author: ziahassan
-type: post
-date: 2019-01-05T21:36:50+00:00
-url: /beloved-artists/
-categories:
-  - Uncategorized
++++
+title = "Beloved Artists"
+date = 2019-01-05
++++
 
----
 There was a time in my music career when I wanted to be famous. I dreamed of playing to huge audiences at large amphitheaters. I loved the idea of thousands of fans buying my records. If there was a word for what I wanted, it was _glory_.
 
 Then I read Steven Pressfield’s _War of Art_ and in the first chapter, he talks about how this kind of thinking is the behavior of an amateur. That wanting fame and glory and rose petals thrown at you is detrimental to the actual creative process, which can be grueling, lonely, and thankless.

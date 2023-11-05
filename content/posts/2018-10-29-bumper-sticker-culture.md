@@ -1,13 +1,13 @@
----
-title: Bumper Sticker Culture
-author: ziahassan
-type: post
-date: 2018-10-29T19:42:50+00:00
-url: /bumper-sticker-culture/
-categories:
-  - Uncategorized
++++
+title = "Bumper Sticker Culture"
+date = 2018-10-29
++++
 
----
++++
+title = "10"
+date = 2018
++++
+
 Have you ever seen a bumper sticker while driving that either enrages you or makes you fist bump your steering wheel?
 
 Have you ever wondered who sits in that car and what they do with their days?

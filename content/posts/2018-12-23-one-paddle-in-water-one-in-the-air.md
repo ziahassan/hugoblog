@@ -1,13 +1,8 @@
----
-title: One Paddle in Water, One in the Air
-author: ziahassan
-type: post
-date: 2018-12-23T16:08:55+00:00
-url: /one-paddle-in-water-one-in-the-air/
-categories:
-  - Uncategorized
++++
+title = "One Paddle In Water One In The Air"
+date = 2018-12-23
++++
 
----
 In the last year and a half, I changed careers, became a father, and bought a house with my wife.
 
 Each of these experiences went pretty smoothly. My child is healthy and exceedingly happy. The house is perfect for us right now, and my job is flexible, rewarding, and fun.

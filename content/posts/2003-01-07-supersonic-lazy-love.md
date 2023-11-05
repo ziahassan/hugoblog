@@ -1,15 +1,13 @@
----
-title: supersonic lazy love.
-author: ziahassan
-type: post
-date: 2003-01-07T19:41:30+00:00
-draft: true
-private: true
-url: /supersonic-lazy-love/
-categories:
-  - Uncategorized
++++
+title = "Supersonic Lazy Love"
+date = 2003-01-07
++++
 
----
++++
+title = "01"
+date = 2003
++++
+
 &nbsp; A very eventful day in the life of the Z.
 
 I woke up at 5:15, COMPLETELY expecting a 2 hour delay. The worst thing is, my mom walked in my room and started picking stuff up off the ground without saying anything&#8230; I figured maybe she was letting me sleep, since it was a 2 hour delay. Then she said "Isn't about time to get up?" I was so mad. All I wanted was two more hours of sleep. I am really staying up late these days. I mean it's like 11:15 right now. That is late for me. My eyes are completely bloodshot.

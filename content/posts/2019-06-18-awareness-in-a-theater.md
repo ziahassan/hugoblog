@@ -1,13 +1,8 @@
----
-title: Awareness in a Theater
-author: ziahassan
-type: post
-date: 2019-06-18T17:27:08+00:00
-url: /awareness-in-a-theater/
-categories:
-  - Uncategorized
++++
+title = "Awareness In A Theater"
+date = 2019-06-18
++++
 
----
 The other night, I had the pleasure of seeing one of my best friends on stage on at the Kennedy Center. The show he was in was a really interesting piece, full of wonder and introspection. 
 
 During some of the more abstract moments, I found myself becoming aware, like I would in sitting meditation. All senses just scanning the dark room, directing my attention to each one: the faint stream of air from the conditioner, the stage lights creating a mist in the air&#8230;
