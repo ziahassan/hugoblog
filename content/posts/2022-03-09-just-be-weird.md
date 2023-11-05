@@ -1,13 +1,17 @@
----
-title: Just Be Weird
-author: ziahassan
-type: post
-date: 2022-03-10T03:02:02+00:00
-url: /just-be-weird/
-categories:
-  - Uncategorized
-
----
++++
+title = "Just be weird"
+date = "2023-10-25T22:27:11-04:00"
+author = ""
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["", ""]
+keywords = ["", ""]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
++++
 I’ve had trouble with conforming to society’s expectations for my entire life.
 
 When everyone in art class drew a picture in elementary school, I wrote a poem (in a cool font, I might add).
