@@ -3,11 +3,6 @@ title = "Challenging Friends"
 date = 2020-11-27
 +++
 
-+++
-title = "11"
-date = 2020
-+++
-
 Everyone needs a challenging friend or two.
 
 The type of person who is ready to get in your face, break open your perspectives, and put your viewpoints on trial.

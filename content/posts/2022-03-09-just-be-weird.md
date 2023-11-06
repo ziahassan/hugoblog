@@ -3,10 +3,6 @@ title = "Just Be Weird"
 date = 2022-03-09
 +++
 
-+++
-title = "03"
-date = 2022
-+++
 
 I’ve had trouble with conforming to society’s expectations for my entire life.
 

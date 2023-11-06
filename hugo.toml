@@ -1,72 +1,102 @@
-baseurl = "/"
-languageCode = "en-us"
-theme = "terminal"
-paginate = 5
+baseURL = "http://ziahassan.blog"
+theme = "risotto"
+title = "Zia's Blog"
+author = "Zia Hassan"
+copyright = "Zia Hassan"
+paginate = 10
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+toc = true
+# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
+# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
+ignoreErrors = ["error-remote-getjson"]
+
+
+# Automatically add content sections to main menu
+sectionPagesMenu = "main"
 
 [params]
-  # dir name of your main content (default is `content/posts`).
-  # the list of set content will show up on your index page (baseurl).
-  contentTypeName = "posts"
+noindex = false
 
-  # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+[params.theme]
+palette = "base16-dark"
 
-  # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+# Sidebar: about/bio
+[params.about]
+title = "Zia's Blog"
+description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
+logo = "images/rice.svg"
 
-  # show selector to switch language
-  showLanguageSelector = false
+# Sidebar: social links
+# Available icon sets:
+# * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
+# * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
-  # set theme to full screen width
-  fullWidthTheme = false
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/joeroe/risotto"
 
-  # center theme with default width
-  centerTheme = false
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:example@example.com"
 
-  # set a custom favicon (default is a `themeColor` square)
-  # favicon = "favicon.ico"
+[[params.socialLinks]]
+icon = "ai ai-orcid"
+title = "ORCID"
+url = "https://orcid.org/0000-0001-2345-6789"
 
-  # set post to show the last updated
-  # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
-  # Provide a string as a prefix for the last update date. By default, it looks like this: 2020-xx-xx [Updated: 2020-xx-xx] :: Author
-  # updatedDatePrefix = "Updated"
+[menu]
 
-  # set all headings to their default size (depending on browser settings)
-  # it's set to `true` by default
-  # oneHeadingSize = false
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
 
-[params.twitter]
-  # set Twitter handles for Twitter cards
-  # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
-  # do not include @
-  creator = ""
-  site = ""
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
 
-[languages]
-  [languages.en]
-    languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
-    owner = ""
-    keywords = ""
-    copyright = ""
-    menuMore = "Show more"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+# For hugo >= 0.60.0, enable inline HTML
+[markup.goldmark.renderer]
+unsafe = true
 
-    [languages.en.params.logo]
-      logoText = "Terminal"
-      logoHomeLink = "/"
+[markup]
 
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
+  # Table of contents
+  # Add toc = true to content front matter to enable
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel   = 3
+    ordered    = true
+
+[privacy]
+
+  [privacy.vimeo]
+    disabled = false
+    simple = true
+
+  [privacy.twitter]
+    disabled = false
+    enableDNT = true
+    simple = true
+
+  [privacy.instagram]
+    disabled = false
+    simple = true
+
+  [privacy.youtube]
+    disabled = false
+    privacyEnhanced = true
+
+[services]
+
+  [services.instagram]
+    disableInlineCSS = true
+
+  [services.twitter]
+    disableInlineCSS = true
