@@ -1,5 +1,5 @@
 baseURL = "https://hugoblog-6m3.pages.dev"
-theme = "hugo-bearblog"
+theme = "risotto"
 title = "Zia's Blog"
 author = "Zia Hassan"
 copyright = "Zia Hassan"
@@ -25,7 +25,7 @@ palette = "base16-dark"
 # Sidebar: about/bio
 [params.about]
 title = "Zia's Blog"
-description = "A [hugo](https://gohugo.io) theme inspired by terminal ricing."
+description = "thoughts & ideas"
 logo = "images/rice.svg"
 
 # Sidebar: social links
@@ -33,20 +33,14 @@ logo = "images/rice.svg"
 # * FontAwesome 6 <https://fontawesome.com/> ('fa-brands', 'fa-normal', or 'fa-solid' for brands)
 # * Academicons <https://jpswalsh.github.io/academicons> ('ai ai-')
 
-[[params.socialLinks]]
-icon = "fa-brands fa-github"
-title = "GitHub"
-url = "https://github.com/joeroe/risotto"
+
 
 [[params.socialLinks]]
 icon = "fa-solid fa-envelope"
 title = "Email"
-url = "mailto:example@example.com"
+url = "zia@ziahassan.coach"
 
-[[params.socialLinks]]
-icon = "ai ai-orcid"
-title = "ORCID"
-url = "https://orcid.org/0000-0001-2345-6789"
+
 
 [menu]
 

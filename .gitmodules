@@ -16,3 +16,6 @@
 [submodule "themes/hugo-bearblog"]
 	path = themes/hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "no-style-please"]
+	path = no-style-please
+	url = https://github.com/riggraz/no-style-please/
