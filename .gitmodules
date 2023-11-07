@@ -4,3 +4,12 @@
 [submodule "themes/risotto"]
 	path = themes/risotto
 	url = https://github.com/joeroe/risotto.git
+[submodule "hugo-theme-nostyleplease"]
+	path = hugo-theme-nostyleplease
+	url = https://github.com/g-hw/hugo-theme-nostyleplease
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/themes/elephants"]
+	path = themes/themes/elephants
+	url = https://gitlab.com/meibenny/elephants.git
