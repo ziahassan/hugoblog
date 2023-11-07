@@ -1,5 +1,5 @@
 baseURL = "https://hugoblog-6m3.pages.dev"
-theme = "hugo-theme-console"
+theme = "hugo-bearblog"
 title = "Zia's Blog"
 author = "Zia Hassan"
 copyright = "Zia Hassan"

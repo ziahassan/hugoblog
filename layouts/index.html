@@ -6,6 +6,14 @@
 Console is a minimal, responsive and light theme for Hugo inspired by Linux console.  <a href="about/">(more)</a>
 </p>
 <br/>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search", showSubResults: true });
+    });
+</script>
 
 <h1>Latest posts</h1>
 

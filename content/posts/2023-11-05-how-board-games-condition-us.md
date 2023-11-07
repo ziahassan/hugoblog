@@ -2,6 +2,8 @@
 Title = "How Board Games Condition Us"
 Date = 2023-11-05
 +++
+# How Board Games Condition Us
+
 I distinctly remember playing board games with my mom, dad, and sister when I was growing up.
 
 We kept them in this tiny, narrow crevice under my bunkbed, which usually meant we'd play the games in my bedroom.
