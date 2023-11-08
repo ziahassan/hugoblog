@@ -1,3 +1,7 @@
++++
+Title = "Eyes on the Prize"
+Date = 2023-11-07
++++
 If you're a skier, going down the hill, your eyes aren't on the trees.
 
 Your eyes are on the snow.
