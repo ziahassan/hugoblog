@@ -1,6 +1,7 @@
 +++
 title = "Nick Blaemire Is King"
 date = 2002-01-19
+draft = true
 +++
 
 Well to explain my subject we saw Blood Brothers tonight at Northwest (broadway bound put it on) and 3 of my good friends were leads&#8230; and I was extremely impressed with all of them. Jesus, my boy Blaemire, I really hadn't seen him on stage for a while. Since west side actually, I'm pretty sure. And good lord, I was proud to say I knew him&#8230; and amy, jesus christ, and of course danny. They put on a great show. If your reading this on saturday morning, go the show tonight at northwest high school for 8 bucks at 8 o clock. WOW.

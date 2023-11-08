@@ -1,6 +1,7 @@
 +++
 title = "Staring At The Ceiling 2"
 date = 2002-03-06
+draft = true
 +++
 
 I could spend all the time spent trying to entertain you  

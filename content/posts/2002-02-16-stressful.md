@@ -1,6 +1,7 @@
 +++
 title = "Stressful"
 date = 2002-02-16
+draft = true
 +++
 
 I'm always in two different kinds of moods. The headphone mood, or the stereo mode. Meaning that sometimes I'm in the type of mood where I'll want to just sit and listen to my headphones. It's like having a warm shower. Which I never get anymore mind you, my sister wakes up before me and takes the absolute hottest shower. living NO HOT WATER FOR ME.

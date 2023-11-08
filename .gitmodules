@@ -19,3 +19,9 @@
 [submodule "no-style-please"]
 	path = no-style-please
 	url = https://github.com/riggraz/no-style-please/
+[submodule "themes/hugo-bearcub"]
+	path = themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "themes/maverick"]
+	path = themes/maverick
+	url = https://github.com/canhtran/maverick.git

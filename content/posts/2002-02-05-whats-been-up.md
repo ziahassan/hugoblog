@@ -1,6 +1,7 @@
 +++
 title = "Whats Been Up"
 date = 2002-02-05
+draft = true
 +++
 
 The new semester is bittersweet. I have some fuckin' easy classes, and some fuckin' hard ones as well. My caclulus teacher stayed the same, just my luck, and she's a nice woman, and a good teacher&#8230; but I just, don't like calculus. Why can't anyone understand that I'll never need it? When I try to tell anyone that they give me this look like "calculus! of course you'll need it! you can't fly a kite without knowing pythagorean's theorem!"

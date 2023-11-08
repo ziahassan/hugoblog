@@ -1,6 +1,7 @@
 +++
 title = "Some People Rock"
 date = 2002-01-13
+draft = true
 +++
 
 +++

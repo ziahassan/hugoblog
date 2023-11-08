@@ -1,6 +1,7 @@
 +++
 title = "Cast Parties Are Awesome Sorta"
 date = 2002-01-13
+draft = true
 +++
 
 hit parade was damn fun last night. the cast party was soooo great, all the theater guys know how to have a good time.  

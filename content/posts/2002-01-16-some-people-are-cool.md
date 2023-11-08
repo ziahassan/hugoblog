@@ -1,6 +1,7 @@
 +++
 title = "Some People Are Cool"
 date = 2002-01-16
+draft = true
 +++
 
 +++
