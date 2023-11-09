@@ -1,6 +1,6 @@
-baseURL = "https://hugoblog-6m3.pages.dev"
+baseURL = "https://ziahassan.blog"
 theme = "hugo-bearblog"
-title = "Zia's Blog"
+title = "Zia Hassan"
 author = "Zia Hassan"
 copyright = "Zia Hassan"
 paginate = 10
