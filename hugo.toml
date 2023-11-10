@@ -1,5 +1,5 @@
 baseURL = "https://ziahassan.blog"
-theme = "hugo-bearblog"
+theme = "PaperMod"
 title = "Zia Hassan"
 author = "Zia Hassan"
 copyright = "Zia Hassan"
