@@ -1,7 +1,7 @@
 +++
-date: 2023-11-22
-permalink: analogvsdigital
-draft: false
+date = 2023-11-22
+permalink = analogvsdigital
+draft = false
 +++
 I've been thinking deeply about the way in which I use digital and analog tools.
 
