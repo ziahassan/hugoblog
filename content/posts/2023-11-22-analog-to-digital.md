@@ -1,7 +1,7 @@
 +++
 date = 2023-11-22
-permalink = analogvsdigital
 draft = false
+title = "Analog vs. Digital tools"
 +++
 I've been thinking deeply about the way in which I use digital and analog tools.
 
@@ -20,4 +20,4 @@ You can't query a notebook.
 
 But for daily plans, weekly spreads, future logs, collections, etc. I'm starting to think that something like the Bullet Journal may be the best way to go.
 
-Together, the Bullet Journal and something like Obsidian could bring order to chaos.
+Together, the Bullet Journal and something like Obsidian (and perhaps a robust task manager such as Omnifocus or Todoist or Things3) could bring order to chaos.
