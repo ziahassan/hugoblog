@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/2023-11-22-analog-to-digital.md",
+                "file": "content/posts/2002-03-05-staring-at-the-ceiling.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/2023-11-22-analog-to-digital.md",
+                "file": "content/posts/2002-03-05-staring-at-the-ceiling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/2023-11-22-analog-to-digital.md",
+                "file": "content/posts/2002-03-05-staring-at-the-ceiling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/2023-11-22-analog-to-digital.md"
+                "file": "content/posts/2002-03-05-staring-at-the-ceiling.md"
               }
             }
           }
@@ -147,9 +147,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d9217008aae3c94f",
+  "active": "61093f8fd548f0f8",
   "lastOpenFiles": [
-    "content/posts/2002-01-12-i-cant-believe-im-doing-this.md",
-    "content/posts/2023-11-22-analog-to-digital.md"
+    "content/posts/2002-02-26-am-i-really-that-important-to-you.md",
+    "content/posts/2002-02-07-being-down.md",
+    "content/posts/2002-02-11-sleep.md",
+    "content/posts/2002-01-31-first-day-2.md",
+    "content/posts/2002-01-16-some-people-are-cool.md",
+    "content/posts/2023-11-22-analog-to-digital.md",
+    "content/posts/2002-01-12-i-cant-believe-im-doing-this.md"
   ]
 }

@@ -2,6 +2,7 @@
 date = 2023-11-22
 draft = false
 title = "Analog vs. Digital tools"
+slug = "analogvsdigital"
 +++
 I've been thinking deeply about the way in which I use digital and analog tools.
 
