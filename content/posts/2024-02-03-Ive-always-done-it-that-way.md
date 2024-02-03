@@ -1,6 +1,3 @@
----
-tags: []
----
 +++
 date = 2024-02-03
 draft = false
