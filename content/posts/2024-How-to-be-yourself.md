@@ -25,4 +25,6 @@ I can make my life a practice of making errors, blunders, and left turns.
 
 And I can grow alongside the rest of the people in my life.
 
+Here's a little typing test for the corne keyboard. I am indeed becoming more proficient with it. It feels like I do have to move around a bit less and I can now see why people 12
+
 
