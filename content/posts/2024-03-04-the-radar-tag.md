@@ -17,4 +17,4 @@ During my weekly review, one of the steps is to filter my task system for the ra
 
 The radar tag fits a category of task that would sometimes go under the radar for too long, and by the time the task surfaced in my giant ocean of tasks, it felt overwhelming to get started. 
 
-The best way to get projects done, in my opinion, _especially_ those with far off due dates, is to get tiny pieces done in advance. The radar tag is one tool I use to do exactly that. 
+The best way to get projects done, in my opinion, _especially_ those with far off due dates, is to get tiny pieces done in advance. The radar tag is one tool I use to do exactly that.
