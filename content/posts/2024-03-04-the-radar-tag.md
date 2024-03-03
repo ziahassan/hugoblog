@@ -3,6 +3,7 @@ date = 2024-03-03
 draft = false
 title = "The Radar Tag" 
 +++
+
 In my task management system, I employ tags to keep things organized.
 
 The most common ones are my tags that relate to energy. This allows me to filter my tasks depending on what kind of energy I'm currently experiencing. Am I #braindead after a long day of work? Or, am I in #seriouscoffeedeepwork mode? Or something in between like #adminrespondtoemail mode?
