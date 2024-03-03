@@ -1,7 +1,7 @@
 +++
 date = 2024-02-28
 draft = false 
-title = "Career coaching is life coaching"
+title = "Career coaching is life coaching"2
 +++
 
 I used to tell potential clients that I'm a life coach who specializes in careers.
