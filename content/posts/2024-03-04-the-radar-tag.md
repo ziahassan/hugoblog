@@ -8,7 +8,7 @@ In my task management system, I employ tags to keep things organized.
 
 The most common ones are my tags that relate to energy. This allows me to filter my tasks depending on what kind of energy I'm currently experiencing. Am I #braindead after a long day of work? Or, am I in #seriouscoffeedeepwork mode? Or something in between like #adminrespondtoemail mode?
 
-I also tend to use a category of tags around roles. Am I looking for tasks that relate to being a #parent? Or perhaps tasks that are related to being a #solopreneuer? Or a #researcher?
+I also tend to use a category of tags around roles. Am I looking for tasks that relate to being a #parent? Or perhaps tasks that are related to being a #solopreneuer? 
 
 One of the most important tags in the system, however, is the radar tag. This goes beyond a simple priority star, or a signifying letter.
 

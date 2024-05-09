@@ -1,7 +1,7 @@
-+++
-title = "Yucking The Yum No Guilty Pleasures"
-date = 2018-02-06
-+++
+---
+aliases:
+  - There are no guilty pleasures
+---
 
 “Yucking someone’s yum” could be defined as being overly negative about something that someone else is fond of, in front of them.
 
