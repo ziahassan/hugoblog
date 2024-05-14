@@ -1,5 +1,3 @@
-2024-05-14-Knowing-you-better
-
 +++
 date = 2024-05-14
 draft = false
