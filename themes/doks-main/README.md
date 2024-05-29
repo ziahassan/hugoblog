@@ -30,7 +30,7 @@ New contributors welcome! Check out our [Contributor Guides](https://getdoks.org
 
 ## Links
 
-- [License (MIT)](LICENSE)
+- [License (MIT)](HugoBlog/blog1/themes/doks-main/LICENSE)
 - [Code of Conduct](https://github.com/gethyas/.github/blob/main/CODE_OF_CONDUCT.md)
 - [Project Funding](.github/FUNDING.md)
 - [Website](https://getdoks.org/)
