@@ -1,6 +1,7 @@
 +++
 title = "Note To Future Self"
 date = 2003-01-25
+draft = true
 +++
 
 +++
