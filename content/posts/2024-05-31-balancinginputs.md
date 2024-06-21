@@ -11,6 +11,8 @@ From [[Zettelkasten/Cards/Thinkers/Austin Kleon|Austin Kleon]]:
 
 This is also related to the [[Zettelkasten/Cards/Concepts/Second screen]] effect. The need to have "something on in the background" while working on something else.
 
+This is also related to the [[Second screen]] effect. The need to have "something on in the background" while working on something else.
+
 What if we just did the chill out activity? 
 
 What if I committed to watching an entire season of Love Island? 

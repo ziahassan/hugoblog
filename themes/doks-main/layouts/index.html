@@ -1,0 +1,15 @@
+{{ define "main" }}
+
+
+    {{ range .Paginator.Pages }}
+        <article>
+            <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+            <time>{{ .Date.Format "January 2, 2006" }}</time>
+            <p>{{ .Summary }}</p>
+            <a href="{{ .Permalink }}">Read more...</a>
+        </article>
+    {{ end }}
+    {{ .Paginator.Pages }}
+{{ end }}
+
+

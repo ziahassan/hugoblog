@@ -1,0 +1,33 @@
+[submodule "themes/terminal"]
+	path = themes/terminal
+	url = https://github.com/panr/hugo-theme-terminal.git
+[submodule "themes/risotto"]
+	path = themes/risotto
+	url = https://github.com/joeroe/risotto.git
+[submodule "hugo-theme-nostyleplease"]
+	path = hugo-theme-nostyleplease
+	url = https://github.com/g-hw/hugo-theme-nostyleplease
+[submodule "themes/hugo-theme-console"]
+	path = themes/hugo-theme-console
+	url = https://github.com/mrmierzejewski/hugo-theme-console.git
+[submodule "themes/themes/elephants"]
+	path = themes/themes/elephants
+	url = https://gitlab.com/meibenny/elephants.git
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "no-style-please"]
+	path = no-style-please
+	url = https://github.com/riggraz/no-style-please/
+[submodule "themes/hugo-bearcub"]
+	path = themes/hugo-bearcub
+	url = https://github.com/clente/hugo-bearcub
+[submodule "themes/maverick"]
+	path = themes/maverick
+	url = https://github.com/canhtran/maverick.git
+[submodule "themes/hugo-texify3"]
+	path = themes/hugo-texify3
+	url = https://github.com/michaelneuper/hugo-texify3.git
+[submodule "themes/beautifulhugo"]
+	path = themes/beautifulhugo
+	url = https://github.com/halogenica/beautifulhugo.git
