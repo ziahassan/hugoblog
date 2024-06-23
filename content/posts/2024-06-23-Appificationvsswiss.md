@@ -7,7 +7,7 @@ slug = "appfication"
 
 App-ification" or "Swiss Army Knife"?  
   
-This article reminds me of a core idea of mine, one that has been brewing over the course of the last couple of years.  
+This [article](https://jeppestricker.substack.com/p/how-generative-ai-diminishes-our) reminds me of a core idea of mine, one that has been brewing over the course of the last couple of years.  
   
 Will AI tools become "appified?" Meaning, will models like GPT and Claude get wrapped into a million little apps that each solve a specific problem? This means that most people won't be concerned with prompts and chats, but will just use apps the way they always have, this time with a layer of Generative AI as a feature.  
   
