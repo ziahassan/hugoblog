@@ -1,8 +1,8 @@
 +++
 date = 2024-10-22
 draft = false
-title = ""
-slug = ""
+title = "Learning from an intermediate"
+slug = "intermediate"
 +++
 
 If you wanted to learn to play basketball, would you rather learn it from the champion of your local high school basketball team, or from Michael Jordan?
