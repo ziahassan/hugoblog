@@ -3,11 +3,6 @@ title = "Burn Freely"
 date = 2018-02-01
 +++
 
-+++
-title = "02"
-date = 2018
-+++
-
 I had dinner with a friend tonight. Someone I respect that I once reached out to interview for a podcast, and then reconnected with randomly in my new job. 
 
 We talked about a lot of things. But mostly we talked about our careers, and why we choose to work in education. Eventually, we moved into reasons why people choose the work that they do in general.
@@ -29,4 +24,4 @@ But what does it mean to _burn freely_? I don’t know, but perhaps it’s:
 
 A stronger fire spreads more quickly, after all.
 
- [1]: (https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B0076DDBJ6/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1517456263&sr=1-4&keywords=cal+newport)
+ [1](https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B0076DDBJ6/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1517456263&sr=1-4&keywords=cal+newport)
