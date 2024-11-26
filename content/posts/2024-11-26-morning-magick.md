@@ -5,7 +5,7 @@ title = "Morning Magick"
 slug = "morningmagick"
 +++
 
-The first things I do on most days of the year is make coffee.
+The first thing I do on most days of the year is make coffee.
 
 It's nothing fancy. I make a pot for myself and my wife.
 
