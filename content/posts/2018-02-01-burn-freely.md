@@ -22,6 +22,6 @@ But what does it mean to _burn freely_? I don’t know, but perhaps it’s:
   * wearing your beliefs and passions on your sleeve and being open to change but firm in your confidence;
   * allowing others to burn freely too and stoking their flames as much as possible. 
 
-A stronger fire spreads more quickly, after all.
+A stronger fire spreads more quickly, after all...
 
  [1](https://www.amazon.com/Good-They-Cant-Ignore-You-ebook/dp/B0076DDBJ6/ref=sr_1_4?s=digital-text&ie=UTF8&qid=1517456263&sr=1-4&keywords=cal+newport)
