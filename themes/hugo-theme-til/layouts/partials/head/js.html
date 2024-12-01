@@ -1,6 +1,6 @@
 {{- with resources.Get "ts/main.ts" }}
   {{- $opts := dict "targetPath" "js/main.js" -}}
-  {{- if hugo.IsDevelopment }}
+  {{ if (hugo.IsDevelopment | default false) }}
     {{- with . | js.Build $opts }}
       <script src="{{ .RelPermalink }}" defer></script>
     {{- end }}
