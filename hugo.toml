@@ -36,3 +36,11 @@ enableRobotsTXT = true # IMPORTANT: set to true if you want to use the theme's g
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
         block = true
+
+[params]
+  IsDevelopment = false
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+ignoreLogs = ['warning-goldmark-raw-html']
